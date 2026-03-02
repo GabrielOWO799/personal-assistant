@@ -1,11 +1,35 @@
 #!/bin/bash
 # AI Agent Daily Report - 9:00 AM (中文版)
+# Enhanced with detailed logging and error handling
+
+# Create logs directory if not exists
+mkdir -p /home/admin/.openclaw/workspace/logs
+
+# Set up logging
+LOG_FILE="/home/admin/.openclaw/workspace/logs/ai_agent_daily_$(date +%Y%m%d).log"
+echo "=== AI Agent Daily Report Task Started ===" >> "$LOG_FILE"
+echo "Execution Time: $(date)" >> "$LOG_FILE"
+echo "Current Working Directory: $(pwd)" >> "$LOG_FILE"
+echo "Python Path: $(which python3)" >> "$LOG_FILE"
+echo "Python Version: $(python3 --version 2>&1)" >> "$LOG_FILE"
+
 cd /home/admin/.openclaw/workspace
 
-# 使用SearXNG获取最新的AI新闻（中文）
-python3 scripts/searxng_search.py "AI智能体 最新进展 24小时" "news" "zh" 10 > /tmp/ai_news.json
+# Count pending messages
+PENDING_COUNT=$(ls /home/admin/.openclaw/workspace/messages/pending/ 2>/dev/null | wc -l)
+echo "Pending Messages Count: $PENDING_COUNT" >> "$LOG_FILE"
 
-# 检查GitHub同步状态
+# Use Python 3.8 for SearXNG search
+echo "Using Python 3.8 for SearXNG search..." >> "$LOG_FILE"
+/usr/bin/python3.8 scripts/searxng_search.py "AI智能体 最新进展 24小时" "news" "zh" 10 > /tmp/ai_news.json 2>> "$LOG_FILE"
+
+# Check if search was successful
+if [ ! -f "/tmp/ai_news.json" ] || [ ! -s "/tmp/ai_news.json" ]; then
+    echo "Search failed, using fallback data" >> "$LOG_FILE"
+    echo '{"results": [{"title": "暂无最新AI资讯", "url": "#", "content": "请稍后再试", "engine": "备用数据", "published_date": "未知时间"}]}' > /tmp/ai_news.json
+fi
+
+# Check GitHub sync status
 GITHUB_SYNC_STATUS="未配置"
 if [ -f ".github_sync_config" ]; then
     if git remote get-url origin >/dev/null 2>&1; then
@@ -15,17 +39,17 @@ if [ -f ".github_sync_config" ]; then
     fi
 fi
 
-# 检查每日维护状态
+# Check daily maintenance status
 MAINTENANCE_STATUS="未执行"
 if [ -f "memory/index.json" ]; then
-    LAST_UPDATED=$(cat memory/index.json | jq -r '.last_updated')
+    LAST_UPDATED=$(cat memory/index.json | jq -r '.last_updated' 2>/dev/null || echo "")
     TODAY=$(date +%Y-%m-%d)
     if [[ "$LAST_UPDATED" == *"$TODAY"* ]]; then
         MAINTENANCE_STATUS="✅ 已于今日 $(date -d "$LAST_UPDATED" +%H:%M:%S) 成功完成"
     fi
 fi
 
-# 生成日报内容
+# Generate report content
 REPORT_FILE="/tmp/daily_report_$(date +%Y%m%d).md"
 cat > "$REPORT_FILE" << EOF
 # AI智能体早报 - $(date +%Y年%m月%d日)
@@ -34,8 +58,8 @@ cat > "$REPORT_FILE" << EOF
 
 EOF
 
-# 添加新闻内容（包含时间和来源链接）
-python3 -c "
+# Add news content with time and source links
+/usr/bin/python3.8 -c "
 import json
 import re
 from datetime import datetime, timedelta
@@ -51,7 +75,7 @@ if 'results' in data and len(data['results']) > 0:
         published_date = result.get('published_date', '未知时间')
         engine = result.get('engine', '未知来源')
         
-        # 格式化输出
+        # Format output
         print(f'### {i}. [{title}]({url})')
         print(f'- **发布时间**: {published_date}')
         print(f'- **来源**: {engine}')
@@ -59,7 +83,7 @@ if 'results' in data and len(data['results']) > 0:
         print()
 else:
     print('暂无最新AI资讯')
-"
+" >> "$REPORT_FILE" 2>> "$LOG_FILE"
 
 cat >> "$REPORT_FILE" << EOF
 
@@ -87,8 +111,17 @@ cat >> "$REPORT_FILE" << EOF
 由太太生成于 $(date)
 EOF
 
-# 发送消息到Feishu - 使用修复后的消息推送方式
-/scripts/message_sender.sh "AI智能体早报" "$REPORT_FILE"
+# Send message to Feishu - Using fixed message sender
+echo "Preparing to send message to Feishu..." >> "$LOG_FILE"
+echo "Title: AI智能体早报" >> "$LOG_FILE"
+echo "Content length: $(wc -c < "$REPORT_FILE") characters" >> "$LOG_FILE"
 
-# 记录生成日志
+# Use the main process to send the message directly
+./scripts/message_sender_fixed.sh "AI智能体早报" "$REPORT_FILE" >> "$LOG_FILE" 2>&1
+
+# Log completion
+echo "AI Agent Daily Report generated at $(date)" >> "$LOG_FILE"
+echo "=== AI Agent Daily Report Task Completed ===" >> "$LOG_FILE"
+
+# Record generation log
 echo "AI Agent Daily Report generated at $(date)" >> memory/$(date +%Y-%m-%d).md 2>/dev/null || touch memory/$(date +%Y-%m-%d).md && echo "AI Agent Daily Report generated at $(date)" >> memory/$(date +%Y-%m-%d).md

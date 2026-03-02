@@ -1,0 +1,32 @@
+{
+  "rss_sources": [
+    {
+      "name": "GitHub Jobs - AI",
+      "url": "https://jobs.github.com/positions.xml?description=ai&location=shenzhen",
+      "category": "tech",
+      "enabled": true
+    },
+    {
+      "name": "Stack Overflow Jobs - AI",
+      "url": "https://stackoverflow.com/jobs/feed?searchTerm=ai&location=Shenzhen",
+      "category": "tech",
+      "enabled": true
+    },
+    {
+      "name": "Indeed RSS - AI深圳",
+      "url": "https://www.indeed.com/rss?q=ai&l=shenzhen",
+      "category": "tech",
+      "enabled": true
+    }
+  ],
+  "keywords": [
+    "AI Agent",
+    "智能体", 
+    "大模型",
+    "LangChain",
+    "AutoGen", 
+    "RAG",
+    "Agent",
+    "LLM"
+  ]
+}

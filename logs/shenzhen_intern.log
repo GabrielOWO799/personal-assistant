@@ -1,0 +1,672 @@
+=== 深圳AI Agent实习岗位推送任务开始 ===
+执行时间: Mon Mar  2 02:30:59 PM CST 2026
+当前工作目录: /home/admin/.openclaw/workspace
+Python路径: /usr/bin/python3
+Python版本: Python 3.6.8
+Pending消息数量: 7
+正在搜索深圳AI Agent相关实习岗位...
+搜索关键词: 深圳 AI Agent 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 1/3): 深圳 AI Agent 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 2/3): 深圳 AI Agent 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 3/3): 深圳 AI Agent 实习
+搜索最终失败: 深圳 AI Agent 实习
+搜索关键词: 深圳 智能体开发 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 1/3): 深圳 智能体开发 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 2/3): 深圳 智能体开发 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 3/3): 深圳 智能体开发 实习
+搜索最终失败: 深圳 智能体开发 实习
+搜索关键词: 深圳 大模型应用 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 1/3): 深圳 大模型应用 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 2/3): 深圳 大模型应用 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 3/3): 深圳 大模型应用 实习
+搜索最终失败: 深圳 大模型应用 实习
+搜索关键词: 深圳 LangChain 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 1/3): 深圳 LangChain 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 2/3): 深圳 LangChain 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 3/3): 深圳 LangChain 实习
+搜索最终失败: 深圳 LangChain 实习
+搜索关键词: 深圳 AutoGen 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 1/3): 深圳 AutoGen 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 2/3): 深圳 AutoGen 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 3/3): 深圳 AutoGen 实习
+搜索最终失败: 深圳 AutoGen 实习
+搜索关键词: 深圳 CrewAI 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 1/3): 深圳 CrewAI 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 2/3): 深圳 CrewAI 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 3/3): 深圳 CrewAI 实习
+搜索最终失败: 深圳 CrewAI 实习
+搜索关键词: 深圳 RAG 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 1/3): 深圳 RAG 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 2/3): 深圳 RAG 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 3/3): 深圳 RAG 实习
+搜索最终失败: 深圳 RAG 实习
+搜索关键词: 深圳 Prompt Engineering 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 1/3): 深圳 Prompt Engineering 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 2/3): 深圳 Prompt Engineering 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 3/3): 深圳 Prompt Engineering 实习
+搜索最终失败: 深圳 Prompt Engineering 实习
+搜索关键词: 深圳 人工智能智能体 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 1/3): 深圳 人工智能智能体 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 2/3): 深圳 人工智能智能体 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 3/3): 深圳 人工智能智能体 实习
+搜索最终失败: 深圳 人工智能智能体 实习
+搜索关键词: 深圳 LLM 应用 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 1/3): 深圳 LLM 应用 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 2/3): 深圳 LLM 应用 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 3/3): 深圳 LLM 应用 实习
+搜索最终失败: 深圳 LLM 应用 实习
+准备发送消息...
+准备发送消息到飞书...
+标题: 深圳AI Agent实习岗位日报
+内容长度: 350 字符
+消息已准备就绪，等待主程序发送
+深圳AI Agent实习岗位信息处理完成！
+=== 深圳AI Agent实习岗位推送任务结束 ===
+结束时间: Mon Mar  2 02:31:59 PM CST 2026
+
+=== 深圳AI Agent实习岗位推送任务开始 ===
+执行时间: Mon Mar  2 02:33:08 PM CST 2026
+当前工作目录: /home/admin/.openclaw/workspace
+Python路径: /usr/bin/python3
+Python版本: Python 3.6.8
+Pending消息数量: 7
+正在搜索深圳AI Agent相关实习岗位...
+搜索关键词: 深圳 AI Agent 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 1/3): 深圳 AI Agent 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 2/3): 深圳 AI Agent 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 3/3): 深圳 AI Agent 实习
+搜索最终失败: 深圳 AI Agent 实习
+搜索关键词: 深圳 智能体开发 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 1/3): 深圳 智能体开发 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 2/3): 深圳 智能体开发 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 3/3): 深圳 智能体开发 实习
+搜索最终失败: 深圳 智能体开发 实习
+搜索关键词: 深圳 大模型应用 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 1/3): 深圳 大模型应用 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 2/3): 深圳 大模型应用 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 3/3): 深圳 大模型应用 实习
+搜索最终失败: 深圳 大模型应用 实习
+搜索关键词: 深圳 LangChain 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 1/3): 深圳 LangChain 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 2/3): 深圳 LangChain 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 3/3): 深圳 LangChain 实习
+搜索最终失败: 深圳 LangChain 实习
+搜索关键词: 深圳 AutoGen 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 1/3): 深圳 AutoGen 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 2/3): 深圳 AutoGen 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 3/3): 深圳 AutoGen 实习
+搜索最终失败: 深圳 AutoGen 实习
+搜索关键词: 深圳 CrewAI 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 1/3): 深圳 CrewAI 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 2/3): 深圳 CrewAI 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 3/3): 深圳 CrewAI 实习
+搜索最终失败: 深圳 CrewAI 实习
+搜索关键词: 深圳 RAG 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 1/3): 深圳 RAG 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 2/3): 深圳 RAG 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 3/3): 深圳 RAG 实习
+搜索最终失败: 深圳 RAG 实习
+搜索关键词: 深圳 Prompt Engineering 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 1/3): 深圳 Prompt Engineering 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 2/3): 深圳 Prompt Engineering 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 3/3): 深圳 Prompt Engineering 实习
+搜索最终失败: 深圳 Prompt Engineering 实习
+搜索关键词: 深圳 人工智能智能体 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 1/3): 深圳 人工智能智能体 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 2/3): 深圳 人工智能智能体 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 3/3): 深圳 人工智能智能体 实习
+搜索最终失败: 深圳 人工智能智能体 实习
+搜索关键词: 深圳 LLM 应用 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 1/3): 深圳 LLM 应用 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 2/3): 深圳 LLM 应用 实习
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+搜索失败 (尝试 3/3): 深圳 LLM 应用 实习
+搜索最终失败: 深圳 LLM 应用 实习
+准备发送消息...
+准备发送消息到飞书...
+标题: 深圳AI Agent实习岗位日报
+内容长度: 350 字符
+消息已准备就绪，等待主程序发送
+深圳AI Agent实习岗位信息处理完成！
+=== 深圳AI Agent实习岗位推送任务结束 ===
+结束时间: Mon Mar  2 02:34:08 PM CST 2026
+

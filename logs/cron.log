@@ -95,3 +95,112 @@ Message queued for delivery: 深圳实习岗位日报
 Mon Mar  2 02:00:01 AM CST 2026: Running /home/admin/.openclaw/workspace/scripts/memory_maintenance.sh
 [Mon Mar  2 02:00:01 AM CST 2026] Starting memory maintenance...
 Updated memory index with 8 files
+[master (root-commit) 1ef36d0] Memory maintenance - 2026-03-02
+ 58 files changed, 5997 insertions(+)
+ create mode 100644 .clawhub/lock.json
+ create mode 100644 .github_sync_config
+ create mode 100644 AGENTS.md
+ create mode 100644 BOOTSTRAP.md
+ create mode 100644 HEARTBEAT.md
+ create mode 100644 IDENTITY.md
+ create mode 100644 MEMORY.md
+ create mode 100644 SOUL.md
+ create mode 100644 TOOLS.md
+ create mode 100644 USER.md
+ create mode 100644 logs/cron.log
+ create mode 100644 memory/2026-02-10.md
+ create mode 100644 memory/2026-02-27-ai-toy-weekly-report.md
+ create mode 100644 memory/2026-02-27.md
+ create mode 100644 memory/2026-02-28.md
+ create mode 100644 memory/2026-03-01-lessons.md
+ create mode 100644 memory/2026-03-01-weekly-task.md
+ create mode 100644 memory/2026-03-01.md
+ create mode 100644 memory/ai_toy_weekly_2026-02-27.md
+ create mode 100644 memory/index.json
+ create mode 100644 memory/lessons.md
+ create mode 100644 memory/projects.md
+ create mode 100644 messages/pending/20260228_143254.msg
+ create mode 100644 messages/pending/20260228_143413.msg
+ create mode 100644 messages/pending/20260301_120126.msg
+ create mode 100644 messages/pending/20260301_120315.msg
+ create mode 100644 messages/pending/20260301_140001.msg
+ create mode 100644 reports/ai_agent_daily_2026-02-28.md
+ create mode 100644 reports/ai_agent_daily_2026-03-01.md
+ create mode 100644 reports/ai_toy_weekly_2026-02-27.md
+ create mode 100644 reports/tech_search.json
+ create mode 100755 scripts/ai_agent_daily.sh
+ create mode 100755 scripts/ai_toy_weekly.sh
+ create mode 100644 scripts/ai_weekly_report.sh
+ create mode 100755 scripts/cron_wrapper.sh
+ create mode 100644 scripts/generate_weekly_ai_report.py
+ create mode 100755 scripts/github_sync.sh
+ create mode 100755 scripts/memory_maintenance.sh
+ create mode 100755 scripts/message_sender.sh
+ create mode 100755 scripts/minecraft_mods.sh
+ create mode 100644 scripts/searxng_search.py
+ create mode 100755 scripts/shenzhen_intern.sh
+ create mode 100644 searxng/config/settings.yml
+ create mode 100644 searxng_config/settings.yml
+ create mode 100644 searxng_settings.yml
+ create mode 100644 skills/searxng/.clawhub/origin.json
+ create mode 100644 skills/searxng/.env
+ create mode 100644 skills/searxng/CHANGELOG.md
+ create mode 100644 skills/searxng/PUBLISH.md
+ create mode 100644 skills/searxng/PUBLISHING_CHECKLIST.md
+ create mode 100644 skills/searxng/README.md
+ create mode 100644 skills/searxng/SKILL.md
+ create mode 100644 skills/searxng/_meta.json
+ create mode 100644 skills/searxng/scripts/config/settings.yml
+ create mode 100755 skills/searxng/scripts/run-searxng.sh
+ create mode 100644 skills/searxng/scripts/searxng.py
+ create mode 100644 skills/searxng/scripts/searxng_fixed.py
+ create mode 100644 temp_collab.json
+error: src refspec main does not match any
+error: failed to push some refs to 'origin'
+[Mon Mar  2 02:00:01 AM CST 2026] Memory maintenance completed!
+Mon Mar  2 09:00:01 AM CST 2026: Running /home/admin/.openclaw/workspace/scripts/ai_agent_daily.sh
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+Traceback (most recent call last):
+  File "<string>", line 7, in <module>
+  File "/usr/lib64/python3.6/json/__init__.py", line 299, in load
+    parse_constant=parse_constant, object_pairs_hook=object_pairs_hook, **kw)
+  File "/usr/lib64/python3.6/json/__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.6/json/decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python3.6/json/decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+/home/admin/.openclaw/workspace/scripts/ai_agent_daily.sh: line 91: /scripts/message_sender.sh: No such file or directory
+Mon Mar  2 02:00:01 PM CST 2026: Running /home/admin/.openclaw/workspace/scripts/shenzhen_intern.sh
+正在搜索深圳实习岗位信息...
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+Traceback (most recent call last):
+  File "<string>", line 4, in <module>
+  File "/usr/lib64/python3.6/json/__init__.py", line 299, in load
+    parse_constant=parse_constant, object_pairs_hook=object_pairs_hook, **kw)
+  File "/usr/lib64/python3.6/json/__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.6/json/decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python3.6/json/decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+Message queued for delivery: 深圳实习岗位日报
+深圳实习岗位信息已成功推送！

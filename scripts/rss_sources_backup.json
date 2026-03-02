@@ -1,0 +1,32 @@
+{
+  "rss_sources": [
+    {
+      "name": "Stack Overflow Jobs - AI",
+      "url": "https://stackoverflow.com/jobs/feed?searchTerm=AI&location=Shenzhen",
+      "category": "tech",
+      "enabled": true
+    },
+    {
+      "name": "Indeed 深圳 AI职位",
+      "url": "https://www.indeed.com/rss?q=AI+Agent&l=Shenzhen",
+      "category": "tech",
+      "enabled": true
+    },
+    {
+      "name": "Hacker News Who is Hiring",
+      "url": "https://hnrss.org/jobs",
+      "category": "tech",
+      "enabled": true
+    }
+  ],
+  "keywords": [
+    "AI Agent",
+    "智能体",
+    "大模型",
+    "LangChain", 
+    "AutoGen",
+    "RAG",
+    "深圳",
+    "实习"
+  ]
+}

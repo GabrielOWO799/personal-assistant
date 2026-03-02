@@ -14,6 +14,13 @@ Before doing anything else:
 2. Read `USER.md` — this is who you're helping
 3. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
 4. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
+5. **Apply QMD Context Framework**: Query-Memory-Document processing for all responses
+
+### QMD Context Framework Structure
+- **Query Processing**: `qmd/query/` - Request analysis and intent recognition
+- **Memory Management**: `qmd/memory/` - Personal memory and user preferences  
+- **Document Integration**: `qmd/document/` - External knowledge and skill documentation
+- **Configuration**: `qmd/config/` - System settings and behavioral rules
 
 Don't ask permission. Just do it.
 
