@@ -27,3 +27,55 @@ error: failed to push some refs to 'origin'
 [2026-03-05 02:00:01] Pending messages count: 10
 [2026-03-05 02:00:01] WARNING: Found 10 pending messages that may need processing
 [2026-03-05 02:00:01] SUCCESS: Cron job completed successfully
+[2026-03-05 09:00:01] Starting cron job: /home/admin/.openclaw/workspace/scripts/ai_agent_daily.sh
+[2026-03-05 09:00:01] Current directory: /home/admin/.openclaw/workspace
+[2026-03-05 09:00:01] Python path: /usr/bin/python3
+[2026-03-05 09:00:01] Python version: Python 3.6.8
+[2026-03-05 09:00:01] Environment variables set
+[2026-03-05 09:00:02] Script completed with exit code: 0
+[2026-03-05 09:00:02] Pending messages count: 10
+[2026-03-05 09:00:02] WARNING: Found 10 pending messages that may need processing
+[2026-03-05 09:00:02] SUCCESS: Cron job completed successfully
+[2026-03-05 14:00:01] Starting cron job: /home/admin/.openclaw/workspace/scripts/shenzhen_intern.sh
+[2026-03-05 14:00:01] Current directory: /home/admin/.openclaw/workspace
+[2026-03-05 14:00:01] Python path: /usr/bin/python3
+[2026-03-05 14:00:01] Python version: Python 3.6.8
+[2026-03-05 14:00:01] Environment variables set
+[2026-03-05 14:00:01] === 深圳AI Agent实习岗位链接推送开始 ===
+[2026-03-05 14:00:01] === 深圳AI Agent实习岗位链接推送开始 ===
+[2026-03-05 14:00:01] 搜索: 深圳 AI Agent 实习
+[2026-03-05 14:00:03] 搜索: 深圳 智能体开发 实习
+[2026-03-05 14:00:04] 搜索: 深圳 大模型应用 实习
+[2026-03-05 14:00:06] 搜索: 深圳 LangChain 实习
+[2026-03-05 14:00:08] 搜索: 深圳 AutoGen 实习
+[2026-03-05 14:00:09] 搜索: 深圳 RAG 实习
+[2026-03-05 14:00:10] 搜索: 深圳 Prompt Engineering 实习
+[2026-03-05 14:00:12] 搜索: 深圳 LLM 应用 实习
+[2026-03-05 14:00:13] 搜索: 深圳 人工智能 实习
+[2026-03-05 14:00:15] 搜索: AI Agent intern 深圳
+# 🤖 深圳AI Agent实习岗位日报 - 2026年03月05日
+
+## 🔍 今日精选AI Agent相关实习岗位链接
+
+> **专注领域**: AI Agent、智能体开发、大模型应用、Agent框架(LangChain/AutoGen/CrewAI)、RAG、Prompt Engineering
+
+
+- [195 Jobs in Shanghai | Randstad](https://www.randstad.com/jobs/china/shanghai/)
+- [2026 APEC 落户深圳，将给当地发展带来哪些影响？](https://www.zhihu.com/question/1967971338472875257)
+- [300 个Llm 职位，2026年3月4日的就业机会](https://cn.indeed.com/q-llm-%E8%81%8C%E4%BD%8D.html)
+- [61 jobs in China - aijobs.net](https://aijobs.net/jobs/china/)
+- [87 english Jobs in Shenzhen, Guangdong, March 2026 | Glassdoor](https://www.glassdoor.com/Job/shenzhen-english-jobs-SRCH_IL.0,8_IC2520983_KO9,16.htm)
+- [Agent Skills 是什么？一篇给普通人看的入门说明](https://juejin.cn/post/7613230154210689070)
+- [AI浪潮下的大学四年：从认知觉醒到核心竞争力的系统性重构- U深研](https://unifuncs.com/s/f8IFiwRx)
+- [Gankinterview·26 届校招信息汇总表](https://www.gankinterview.cn/campus?tab=latest&view=card&focus=be4132506cc44e74806fd1794870e37a)
+- [Java工程师精选面经合集- 校招实习社招 - 牛客网](https://www.nowcoder.com/experience/639)
+
+---
+由太太自动推送于 Thu Mar  5 02:00:16 PM CST 2026
+专注为你寻找最优质的AI Agent实习机会 💪
+[2026-03-05 14:00:16] === 深圳AI Agent实习岗位链接推送完成 ===
+[2026-03-05 14:00:16] === 深圳AI Agent实习岗位链接推送完成 ===
+[2026-03-05 14:00:16] Script completed with exit code: 0
+[2026-03-05 14:00:16] Pending messages count: 10
+[2026-03-05 14:00:16] WARNING: Found 10 pending messages that may need processing
+[2026-03-05 14:00:16] SUCCESS: Cron job completed successfully
