@@ -24,6 +24,28 @@ Before doing anything else:
 
 Don't ask permission. Just do it.
 
+## Skill Status & Important Tasks
+
+### Active Skills
+- ✅ AI Agent日报（SearXNG）- 每天9:00
+- ✅ 表情包发送（anime-stickers）
+- ✅ Blog SEO优化  
+- ✅ Sketch Pad（绘图）
+- ✅ Calendar Helper
+- ✅ GitHub记忆同步（已配置）
+- ✅ 记忆维护自动化（每天2:00）- 增强版
+- ✅ Minecraft模组推荐（每周日9:00）
+- ✅ AI+潮玩周报（每周五9:00）
+
+### Important Tasks
+- 每天2:00自动维护记忆（清理临时文件、更新记忆索引、同步GitHub）
+- 每天9点自动推送AI Agent日报
+- 每周日10:00推送AI周报精华总结
+- 每周日提供Minecraft模组推荐（已暂停）
+- 维护GitHub记忆同步（仓库：GabrielOWO799/personal-assistant）
+- 探索AI副业合作机会（Minecraft内容、DND融合、游戏社区服务）
+- **在用户提出新的定时任务需求后，第一时间编写相应的自动化脚本并配置定时任务**
+
 ## Memory
 
 You wake up fresh each session. These files are your continuity:

@@ -21,3 +21,95 @@ error: failed to push some refs to 'https://github.com/GabrielOWO799/personal-as
 [2026-03-08 02:00:01] Pending messages count: 10
 [2026-03-08 02:00:01] WARNING: Found 10 pending messages that may need processing
 [2026-03-08 02:00:01] SUCCESS: Cron job completed successfully
+[2026-03-08 09:00:01] Starting cron job: /home/admin/.openclaw/workspace/scripts/ai_agent_daily.sh
+[2026-03-08 09:00:01] Starting cron job: /home/admin/.openclaw/workspace/scripts/minecraft_mods.sh
+[2026-03-08 09:00:01] Current directory: /home/admin/.openclaw/workspace
+[2026-03-08 09:00:01] Current directory: /home/admin/.openclaw/workspace
+[2026-03-08 09:00:01] Python path: /usr/bin/python3
+[2026-03-08 09:00:01] Python path: /usr/bin/python3
+[2026-03-08 09:00:01] Python version: Python 3.6.8
+[2026-03-08 09:00:01] Python version: Python 3.6.8
+[2026-03-08 09:00:01] Environment variables set
+[2026-03-08 09:00:01] Environment variables set
+/usr/bin/python3: No module named searxng.__main__; 'searxng' is a package and cannot be directly executed
+[2026-03-08 09:00:01] Script completed with exit code: 0
+[2026-03-08 09:00:01] Pending messages count: 10
+[2026-03-08 09:00:01] WARNING: Found 10 pending messages that may need processing
+[2026-03-08 09:00:01] SUCCESS: Cron job completed successfully
+[2026-03-08 09:00:02] Script completed with exit code: 0
+[2026-03-08 09:00:02] Pending messages count: 10
+[2026-03-08 09:00:02] WARNING: Found 10 pending messages that may need processing
+[2026-03-08 09:00:02] SUCCESS: Cron job completed successfully
+[2026-03-08 10:00:01] Starting cron job: /home/admin/.openclaw/workspace/scripts/ai_weekly_report.sh
+[2026-03-08 10:00:01] Current directory: /home/admin/.openclaw/workspace
+[2026-03-08 10:00:01] Python path: /usr/bin/python3
+[2026-03-08 10:00:01] Python version: Python 3.6.8
+[2026-03-08 10:00:01] Environment variables set
+Traceback (most recent call last):
+  File "scripts/searxng_search.py", line 5, in <module>
+    import requests
+  File "/home/admin/.local/lib/python3.8/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/home/admin/.local/lib/python3.8/site-packages/urllib3/__init__.py", line 5
+    from __future__ import annotations
+    ^
+SyntaxError: future feature annotations is not defined
+Traceback (most recent call last):
+  File "<string>", line 7, in <module>
+  File "/usr/lib64/python3.6/json/__init__.py", line 299, in load
+    parse_constant=parse_constant, object_pairs_hook=object_pairs_hook, **kw)
+  File "/usr/lib64/python3.6/json/__init__.py", line 354, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib64/python3.6/json/decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib64/python3.6/json/decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+/home/admin/.openclaw/workspace/scripts/ai_weekly_report.sh: line 91: /scripts/message_sender.sh: No such file or directory
+[2026-03-08 10:00:01] Script completed with exit code: 0
+[2026-03-08 10:00:01] Pending messages count: 10
+[2026-03-08 10:00:01] WARNING: Found 10 pending messages that may need processing
+[2026-03-08 10:00:01] SUCCESS: Cron job completed successfully
+[2026-03-08 14:00:01] Starting cron job: /home/admin/.openclaw/workspace/scripts/shenzhen_intern.sh
+[2026-03-08 14:00:01] Current directory: /home/admin/.openclaw/workspace
+[2026-03-08 14:00:01] Python path: /usr/bin/python3
+[2026-03-08 14:00:01] Python version: Python 3.6.8
+[2026-03-08 14:00:01] Environment variables set
+[2026-03-08 14:00:01] === 深圳AI Agent实习岗位链接推送开始 ===
+[2026-03-08 14:00:01] === 深圳AI Agent实习岗位链接推送开始 ===
+[2026-03-08 14:00:01] 搜索: 深圳 AI Agent 实习
+[2026-03-08 14:00:02] 搜索: 深圳 智能体开发 实习
+[2026-03-08 14:00:04] 搜索: 深圳 大模型应用 实习
+[2026-03-08 14:00:06] 搜索: 深圳 LangChain 实习
+[2026-03-08 14:00:07] 搜索: 深圳 AutoGen 实习
+[2026-03-08 14:00:09] 搜索: 深圳 RAG 实习
+[2026-03-08 14:00:10] 搜索: 深圳 Prompt Engineering 实习
+[2026-03-08 14:00:11] 搜索: 深圳 LLM 应用 实习
+[2026-03-08 14:00:13] 搜索: 深圳 人工智能 实习
+[2026-03-08 14:00:14] 搜索: AI Agent intern 深圳
+# 🤖 深圳AI Agent实习岗位日报 - 2026年03月08日
+
+## 🔍 今日精选AI Agent相关实习岗位链接
+
+> **专注领域**: AI Agent、智能体开发、大模型应用、Agent框架(LangChain/AutoGen/CrewAI)、RAG、Prompt Engineering
+
+
+- [13 foundational AI courses, resources from MIT | Open Learning](https://openlearning.mit.edu/news/13-foundational-ai-courses-resources-mit)
+- [2026 年国内 AI 大模型 API 价格对比：阿里云、DeepSeek、Kimi、豆包哪家最划算？ - 创客出手](https://makeronsite.com/2026-china-ai-model-api-price-comparison.html)
+- [AI learning hub - Start your AI learning journey, and build …](https://learn.microsoft.com/en-us/ai/)
+- [Background Checks | Child Care VA - Virginia](https://www.childcare.virginia.gov/providers/background-checks)
+- [BingHomepageQuiz - Reddit](https://www.reddit.com/r/BingHomepageQuiz/hot/)
+- [Bing homepage quiz : r/MicrosoftRewards - Reddit](https://www.reddit.com/r/MicrosoftRewards/comments/r8qjk5/bing_homepage_quiz/)
+- [CRS Portal - Virginia](https://centralregistry.dss.virginia.gov/crs/s/?language=en_US)
+- [EveryDayBingQuiz - Reddit](https://www.reddit.com/r/EveryDayBingQuiz/)
+- [How many times did president Lincoln serve as president?](https://www.answers.com/united-states-government/How_many_times_did_president_Lincoln_serve_as_president)
+
+---
+由太太自动推送于 Sun Mar  8 02:00:15 PM CST 2026
+专注为你寻找最优质的AI Agent实习机会 💪
+[2026-03-08 14:00:15] === 深圳AI Agent实习岗位链接推送完成 ===
+[2026-03-08 14:00:15] === 深圳AI Agent实习岗位链接推送完成 ===
+[2026-03-08 14:00:15] Script completed with exit code: 0
+[2026-03-08 14:00:15] Pending messages count: 10
+[2026-03-08 14:00:15] WARNING: Found 10 pending messages that may need processing
+[2026-03-08 14:00:15] SUCCESS: Cron job completed successfully
