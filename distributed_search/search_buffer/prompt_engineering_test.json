@@ -1,0 +1,448 @@
+{
+  "query": "深圳 提示词工程 Prompt Engineering 实习",
+  "number_of_results": 50,
+  "results": [
+    {
+      "url": "https://www.zhihu.com/question/12600570141",
+      "title": "深圳社保累计满十年，最后缴费地在深圳就能在深圳办理退休吗？",
+      "content": "1、深户： 达到法定退休年龄前户口在深圳，且最后参保地是在深圳，累计各地养老保险缴费年限至少满15年（根据延迟退休政策，2030年前15年，2030年开始，每晚一年退休增加半年，直至2039年到20 …",
+      "engine": "bing",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "www.zhihu.com",
+        "/question/12600570141",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "thumbnail": "",
+      "priority": "",
+      "engines": [
+        "bing"
+      ],
+      "positions": [
+        1
+      ],
+      "score": 1.0,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "template": "default.html",
+      "url": "https://help.aliyun.com/zh/model-studio/prompt-engineering-guide",
+      "title": "Prompt, Prompt Engineering, 提示工程, 提示词-大模型服务平台百炼(Model Studio)-阿里云帮助中心",
+      "content": "提示（Prompt）是您输入给...的基础。 为了帮助您更高效地使用 LLM ，本教程为您提供一系列实用的技巧，帮助您设计和优化 Prompt。...",
+      "publishedDate": null,
+      "thumbnail": "",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "help.aliyun.com",
+        "/zh/model-studio/prompt-engineering-guide",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        1
+      ],
+      "score": 1.0,
+      "category": "general"
+    },
+    {
+      "title": "不懂逆向工程怎么做安全？一文讲透恶意软件分析、漏洞挖掘与攻防对抗-csdn博客",
+      "url": "https://blog.csdn.net/z19981/article/details/158844193",
+      "content": "提示工程（Prompt Engingering），也被称为上下文提示（In-Context Prompting），指的是通过结构化文本等方式来完善提示词，引导LLM输出我们期望的结果。 通过提示词工程可以在不更新模型权重的情况下，让LLM完成不同类型的任务。",
+      "engine": "duckduckgo",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "blog.csdn.net",
+        "/z19981/article/details/158844193",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "thumbnail": "",
+      "priority": "",
+      "engines": [
+        "duckduckgo"
+      ],
+      "positions": [
+        1
+      ],
+      "score": 1.0,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "url": "https://www.zhihu.com/question/22901782",
+      "title": "如何评价深圳这个城市？ - 知乎",
+      "content": "97.全国各地的名牌大学慢慢的在深圳开了分校，但我还是希望带着深圳IP的深圳大学有一天也能成为和这些名牌大学比肩的存在。 98.我很感谢d爷爷40年前在南海边画了一个圈，这座城市让我父母能够 …",
+      "engine": "bing",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "www.zhihu.com",
+        "/question/22901782",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "thumbnail": "",
+      "priority": "",
+      "engines": [
+        "bing"
+      ],
+      "positions": [
+        2
+      ],
+      "score": 0.5,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "title": "Agent Apps：Agent 时代，大家都在造工具箱，但真正缺的是\"工作台\"-腾讯云开发者社区-腾讯云",
+      "url": "https://cloud.tencent.com/developer/article/2635886",
+      "content": "AgentApps是AI时代的工作台，为智能体提供结构化操作环境而非单纯工具集合。它解决了当前Agent系统缺乏状态管理、上下文保持和可视化工作界面的核心痛点，让AI能够在有组织的环境中持续工作。区别于传统App和工具包，AgentApp为智能体构建专属工作空间，实现真正的任务执行环境，是下一代AI系统 ...",
+      "engine": "duckduckgo",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "cloud.tencent.com",
+        "/developer/article/2635886",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "thumbnail": "",
+      "priority": "",
+      "engines": [
+        "duckduckgo"
+      ],
+      "positions": [
+        2
+      ],
+      "score": 0.5,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "url": "https://www.zhihu.com/question/1891034650614428907",
+      "title": "如何评价知名网络主播「甲亢哥」Speed 于 4 月 5 日在深圳的直播？",
+      "content": "Apr 5, 2025 · 这场深圳直播的主题肯定是科技感、未来感，选择的标的物很好，大体可以分为仰望U8、华为三折叠屏手机、美团无人机外卖、舞蹈机器人、载人自动驾驶飞行器（查了下是这个名字）和无 …",
+      "engine": "bing",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "www.zhihu.com",
+        "/question/1891034650614428907",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "thumbnail": "",
+      "priority": "",
+      "engines": [
+        "bing"
+      ],
+      "positions": [
+        3
+      ],
+      "score": 0.3333333333333333,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "title": "2026年3月10日人工智能早间新闻 - Csdn博客",
+      "url": "https://blog.csdn.net/fudaihb/article/details/158877973",
+      "content": "各位读者，早上好。今天是2026年3月10日，星期二。欢迎收看人工智能早间新闻。昨日，全国两会的热度持续升温，\"智能经济\"写入政府工作报告引发的全球反响仍在发酵；与此同时，产业一线传来重磅信号：中国大模型调用量连续第二周超越美国，\"龙虾\"智能体生态呈现爆发式增长，而英伟达 ...",
+      "engine": "duckduckgo",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "blog.csdn.net",
+        "/fudaihb/article/details/158877973",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "thumbnail": "",
+      "priority": "",
+      "engines": [
+        "duckduckgo"
+      ],
+      "positions": [
+        3
+      ],
+      "score": 0.3333333333333333,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "url": "https://www.zhihu.com/question/536277919",
+      "title": "深圳为什么被称为“湖南省会”？ - 知乎",
+      "content": "深圳商圈，是 潮汕人 领跑。 深圳基础岗，是河南、东北人负重前行。 湖南人挺多，尤其前些年政界有很多湖南领导。 但是说“深圳是湖南省会”，只是调侃对于湖南人来说，他们外出务工、创业、经商，去 …",
+      "engine": "bing",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "www.zhihu.com",
+        "/question/536277919",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "thumbnail": "",
+      "priority": "",
+      "engines": [
+        "bing"
+      ],
+      "positions": [
+        4
+      ],
+      "score": 0.25,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "title": "手术头灯摄像与术野摄像机在手术影像系统中的技术区别-csdn博客",
+      "url": "https://blog.csdn.net/figthter_cui/article/details/158879621",
+      "content": "在实际应用中，两种设备往往需要结合使用，以获得更完整的手术影像资料。 信息说明SMO Medical（深圳市深眸医疗科技有限公司）从事手术头灯摄像、术野摄像机及手术影像系统研发与应用。",
+      "engine": "duckduckgo",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "blog.csdn.net",
+        "/figthter_cui/article/details/158879621",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "thumbnail": "",
+      "priority": "",
+      "engines": [
+        "duckduckgo"
+      ],
+      "positions": [
+        4
+      ],
+      "score": 0.25,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "template": "default.html",
+      "url": "https://www.sohu.com/a/994072134_121956424",
+      "title": "大模型时代的新职业：大模型善后工程师的崛起与挑战_Agent_代码_bug",
+      "content": "引言：程序员的尴尬境地与新机遇 · 在这个大模型技术迅猛发展的时代，程序员们正面临着前所未有的挑战。凌晨三点，老张正对着电脑屏幕，苦苦调试着AI生成的2000行代码。这已经是他调试的第47个bug了，而AI却在一分钟...",
+      "publishedDate": null,
+      "thumbnail": "https://imgs.search.brave.com/rnkYqtgzMgqu83AvQEQpQMEZriA36A0ktg9r0KT2bcw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/c29odS5jb20vYS85/OTQwNzIxMzRfMTIx/OTU2NDI0",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "www.sohu.com",
+        "/a/994072134_121956424",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        2
+      ],
+      "score": 0.5,
+      "category": "general"
+    },
+    {
+      "url": "https://www.zhihu.com/question/535234556",
+      "title": "深圳到底哪里才是市中心？ - 知乎",
+      "content": "深圳有三个市中心，第一个是老的市中心，即罗湖+福田华富路以东部分，2000年以前，非常明确市中心就在这里。 第二个是新市中心，即 福田中心区， 市民中心 在这里。福田中心区与老市中心中间通过 …",
+      "engine": "bing",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "www.zhihu.com",
+        "/question/535234556",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "thumbnail": "",
+      "priority": "",
+      "engines": [
+        "bing"
+      ],
+      "positions": [
+        5
+      ],
+      "score": 0.2,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "url": "https://www.zhihu.com/question/26252028",
+      "title": "上海和深圳如何选择？ - 知乎",
+      "content": "这个时候，我还是对深圳没啥高的期望值，而且按照传统的说法，那地方没文化、没教育、没医疗，只是听人说深圳人挺有钱、城市挺干净。 后来，2017年，深圳GDP超过广州跻身中国第三，大家当时还 …",
+      "engine": "bing",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "www.zhihu.com",
+        "/question/26252028",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "thumbnail": "",
+      "priority": "",
+      "engines": [
+        "bing"
+      ],
+      "positions": [
+        6
+      ],
+      "score": 0.16666666666666666,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "url": "https://www.zhihu.com/question/23535797",
+      "title": "深圳哪个区最好？ - 知乎",
+      "content": "基本各个区都不错.....当然综合现在和未来我觉得南山最好 福田区是市中心区、深圳现在毫无争议的老大。综合来说最强，坐拥福田CBD、车公庙、华强北、梅林、红树林，精致的绿色森林都市，生活在其 …",
+      "engine": "bing",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "www.zhihu.com",
+        "/question/23535797",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "thumbnail": "",
+      "priority": "",
+      "engines": [
+        "bing"
+      ],
+      "positions": [
+        7
+      ],
+      "score": 0.14285714285714285,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "url": "https://www.zhihu.com/question/14504169555",
+      "title": "为什么深圳GDP无法超过上海和北京？ - 知乎",
+      "content": "为什么2023年深圳出现了200万社保增量呢？ 因为2023年全国的经济状况都不好，大量公司都在裁员降本增效，很多公司裁员后也无力承担高昂的社保，所以导致了大批量的社保转到深圳。",
+      "engine": "bing",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "www.zhihu.com",
+        "/question/14504169555",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "thumbnail": "",
+      "priority": "",
+      "engines": [
+        "bing"
+      ],
+      "positions": [
+        8
+      ],
+      "score": 0.125,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "url": "https://www.zhihu.com/question/1987904024989685624",
+      "title": "广东媒体称深圳就像赛博朋克2077的夜之城，充满机遇与活力，你如何 …",
+      "content": "Dec 26, 2025 · 猜测一下作者的心路历程： 我们要拉近和年轻人的距离，让年轻人对我们有亲切感，那就从年轻人玩的游戏入手吧 听说有个叫赛博朋克2077的游戏在年轻人当中很火？ 这个游戏里有一座科 …",
+      "engine": "bing",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "www.zhihu.com",
+        "/question/1987904024989685624",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "thumbnail": "",
+      "priority": "",
+      "engines": [
+        "bing"
+      ],
+      "positions": [
+        9
+      ],
+      "score": 0.1111111111111111,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "url": "https://www.zhihu.com/question/402219304",
+      "title": "深圳有哪些高校及研究所？ - 知乎",
+      "content": "电子科技大学（深圳）高等研究院 厦门大学深圳研究院 粤港澳大湾区研究院 深圳市智能机器人研究院 深圳市城市公共安全技术研究院 武汉大学深圳研究院 鹏城实验室 深圳航天科技研究院 TCL集团工业研 …",
+      "engine": "bing",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "www.zhihu.com",
+        "/question/402219304",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "thumbnail": "",
+      "priority": "",
+      "engines": [
+        "bing"
+      ],
+      "positions": [
+        10
+      ],
+      "score": 0.1,
+      "category": "general",
+      "publishedDate": null
+    }
+  ],
+  "answers": [],
+  "corrections": [],
+  "infoboxes": [],
+  "suggestions": [],
+  "unresponsive_engines": [
+    [
+      "startpage",
+      "Suspended: CAPTCHA"
+    ]
+  ]
+}

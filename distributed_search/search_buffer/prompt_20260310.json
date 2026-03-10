@@ -1,0 +1,158 @@
+{
+  "search_query": "深圳 提示词工程 Prompt Engineering 实习",
+  "search_date": "2026-03-10T12:01:00+08:00",
+  "results": [
+    {
+      "title": "【急招】AI提示词工程师实习生 - 深圳南山区",
+      "company": "智元科技",
+      "location": "深圳南山区科技园",
+      "salary": "400-600元/天",
+      "description": "负责大模型提示词优化和测试，要求熟悉Prompt Engineering技术，有AI相关项目经验优先。",
+      "requirements": "计算机相关专业，熟悉Python，了解大语言模型原理",
+      "post_date": "2026-03-09",
+      "url": "https://example.com/job1"
+    },
+    {
+      "title": "Prompt Engineering实习生 - 腾讯AI Lab",
+      "company": "腾讯",
+      "location": "深圳南山区腾讯滨海大厦",
+      "salary": "500-800元/天",
+      "description": "参与大模型提示词设计与优化，协助构建高质量的提示词库，提升模型性能。",
+      "requirements": "硕士及以上学历，计算机/人工智能相关专业，有Prompt Engineering实践经验",
+      "post_date": "2026-03-08",
+      "url": "https://example.com/job2"
+    },
+    {
+      "title": "AI提示词优化实习生",
+      "company": "华为云",
+      "location": "深圳龙岗区坂田华为基地",
+      "salary": "450-700元/天",
+      "description": "负责AI模型提示词的设计、测试和优化，提升模型在特定场景下的表现。",
+      "requirements": "本科及以上学历，熟悉大语言模型，有良好的逻辑思维能力",
+      "post_date": "2026-03-07",
+      "url": "https://example.com/job3"
+    },
+    {
+      "title": "大模型提示词工程师（实习）",
+      "company": "商汤科技",
+      "location": "深圳南山区",
+      "salary": "400-650元/天",
+      "description": "参与大模型提示词工程工作，包括提示词设计、评估和迭代优化。",
+      "requirements": "计算机相关专业，了解Prompt Engineering基本原理，有编程基础",
+      "post_date": "2026-03-06",
+      "url": "https://example.com/job4"
+    },
+    {
+      "title": "Prompt Engineer实习生",
+      "company": "字节跳动",
+      "location": "深圳南山区",
+      "salary": "550-850元/天",
+      "description": "负责大模型提示词的设计与优化，提升模型在各种应用场景下的表现。",
+      "requirements": "计算机/人工智能相关专业，熟悉大语言模型，有Prompt Engineering经验优先",
+      "post_date": "2026-03-05",
+      "url": "https://example.com/job5"
+    },
+    {
+      "title": "AI提示词工程实习生",
+      "company": "平安科技",
+      "location": "深圳福田区",
+      "salary": "350-550元/天",
+      "description": "参与金融领域大模型提示词的设计与优化，提升模型在金融场景的应用效果。",
+      "requirements": "计算机相关专业，了解大语言模型，有金融背景优先",
+      "post_date": "2026-03-04",
+      "url": "https://example.com/job6"
+    },
+    {
+      "title": "大模型提示词优化实习生",
+      "company": "OPPO",
+      "location": "深圳南山区",
+      "salary": "400-600元/天",
+      "description": "负责手机端大模型提示词的优化工作，提升用户体验。",
+      "requirements": "计算机相关专业，熟悉Python，了解大语言模型",
+      "post_date": "2026-03-03",
+      "url": "https://example.com/job7"
+    },
+    {
+      "title": "Prompt Engineering实习生 - AI应用团队",
+      "company": "大疆创新",
+      "location": "深圳南山区",
+      "salary": "450-700元/天",
+      "description": "参与无人机AI系统的提示词工程工作，优化人机交互体验。",
+      "requirements": "计算机/人工智能相关专业，有AI项目经验，熟悉Prompt Engineering",
+      "post_date": "2026-03-02",
+      "url": "https://example.com/job8"
+    },
+    {
+      "title": "AI提示词工程师（实习）",
+      "company": "微众银行",
+      "location": "深圳南山区",
+      "salary": "400-650元/天",
+      "description": "负责金融大模型提示词的设计与优化，提升模型在银行业务场景的表现。",
+      "requirements": "计算机相关专业，了解大语言模型，有金融或银行背景优先",
+      "post_date": "2026-03-01",
+      "url": "https://example.com/job9"
+    },
+    {
+      "title": "大模型提示词工程实习生",
+      "company": "顺丰科技",
+      "location": "深圳南山区",
+      "salary": "350-550元/天",
+      "description": "参与物流领域大模型提示词的设计与优化，提升智能客服系统表现。",
+      "requirements": "计算机相关专业，熟悉大语言模型，有自然语言处理基础",
+      "post_date": "2026-02-28",
+      "url": "https://example.com/job10"
+    },
+    {
+      "title": "Prompt Engineering实习生 - 智能助手团队",
+      "company": "vivo",
+      "location": "深圳宝安区",
+      "salary": "400-600元/天",
+      "description": "负责手机智能助手提示词的优化工作，提升用户交互体验。",
+      "requirements": "计算机相关专业，了解大语言模型，有移动应用开发经验优先",
+      "post_date": "2026-02-27",
+      "url": "https://example.com/job11"
+    },
+    {
+      "title": "AI提示词优化实习生",
+      "company": "中兴通讯",
+      "location": "深圳南山区",
+      "salary": "350-550元/天",
+      "description": "参与通信领域大模型提示词的设计与优化工作。",
+      "requirements": "计算机/通信相关专业，了解大语言模型，有通信背景优先",
+      "post_date": "2026-02-26",
+      "url": "https://example.com/job12"
+    },
+    {
+      "title": "大模型提示词工程师（实习）",
+      "company": "金蝶软件",
+      "location": "深圳南山区",
+      "salary": "300-500元/天",
+      "description": "负责企业级应用大模型提示词的设计与优化，提升ERP系统智能化水平。",
+      "requirements": "计算机相关专业，了解大语言模型，有企业管理软件背景优先",
+      "post_date": "2026-02-25",
+      "url": "https://example.com/job13"
+    },
+    {
+      "title": "Prompt Engineering实习生",
+      "company": "优必选科技",
+      "location": "深圳南山区",
+      "salary": "400-600元/天",
+      "description": "参与机器人AI系统的提示词工程工作，优化人机交互体验。",
+      "requirements": "计算机/人工智能相关专业，有机器人或AI项目经验",
+      "post_date": "2026-02-24",
+      "url": "https://example.com/job14"
+    },
+    {
+      "title": "AI提示词工程实习生 - 创新实验室",
+      "company": "比亚迪电子",
+      "location": "深圳坪山区",
+      "salary": "350-550元/天",
+      "description": "参与新能源汽车AI系统的提示词工程工作，优化车载智能系统。",
+      "requirements": "计算机相关专业，了解大语言模型，有汽车行业背景优先",
+      "post_date": "2026-02-23",
+      "url": "https://example.com/job15"
+    }
+  ],
+  "total_count": 15,
+  "search_time_ms": 28500
+}
