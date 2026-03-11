@@ -1,0 +1,24 @@
+{
+  "id": "0b73152f-1c25-423e-8653-5b7e8e79c590",
+  "agentId": "main",
+  "name": "心跳检查",
+  "enabled": true,
+  "createdAtMs": 1772611124425,
+  "updatedAtMs": 1773210024693,
+  "schedule": {
+    "kind": "cron",
+    "expr": "0 */12 * * *",
+    "tz": "Asia/Shanghai"
+  },
+  "sessionTarget": "main",
+  "wakeMode": "now",
+  "payload": {
+    "kind": "systemEvent",
+    "text": "Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK."
+  },
+  "delivery": {
+    "mode": "announce",
+    "channel": "feishu",
+    "to": "ou_62679a94a6d3d8606c7c56d4f78b2b74"
+  }
+}
