@@ -1,0 +1,40 @@
+{
+  "search_date": "2026-03-12",
+  "search_time": "11:00:00",
+  "search_query": "深圳 智能体 实习 开发工程师 Multi-Agent site:zhaopin.com OR site:51job.com OR site:yingjiesheng.com",
+  "time_priority": ["past_7_days", "past_30_days", "past_180_days"],
+  "results": [
+    {
+      "title": "字节跳动26实习 - AI应用开发工程师",
+      "company": "字节跳动",
+      "location": "深圳",
+      "url": "https://campus.niuqizp.com/schedule-h8lmmMZnC.html",
+      "description": "AI应用开发工程师岗位，面向2027届毕业生（毕业时间为2026年9月至2027年8月），提供转正机会，整体转正率超50%。本次招聘重点倾斜研发、产品与AI领域。",
+      "keywords_matched": ["AI", "开发工程师", "实习", "深圳"],
+      "source": "niuqizp.com",
+      "published_date": "2026-03-11"
+    },
+    {
+      "title": "深圳飞速创软科技有限公司 - AI实施工程师",
+      "company": "深圳飞速创软科技有限公司",
+      "location": "深圳",
+      "url": "https://www.shushuqiuzhi.com/article/189020",
+      "description": "深圳飞速创软科技有限公司2025校招进行中，AI实施工程师等优质岗位，助力应届生就业发展。公司成立于2020-12-31，注册资本为1000万元。",
+      "keywords_matched": ["AI", "工程师", "深圳"],
+      "source": "shushuqiuzhi.com",
+      "published_date": "2026-03-10"
+    },
+    {
+      "title": "AI开发工程师（大模型应用方向）实习生",
+      "company": "ATM Capital",
+      "location": "未明确（需进一步确认）",
+      "url": "https://www.shixiseng.com/intern/inn_kwnojl932cpv?pcm=pc_SearchList",
+      "description": "AI开发工程师（大模型应用方向）实习生招聘，专注于大模型应用开发。",
+      "keywords_matched": ["AI", "开发工程师", "实习", "大模型"],
+      "source": "shixiseng.com",
+      "published_date": "2026-03-09"
+    }
+  ],
+  "total_results_found": 3,
+  "search_notes": "由于搜索引擎验证码限制，实际结果可能不完整。建议后续使用更精确的关键词或直接访问招聘网站进行搜索。搜索结果中包含了部分符合'开发工程师'、'实习生'等关键词的职位，但'Multi-Agent'关键词在结果中未明显体现。"
+}

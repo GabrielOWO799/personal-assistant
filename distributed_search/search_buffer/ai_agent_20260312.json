@@ -1,0 +1,98 @@
+{
+  "search_date": "2026-03-12",
+  "search_query": "深圳 AI Agent 实习 职位 工程师 算法 site:zhipin.com OR site:liepin.com OR site:shixiseng.com",
+  "time_ranges_searched": ["past_week", "past_month", "past_180_days"],
+  "total_results_found": 10,
+  "filtered_results": [
+    {
+      "title": "AI agent产品实习生——web端实习招聘-美图公司实习生招聘-实习僧",
+      "url": "https://www.shixiseng.com/intern/inn_tuvsyhwtjdxt?pcm=pc_SearchList",
+      "source": "shixiseng.com",
+      "description": "参与影像类AI Agent web端产品的建设与优化，协助产品经理推进web端AI Agent能力的持续迭代，探索AI与影像创作结合的创新路径。",
+      "keywords": ["AI Agent", "实习生", "web端", "产品"],
+      "location": "深圳",
+      "time_range": "past_week"
+    },
+    {
+      "title": "Ai应用与研究方向（实习生）实习招聘-搜狐实习生招聘-实习僧",
+      "url": "https://www.shixiseng.com/intern/inn_ll9qqheahqvd?pcm=pc_SearchList",
+      "source": "shixiseng.com",
+      "description": "搜狐AI应用与研究方向（实习生）实习招聘信息",
+      "keywords": ["AI", "实习生", "研究"],
+      "location": "深圳",
+      "time_range": "past_week"
+    },
+    {
+      "title": "Ai 解决方案实习生-飞书实习招聘-字节跳动实习生招聘-实习僧",
+      "url": "https://www.shixiseng.com/intern/inn_t8a5py4llqkq?pcm=pc_SearchList",
+      "source": "shixiseng.com",
+      "description": "面向全体在校生，为符合岗位要求的同学提供为期3个月及以上的项目实践机会。飞书是 AI 时代先进生产力平台，提供一站式工作协同、组织管理、业务提效工具和深入企业场景的 AI 能力，助力企业能增长，有巧降。",
+      "keywords": ["AI", "解决方案", "实习生", "飞书", "字节跳动"],
+      "location": "深圳",
+      "time_range": "past_week"
+    },
+    {
+      "title": "AI Agent学员_XC实习招聘-博士中国实习生招聘-实习僧",
+      "url": "https://www.shixiseng.com/intern/inn_pu2ucwkxx6yw",
+      "source": "shixiseng.com",
+      "description": "博士中国AI Agent学员_XC实习生招聘信息",
+      "keywords": ["AI Agent", "学员", "实习生"],
+      "location": "深圳",
+      "time_range": "past_week"
+    },
+    {
+      "title": "Ai产品实习生 (J97558)实习招聘-百度实习生招聘-实习僧",
+      "url": "https://www.shixiseng.com/intern/inn_dng8q5aldjo7?pcm=pc_SearchList",
+      "source": "shixiseng.com",
+      "description": "百度AI产品实习生 (J97558)实习招聘信息",
+      "keywords": ["AI", "产品", "实习生", "百度"],
+      "location": "深圳",
+      "time_range": "past_week"
+    },
+    {
+      "title": "Ai代码分析实习生实习招聘-nio蔚来实习生招聘-实习僧",
+      "url": "https://www.shixiseng.com/intern/inn_lkjslcbm698u?pcm=pc_SearchList",
+      "source": "shixiseng.com",
+      "description": "本项目利用AI大模型技术对智能电动汽车的核心代码进行深度扫描和分析，保障软件的安全性与可靠性。该职位主要辅助项目团队开展AI相关的需求文档和代码整理、分析及数据处理等工作，助力项目高效推进。",
+      "keywords": ["AI", "代码分析", "实习生", "蔚来"],
+      "location": "深圳",
+      "time_range": "past_week"
+    },
+    {
+      "title": "Aigc系统工程师实习生-象映技术-高瓴联合校招实习招聘-高瓴联合校招实习生招聘-实习僧",
+      "url": "https://www.shixiseng.com/intern/inn_gt3sfbi1olfs?pcm=pc_SearchList",
+      "source": "shixiseng.com",
+      "description": "辅助 AI Agent 系统搭建，参与上下文管理、工具调用链路等模块的开发与调试；学习并实践 LangChain、LlamaIndex 等主流框架。RAG（检索增强生成）相关工作，协助完成向量数据库的数据导入、索引构建；在指导下进行检索效果验证和实验调优。",
+      "keywords": ["AI Agent", "系统工程师", "实习生", "AIGC", "RAG"],
+      "location": "深圳",
+      "time_range": "past_month"
+    },
+    {
+      "title": "AI Agent 实习生实习招聘-行知启新实习生招聘-实习僧",
+      "url": "https://www.shixiseng.com/intern/inn_pdi3h4cqexep?pcm=pc_SearchList",
+      "source": "shixiseng.com",
+      "description": "你将负责公司 AI 基础设施的搭建与迭代，围绕真实业务场景设计并落地可复用的 Agent 与自动化流程。该岗位直接向公司运营总监汇报，是公司 AI 能力建设的核心角色。",
+      "keywords": ["AI Agent", "实习生", "基础设施"],
+      "location": "深圳",
+      "time_range": "past_month"
+    },
+    {
+      "title": "Agent开发工程师（实习）-深度原理-高瓴联合校招实习招聘-高瓴联合校招实习生招聘-实习僧",
+      "url": "https://www.shixiseng.com/intern/inn_ektdyvhyb7rq",
+      "source": "shixiseng.com",
+      "description": "设计与实现可扩展的 LLM Agent 架构，涵盖任务规划（Planning）、工具调用（Tool Usage）、记忆（Memory）、多智能体协作（Multi-Agent）等核心能力；与算法、产品、数据、业务团队紧密配合，推动 Agent 在实际业务场景的落地，打造垂直域的 Agent 产品。",
+      "keywords": ["Agent", "开发工程师", "实习", "LLM"],
+      "location": "深圳",
+      "time_range": "past_month"
+    },
+    {
+      "title": "AI 软件开发应届生实习招聘-CoreLab实习生招聘-实习僧",
+      "url": "https://www.shixiseng.com/intern/inn_9spktbhhefl9?pcm=pc_SearchList",
+      "source": "shixiseng.com",
+      "description": "作为 AI 软件部的核心成员，您将专注于开发AI SDK以支持各类AI软件框架及Agent例如OpenClaw，以及适配相关底层硬件平台。AI Toolchain开发，包括底层驱动、MLIR、算子开发、LLM推理框架适配等。",
+      "keywords": ["AI", "软件开发", "应届生", "实习", "Agent", "OpenClaw"],
+      "location": "深圳",
+      "time_range": "past_month"
+    }
+  ]
+}
