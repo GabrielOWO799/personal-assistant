@@ -1,53 +1,17 @@
 #!/bin/bash
-# Cron wrapper script to ensure proper environment
-# Enhanced with detailed logging and error handling
+# 通用定时任务包装器，添加错误处理和日志记录
 
-# Set up environment
-export PATH="/home/linuxbrew/.linuxbrew/bin:/usr/local/bin:/usr/bin:/bin:/home/admin/.local/bin"
-export PYTHONPATH="/home/admin/.local/lib/python3.8/site-packages:/home/admin/.openclaw/workspace"
-export HOME="/home/admin"
-export LANG="en_US.UTF-8"
-export LC_ALL="en_US.UTF-8"
+SCRIPT_NAME=$(basename "$1")
+LOG_DIR="/home/admin/.openclaw/workspace/logs"
+mkdir -p "$LOG_DIR"
 
-# Ensure workspace directory exists
-cd /home/admin/.openclaw/workspace
+# 执行脚本并记录日志
+"$@" 2>&1 | tee -a "$LOG_DIR/${SCRIPT_NAME%.*}_$(date +%Y%m%d).log"
 
-# Create logs directory if not exists
-mkdir -p /home/admin/.openclaw/workspace/logs
-
-# Log execution with timestamp
-LOG_FILE="/home/admin/.openclaw/workspace/logs/cron_$(date +%Y%m%d).log"
-echo "[$(date '+%Y-%m-%d %H:%M:%S')] Starting cron job: $1" >> "$LOG_FILE"
-echo "[$(date '+%Y-%m-%d %H:%M:%S')] Current directory: $(pwd)" >> "$LOG_FILE"
-echo "[$(date '+%Y-%m-%d %H:%M:%S')] Python path: $(which python3)" >> "$LOG_FILE"
-echo "[$(date '+%Y-%m-%d %H:%M:%S')] Python version: $(python3 --version 2>&1)" >> "$LOG_FILE"
-echo "[$(date '+%Y-%m-%d %H:%M:%S')] Environment variables set" >> "$LOG_FILE"
-
-# Execute the script with error redirection
-if [ -f "$1" ]; then
-    bash "$1" >> "$LOG_FILE" 2>&1
-    EXIT_CODE=$?
-    echo "[$(date '+%Y-%m-%d %H:%M:%S')] Script completed with exit code: $EXIT_CODE" >> "$LOG_FILE"
-    
-    # Check for pending messages after execution
-    PENDING_COUNT=$(ls /home/admin/.openclaw/workspace/messages/pending/ 2>/dev/null | wc -l)
-    echo "[$(date '+%Y-%m-%d %H:%M:%S')] Pending messages count: $PENDING_COUNT" >> "$LOG_FILE"
-    
-    if [ "$PENDING_COUNT" -gt 0 ]; then
-        echo "[$(date '+%Y-%m-%d %H:%M:%S')] WARNING: Found $PENDING_COUNT pending messages that may need processing" >> "$LOG_FILE"
-    fi
+# 检查执行结果
+if [ ${PIPESTATUS[0]} -ne 0 ]; then
+    echo "❌ Task $SCRIPT_NAME failed at $(date)" >> "$LOG_DIR/task_failures.log"
+    exit 1
 else
-    echo "[$(date '+%Y-%m-%d %H:%M:%S')] ERROR: Script file not found: $1" >> "$LOG_FILE"
-    EXIT_CODE=1
+    echo "✅ Task $SCRIPT_NAME completed at $(date)" >> "$LOG_DIR/task_success.log"
 fi
-
-# Final status
-if [ "$EXIT_CODE" -eq 0 ]; then
-    echo "[$(date '+%Y-%m-%d %H:%M:%S')] SUCCESS: Cron job completed successfully" >> "$LOG_FILE"
-else
-    echo "[$(date '+%Y-%m-%d %H:%M:%S')] ERROR: Cron job failed with exit code $EXIT_CODE" >> "$LOG_FILE"
-    # Send error notification
-    echo "Cron job failed: $1" > "/tmp/cron_error_$(date +%Y%m%d_%H%M%S).txt"
-fi
-
-exit $EXIT_CODE

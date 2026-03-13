@@ -1,0 +1,9 @@
+0 2 * * * /home/admin/.openclaw/workspace/scripts/retry_wrapper.sh /home/admin/.openclaw/workspace/scripts/memory_maintenance.sh
+0 9 * * * /home/admin/.openclaw/workspace/scripts/retry_wrapper.sh /home/admin/.openclaw/workspace/scripts/ai_agent_daily.sh
+0 9 * * 0 /home/admin/.openclaw/workspace/scripts/retry_wrapper.sh /home/admin/.openclaw/workspace/scripts/minecraft_mods.sh
+0 9 * * 5 /home/admin/.openclaw/workspace/scripts/retry_wrapper.sh /home/admin/.openclaw/workspace/scripts/ai_toy_weekly.sh
+0 10 * * 0 /home/admin/.openclaw/workspace/scripts/retry_wrapper.sh /home/admin/.openclaw/workspace/scripts/ai_weekly_report.sh
+0 */12 * * * /home/admin/.openclaw/workspace/scripts/retry_wrapper.sh /home/admin/.openclaw/workspace/scripts/task_monitor.sh
+14 9 * * * /home/admin/.openclaw/workspace/scripts/retry_wrapper.sh /home/admin/.openclaw/workspace/scripts/distributed_search_aggregation.sh
+30 2 * * * /home/admin/.openclaw/workspace/scripts/retry_wrapper.sh /home/admin/.openclaw/workspace/scripts/context_learning_extraction.sh
+45 2 * * * /home/admin/.openclaw/workspace/scripts/retry_wrapper.sh /home/admin/.openclaw/workspace/scripts/chat_analysis_processing.sh

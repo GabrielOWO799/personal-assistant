@@ -1,0 +1,9 @@
+{
+  "search_query": "深圳 智能体 实习 开发工程师 Multi-Agent site:zhaopin.com OR site:51job.com OR site:yingjiesheng.com",
+  "timestamp": "2026-03-13T11:01:00+08:00",
+  "time_ranges": ["past_7_days", "past_30_days", "past_180_days"],
+  "timeout_seconds": 30,
+  "max_results": 15,
+  "status": "searching",
+  "results": []
+}
