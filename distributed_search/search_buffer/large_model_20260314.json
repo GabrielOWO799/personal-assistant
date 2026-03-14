@@ -1,0 +1,112 @@
+{
+  "search_time": "2026-03-14T10:09:44.085678",
+  "query": "\"深圳 大模型 实习 算法工程师 LLM 微调 site:bosszhipin.com OR site:lagou.com OR site:nowcoder.com\"",
+  "total_results": 15,
+  "results": [
+    {
+      "title": "25年AI大模型面试必问八股文，（核心考点解析+高频真题库+企业级实战）附面试题文档，背完通过率98%！_哔哩哔哩_bilibili",
+      "url": "https://www.bilibili.com/video/BV12nAoeiEV6/",
+      "content": "【大模型面试邪修】2025最新AI大模型面试夺命52连问，背完面试通过率98%！ · 【面试精选】华为大佬带你一周刷完AI大模型面试八股文，比啃书效果好多了！面试少走99%弯路！存下吧，附AI大模型面试宝典，让你直接拿下offer！",
+      "published_date": null,
+      "source": "www.bilibili.com"
+    },
+    {
+      "title": "【喂饭教程】Qwen3模型微调修改拒绝机制分享！(附破限文件) 满血版Qwen3，API调用及本地部署详解！_哔哩哔哩_bilibili",
+      "url": "https://www.bilibili.com/video/BV1C2E7zSEuJ/",
+      "content": "本地部署的命令：模型修改层(名字自己取，另外需要自己修改test-qwen3里的模型名字！)：ollama create qwen3:14b-n -f test-qwen3ollama运行模型(名字用自己取的！)：ollama run qwen3:14b-nollama服务开启:ollama serve, 视频播放量 2550、弹幕量 88、点赞数 49、投硬币枚数 53、收藏人数 98、转发人数 12, 视频作者 AI产品经理课堂, 作者简介 某大厂人工智能算法工程师，分享大模型知识，致力于让更多人了解并学习大模型！！！，相关视频：【秒懂教程】30分钟学会DeepSeek R1模型L",
+      "published_date": null,
+      "source": "www.bilibili.com"
+    },
+    {
+      "title": "大模型时代的新职业：大模型善后工程师的崛起与挑战_Agent_代码_bug",
+      "url": "https://www.sohu.com/a/994072134_121956424",
+      "content": "引言：程序员的尴尬境地与新机遇 · 在这个大模型技术迅猛发展的时代，程序员们正面临着前所未有的挑战。凌晨三点，老张正对着电脑屏幕，苦苦调试着AI生成的2000行代码。这已经是他调试的第47个bug了，而AI却在一分钟...",
+      "published_date": null,
+      "source": "www.sohu.com"
+    },
+    {
+      "title": "比较LLM的编码能力跨编程语言 | HackerNoon",
+      "url": "https://hackernoon.com/lang/zh/%E6%AF%94%E8%BE%83llm%E7%9A%84%E7%BC%96%E7%A0%81%E8%83%BD%E5%8A%9B%E8%B7%A8%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80",
+      "content": "Software Engineer and Team Lead",
+      "published_date": null,
+      "source": "hackernoon.com"
+    },
+    {
+      "title": "2026国内LLM Coding Plan终极比价：深度测评与避坑指南 (字节/阿里/DeepSeek/Kimi)_kimi coding plan-CSDN博客",
+      "url": "https://blog.csdn.net/dongyao243512842/article/details/158320448",
+      "content": "LLM系列(4)：通义千问7B在Swift/DeepSpeed上微调秘诀与实战陷阱避坑指南 ... 资源下载链接为： https://pan.xunlei.com/s/VOYmPIZWBA8mLPyT_nVhMiAWA1?pwd=t8qd Oumi是完全开源平台，能简化基础模型全生命周期，涵盖数据准备、训练、评估到部署，在笔记本电脑、集群、云平台（AWS、Azure、GCP、Lambda等）均可运行，还可集成开源模型与商业API（OpenAI、Anthropic等），且API一致。 安装简单，可通过CLI用现成食谱训练、评估、推理，也能远程在云平台运行（Oumi处于测试阶段，高级功",
+      "published_date": null,
+      "source": "blog.csdn.net"
+    },
+    {
+      "title": "大模型AI应用开发训练营（校招、社招） | 小林coding | Java面试学习",
+      "url": "https://www.xiaolincoding.com/other/llm_offer.html",
+      "content": "大模型算法工程师养成计划：14周通关！ · 导语：本训练营由浅入深，理论与实战并重，覆盖从基础 Python、神经网络到前沿的Transformer结构、0-1预训练、微调、强化学习（RLHF）、RAG、Agent 、多模态、分布式部署、量化蒸馏、推理加速等技术。",
+      "published_date": null,
+      "source": "www.xiaolincoding.com"
+    },
+    {
+      "title": "【强烈收藏】2026年大模型(LLM)学习路线：从入门到实战的程序员指南-CSDN博客",
+      "url": "https://blog.csdn.net/2401_85375186/article/details/156616615",
+      "content": "业务赋能突破瓶颈： 传统开发者（Java/前端等）学习Transformer架构与LangChain框架，向AI全栈工程师转型‌。 ... 从0到掌握主流大模型技术视频教程（涵盖模型训练、微调、RAG、LangChain、Agent开发等实战方向）",
+      "published_date": null,
+      "source": "blog.csdn.net"
+    },
+    {
+      "title": "必收藏！LLM+RAG+知识图谱实战指南，小白程序员快速上手大模型应用-CSDN博客",
+      "url": "https://blog.csdn.net/qq_46094651/article/details/157975135",
+      "content": "1、预训练-模型读取大量文本，通常超过一万亿个令牌，以学习基本的语言模式。它练习预测句子中的下一个单词。这是基础步骤，就像在你会写作之前学习词汇和语法一样。这是资源最密集的阶段。 这可能需要数千个GPU，并可能需要几个月的持续训练。 · 2、有监督的微调——模型会接收到特定的高质量对话示例，以增强其像一位有帮助的助手那样进行回应的能力。它会继续练习语言，但现在的重点是生成有用且准确的回应。可以将其视为从基础语言学习阶段过渡到练习对话技能的阶段。与预训练相比，这所需的资源要少得多，如今即使是针对较小的 LLM 模型，也可以在单台笔记本电脑上运行。",
+      "published_date": null,
+      "source": "blog.csdn.net"
+    },
+    {
+      "title": "GLM-5：从 Vibe Coding 到 Agentic Engineering - 系统极客",
+      "url": "https://www.sysgeek.cn/glm-5/",
+      "content": "GLM-5 发布：744B 参数大模型，支持复杂系统工程与长程智能体任务，办公与编程场景全面进化。",
+      "published_date": null,
+      "source": "www.sysgeek.cn"
+    },
+    {
+      "title": "带你从头训练一个 LLM - V2EX",
+      "url": "https://www.v2ex.com/t/1192489",
+      "content": "分享创造 - @SupDigitalOcean - 分享一个自己打造的大模型课程 CookLLMCookLLM 的目标是把那些生涩难啃的论文、公式，拆解成最美味的佳肴。但我向大家保证，它绝不是一份枯燥的 PDF 或飞书文档。 我看过太多教程，把",
+      "published_date": null,
+      "source": "www.v2ex.com"
+    },
+    {
+      "title": "2026 国内 AI 编程套餐（Coding Plan）全量横评：选型指南与避坑手册-CSDN博客",
+      "url": "https://blog.csdn.net/qq_34252622/article/details/158924371",
+      "content": "简单的来讲就是在模型最推理过程中的self-attention时，缓存下k*v的矩阵，然后每次新的token进来只需要在这个缓存的矩阵上拼接更新就行，避免了许多重复的计算，加快了推理的过程。:该微调方式是对不同的任务加上对应的虚拟token,然后在大模型的embedding层中加入这些虚拟token的向量，在真正进行训练过程中只更新这些token对应的embedding层向量。：在大模型的前面加上一个小网络层结构(小模型)，训练时让数据先过这个小模型，在过这个大模型，最终权重的更新只更新前面那个小模型。",
+      "published_date": null,
+      "source": "blog.csdn.net"
+    },
+    {
+      "title": "什么是大模型服务平台？ | 无问芯穹文档",
+      "url": "https://docs.infini-ai.com/gen-studio/",
+      "content": "GenStudio 帮助您轻松实现大模型微调，契合业务个性化需求。您可以选择预置的基础大模型，提供业务知识数据集，通过配置训练方式和训练参数，发起微调任务。平台将自动为您进行...",
+      "published_date": null,
+      "source": "docs.infini-ai.com"
+    },
+    {
+      "title": "【官方教程】ChatGLM3-6B 部署和微调（Function Call、Code Interpreter、Agent）_哔哩哔哩_bilibili",
+      "url": "https://www.bilibili.com/video/BV1uC4y1J7yA/?p=1",
+      "content": "AI大模型全套教程（LLM+RAG+Langchain+国产大模型ChatGLM-4+NLP新模型Transformer+DeepSeek部署）-马士兵 · 【保姆级教程】6小时掌握开源大模型本地部署到微调，从硬件指南到ChatGLM3-6B模型部署微调实战｜逐帧详解｜直达技术底层",
+      "published_date": null,
+      "source": "www.bilibili.com"
+    },
+    {
+      "title": "【入门】大语言模型常用微调框架介绍｜LoRA&Prefix-Tuning&Prompt-Tuning&P-Tuning v2&RLHF微调原理简介_哔哩哔哩_bilibili",
+      "url": "https://www.bilibili.com/video/BV1Yc411g78a/?p=3",
+      "content": "2026 Agent开发必学，OpenClaw原理精讲与从零手搓！详解Agent Skill、无限上下文记忆、自主迭代功能设计思路与从零开发实战！ · 【2026年AI大模型】10小时学：Prompt、RAG、Agent、MCP、大模型微调从入门到项目实战（完整版）学会...",
+      "published_date": null,
+      "source": "www.bilibili.com"
+    },
+    {
+      "title": "2026年开源LLM选型指南：从模型规模到架构实战，打造安全可控的AI应用 - 鲸林向海",
+      "url": "http://www.itsolotime.com/archives/20627",
+      "content": "现在你可以自信地选择一个适配你 PC 或 Google Colab 的模型。计算你的 VRAM 需求，使用 Unsloth AI 进行微调，保存成 GGUF 格式，再通过 LM Studio 或 Ollama 在本地运行。这是一个非常适合上手的实践项目，能帮助你真正将 AI 工作流掌握在自己手中！",
+      "published_date": null,
+      "source": "www.itsolotime.com"
+    }
+  ]
+}
