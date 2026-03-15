@@ -2,6 +2,7 @@
 """
 优化版分布式搜索汇总推送脚本
 解决原脚本超时和飞书推送限制问题
+兼容Python 3.6.8
 """
 
 import os
@@ -37,14 +38,20 @@ class OptimizedSearchSummary:
             return []
     
     def load_json_file(self, file_path: str) -> List[Dict]:
-        """安全加载单个JSON文件"""
+        """安全加载单个JSON文件并提取results"""
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
                 data = json.load(f)
-                if isinstance(data, list):
+                # 新的JSON格式包含results字段
+                if isinstance(data, dict) and 'results' in data:
+                    results = data.get('results', [])
+                    logger.info(f"从文件 {file_path} 提取到 {len(results)} 个结果")
+                    return results
+                elif isinstance(data, list):
+                    logger.info(f"从文件 {file_path} 提取到 {len(data)} 个结果（旧格式）")
                     return data
                 else:
-                    logger.warning(f"文件 {file_path} 格式不正确，期望列表")
+                    logger.warning(f"文件 {file_path} 格式不正确")
                     return []
         except Exception as e:
             logger.error(f"加载文件 {file_path} 失败: {e}")
@@ -53,26 +60,53 @@ class OptimizedSearchSummary:
     def filter_valid_positions(self, positions: List[Dict]) -> List[Dict]:
         """过滤有效的职位信息"""
         valid_positions = []
-        exclude_keywords = ['校招', '招聘', '主页', '验证', '打卡', '白皮书', '汇总']
-        include_keywords = ['工程师', '实习生', '算法', '开发', 'Prompt Engineer', '提示词']
+        exclude_keywords = ['校招', '招聘', '主页', '验证', '打卡', '白皮书', '汇总', '学员', '训练营']
+        include_keywords = ['工程师', '实习生', '算法', '开发', 'Prompt Engineer', '提示词', '智能体', 'Agent']
         
         for pos in positions:
             title = str(pos.get('title', ''))
-            company = str(pos.get('company', ''))
+            description = str(pos.get('description', ''))
             
             # 检查是否包含排除关键词
-            if any(keyword in title or keyword in company for keyword in exclude_keywords):
+            if any(keyword in title or keyword in description for keyword in exclude_keywords):
                 continue
                 
             # 检查是否包含包含关键词
-            if any(keyword in title or keyword in company for keyword in include_keywords):
-                valid_positions.append(pos)
+            if any(keyword in title or keyword in description for keyword in include_keywords):
+                # 转换为标准格式
+                standardized_pos = {
+                    'title': title,
+                    'company': self.extract_company(title),
+                    'location': pos.get('location', '深圳'),
+                    'direction': self.extract_direction(title, description),
+                    'salary': '面议',
+                    'link': pos.get('url', '#'),
+                    'source_type': pos.get('source', '招聘网站')
+                }
+                valid_positions.append(standardized_pos)
                 
         logger.info(f"过滤后保留 {len(valid_positions)} 个有效职位")
         return valid_positions
     
-    async def process_files_in_batches(self, json_files: List[str]) -> List[Dict]:
-        """分批处理JSON文件"""
+    def extract_company(self, title: str) -> str:
+        """从标题中提取公司名称"""
+        # 常见公司关键词
+        companies = ['腾讯', '字节', '华为', '阿里', '百度', '美团', '京东', '小米', '网易', '复星', '美图', '博世', '三星']
+        for company in companies:
+            if company in title:
+                return company
+        return "未知公司"
+    
+    def extract_direction(self, title: str, description: str) -> str:
+        """从标题和描述中提取方向"""
+        directions = ['AI Agent', '大模型', '算法', '开发', '提示词工程', '计算机视觉', '产品']
+        for direction in directions:
+            if direction in title or direction in description:
+                return direction
+        return "未指定方向"
+    
+    def process_files_in_batches(self, json_files: List[str]) -> List[Dict]:
+        """分批处理JSON文件（同步版本，兼容Python 3.6）"""
         all_positions = []
         total_files = len(json_files)
         
@@ -92,14 +126,25 @@ class OptimizedSearchSummary:
             # 批次间休息，避免资源占用过高
             if i + self.max_files_per_batch < total_files:
                 logger.info(f"批次处理完成，休息 {self.sleep_between_batches} 秒...")
-                await asyncio.sleep(self.sleep_between_batches)
+                time.sleep(self.sleep_between_batches)
         
-        # 按发布时间排序（最新优先）
-        all_positions.sort(key=lambda x: x.get('publish_time', ''), reverse=True)
+        # 按相关性排序（优先包含具体关键词的）
+        def sort_key(pos):
+            title = pos.get('title', '').lower()
+            score = 0
+            if '实习' in title:
+                score += 10
+            if '工程师' in title:
+                score += 5
+            if '腾讯' in title or '字节' in title or '华为' in title or '阿里' in title:
+                score += 3
+            return -score  # 负号表示降序
+        
+        all_positions.sort(key=sort_key)
         logger.info(f"总共收集到 {len(all_positions)} 个有效职位")
-        return all_positions[:10]  # 只取最新的10个
+        return all_positions[:10]  # 只取最相关的10个
     
-    def create_markdown_summary(self, positions: List[Dict], date_str: str = "2026年03月14日") -> str:
+    def create_markdown_summary(self, positions: List[Dict], date_str: str = "2026年03月15日") -> str:
         """创建Markdown格式的日报摘要"""
         if not positions:
             return f"# 📋 深圳AI Agent实习岗位日报（{date_str}）\n\n今日暂无符合条件的岗位信息。"
@@ -108,23 +153,27 @@ class OptimizedSearchSummary:
         categories = {
             'AI Agent': [],
             '大模型': [],
-            '智能体': [],
+            '算法开发': [],
             '提示词工程': []
         }
         
         for pos in positions:
             title = pos.get('title', '').lower()
-            if 'agent' in title or '智能体' in title:
+            direction = pos.get('direction', '')
+            
+            if 'agent' in title or '智能体' in title or 'AI Agent' in direction:
                 if '大模型' in title or 'llm' in title:
                     categories['大模型'].append(pos)
                 elif '提示词' in title or 'prompt' in title:
                     categories['提示词工程'].append(pos)
                 else:
                     categories['AI Agent'].append(pos)
-            elif '大模型' in title or 'llm' in title:
+            elif '大模型' in title or 'llm' in title or '大模型' in direction:
                 categories['大模型'].append(pos)
-            elif '提示词' in title or 'prompt' in title:
+            elif '提示词' in title or 'prompt' in title or '提示词工程' in direction:
                 categories['提示词工程'].append(pos)
+            elif '算法' in direction or '开发' in direction or '工程师' in title:
+                categories['算法开发'].append(pos)
             else:
                 categories['AI Agent'].append(pos)
         
@@ -135,7 +184,7 @@ class OptimizedSearchSummary:
                 markdown += f"## 🔍 {category} 相关岗位\n\n"
                 for i, pos in enumerate(positions_list[:3], 1):  # 每类最多显示3个
                     company = pos.get('company', '未知公司')
-                    location = pos.get('location', '未指定')
+                    location = pos.get('location', '深圳')
                     direction = pos.get('direction', '未指定方向')
                     salary = pos.get('salary', '面议')
                     link = pos.get('link', '#')
@@ -147,7 +196,7 @@ class OptimizedSearchSummary:
                     markdown += f"- **方向**: {direction}\n"
                     markdown += f"- **薪资**: {salary}\n"
                     markdown += f"- **链接**: [{link}]({link})\n"
-                    markdown += f"- **来源类型**: {source_type}\n\n"
+                    markdown += f"- **来源**: {source_type}\n\n"
         
         # 添加建议部分
         markdown += "## 💡 建议与资源\n\n"
@@ -189,18 +238,18 @@ class OptimizedSearchSummary:
         
         return parts
     
-    async def main(self):
-        """主执行函数"""
+    def main(self):
+        """主执行函数（同步版本）"""
         logger.info("开始执行优化版分布式搜索汇总任务")
         
         # 获取JSON文件列表
         json_files = self.get_json_files()
         if not json_files:
             logger.warning("未找到任何JSON文件")
-            return
+            return None
         
         # 分批处理文件
-        positions = await self.process_files_in_batches(json_files)
+        positions = self.process_files_in_batches(json_files)
         
         # 生成日报
         from datetime import datetime
@@ -211,17 +260,16 @@ class OptimizedSearchSummary:
         message_parts = self.split_message_for_feishu(full_report)
         logger.info(f"生成日报完成，共 {len(message_parts)} 条消息")
         
-        # 这里返回消息内容，由调用方负责实际推送
+        # 返回消息内容，由调用方负责实际推送
         return message_parts
 
 if __name__ == "__main__":
-    async def run():
-        processor = OptimizedSearchSummary()
-        messages = await processor.main()
-        if messages:
-            # 在实际cron任务中，这里会返回messages供推送使用
-            print("=== 生成的日报内容 ===")
-            for i, msg in enumerate(messages, 1):
-                print(f"\n--- 消息 {i} ---\n{msg}")
-    
-    asyncio.run(run())
+    processor = OptimizedSearchSummary()
+    messages = processor.main()
+    if messages:
+        # 在实际cron任务中，这里会返回messages供推送使用
+        print("=== 生成的日报内容 ===")
+        for i, msg in enumerate(messages, 1):
+            print(f"\n--- 消息 {i} ---\n{msg}")
+    else:
+        print("=== 未生成日报内容 ===")

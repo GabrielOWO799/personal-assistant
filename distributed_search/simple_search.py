@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-大模型实习岗位搜索脚本
+简化版AI Agent实习搜索脚本
 """
 
 import requests
@@ -11,15 +11,15 @@ from datetime import datetime
 import os
 import sys
 
-def search_large_model_jobs():
-    """执行大模型实习岗位搜索"""
-    # 搜索查询
-    query = '"深圳" ("大模型" OR "LLM") ("实习" OR "实习生") ("算法工程师" OR "微调") (site:bosszhipin.com OR site:lagou.com OR site:nowcoder.com)'
+def search_ai_agent_jobs():
+    """执行AI Agent实习岗位搜索"""
+    # 基础搜索查询（简化版本）
+    query = '"深圳" "AI Agent" ("实习" OR "实习生") ("工程师" OR "算法" OR "开发") (site:zhipin.com OR site:liepin.com OR site:shixiseng.com)'
     
     print(f"执行搜索: {query}")
     
     try:
-        # 请求参数
+        # 简化请求，不使用时间范围
         params = {
             'q': query,
             'format': 'json',
@@ -41,11 +41,11 @@ def search_large_model_jobs():
             url = result.get('url', '')
             
             # 检查是否包含必要的关键词
-            has_position_keyword = any(keyword in title for keyword in ['算法工程师', '实习生', '微调'])
-            is_job_page = any(domain in url for domain in ['bosszhipin.com', 'lagou.com', 'nowcoder.com'])
+            has_position_keyword = any(keyword in title for keyword in ['工程师', '实习生', '算法', '开发'])
+            is_job_page = any(domain in url for domain in ['zhipin.com', 'liepin.com', 'shixiseng.com'])
             
             # 排除汇总页、公司主页等
-            exclude_keywords = ['校招', '校园招聘', '公司首页', '验证', 'captcha', '汇总']
+            exclude_keywords = ['校招', '校园招聘', '公司首页', '验证', 'captcha']
             should_exclude = any(keyword in title for keyword in exclude_keywords)
             
             if has_position_keyword and is_job_page and not should_exclude:
@@ -62,7 +62,7 @@ def search_large_model_jobs():
         
         # 保存结果
         date_str = datetime.now().strftime('%Y%m%d')
-        output_path = f'/home/admin/.openclaw/workspace/distributed_search/search_buffer/large_model_{date_str}.json'
+        output_path = f'/home/admin/.openclaw/workspace/distributed_search/search_buffer/ai_agent_{date_str}.json'
         
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
         
@@ -83,7 +83,7 @@ def search_large_model_jobs():
         print(f"搜索失败: {e}")
         # 创建空结果文件
         date_str = datetime.now().strftime('%Y%m%d')
-        output_path = f'/home/admin/.openclaw/workspace/distributed_search/search_buffer/large_model_{date_str}.json'
+        output_path = f'/home/admin/.openclaw/workspace/distributed_search/search_buffer/ai_agent_{date_str}.json'
         
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
         
@@ -100,4 +100,4 @@ def search_large_model_jobs():
         return 0
 
 if __name__ == '__main__':
-    search_large_model_jobs()
+    search_ai_agent_jobs()
