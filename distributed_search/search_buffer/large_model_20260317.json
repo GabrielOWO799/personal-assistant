@@ -1,0 +1,8 @@
+{
+  "search_query": "深圳 大模型 实习 算法工程师 LLM 微调 site:bosszhipin.com OR site:lagou.com OR site:nowcoder.com",
+  "timestamp": "2026-03-17T10:00:00+08:00",
+  "time_ranges": ["past_week", "past_month", "past_6months"],
+  "max_results": 15,
+  "timeout_seconds": 30,
+  "results": []
+}
