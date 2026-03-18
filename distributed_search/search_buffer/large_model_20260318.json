@@ -1,0 +1,7 @@
+{
+  "search_query": "\"深圳\" \"大模型\" (\"实习\" OR \"实习生\") (\"算法工程师\" OR \"微调\") (site:bosszhipin.com OR site:lagou.com OR site:nowcoder.com)",
+  "timestamp": "2026-03-18T10:07:38.461585",
+  "total_results": 0,
+  "results": [],
+  "error": "403 Client Error: Forbidden for url: http://localhost:8080/search?q=%22%E6%B7%B1%E5%9C%B3%22+%22%E5%A4%A7%E6%A8%A1%E5%9E%8B%22+%28%22%E5%AE%9E%E4%B9%A0%22+OR+%22%E5%AE%9E%E4%B9%A0%E7%94%9F%22%29+%28%22%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%22+OR+%22%E5%BE%AE%E8%B0%83%22%29+%28site%3Abosszhipin.com+OR+site%3Alagou.com+OR+site%3Anowcoder.com%29&format=json&language=zh-CN&safesearch=0&categories=general"
+}

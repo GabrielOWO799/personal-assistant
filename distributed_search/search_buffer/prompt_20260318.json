@@ -1,0 +1,8 @@
+{
+  "search_query": "深圳 提示词工程 实习 Prompt Engineer site:interns.com.cn OR site:shixiseng.com OR site:liepin.com",
+  "timestamp": "2026-03-18T12:01:00+08:00",
+  "time_ranges": ["past_7_days", "past_30_days", "past_180_days"],
+  "max_results": 15,
+  "timeout_seconds": 30,
+  "results": []
+}
