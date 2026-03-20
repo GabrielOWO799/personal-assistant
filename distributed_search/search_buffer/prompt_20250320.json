@@ -1,0 +1,62 @@
+{
+  "search_keyword": "深圳 提示词工程 实习 Prompt Engineer",
+  "search_date": "2025-03-20",
+  "time_range": "过去30天内",
+  "total_results": 4,
+  "jobs": [
+    {
+      "title": "AI剧本写作Prompt工程实习生-TikTok",
+      "company": "字节跳动",
+      "location": "深圳",
+      "type": "实习生",
+      "url": "https://www.shixiseng.com/intern/inn_u9ibcfpmvgcu",
+      "source": "实习僧",
+      "description": "1、参与AI剧本Workflow的工作流设计；包括提示词工程（Prompt Engineering）设计与测试；模型评测；Workflow设计与搭建；相关测评工具开发；2、探索LLM技术如何应用在AI剧本生成领域。",
+      "keywords": ["Prompt Engineering", "提示词工程", "实习生"],
+      "time_range": "过去30天",
+      "score": 1.0
+    },
+    {
+      "title": "数据标注/Ai训练师",
+      "company": "深圳市亿焜科技",
+      "location": "深圳",
+      "type": "全职/实习",
+      "url": "https://www.zhipin.com/job_detail/c60df3504922d76b0nRz29y9FlJU.html",
+      "source": "BOSS直聘",
+      "description": "任职要求：1.具备良好的数据敏感性和细致的工作态度 2.能够熟练使用标注工具和软件，提高工作效率 3.具有团队合作精神，能够在紧密协作的环境中保持高效率 4.统招本科毕业1年及以上或统招大专毕业2年及以上工作经验优先 5.经验丰富者薪资可谈",
+      "keywords": ["AI训练师", "数据标注"],
+      "time_range": "过去30天",
+      "score": 0.8
+    },
+    {
+      "title": "数据标注/AI训练师实习生",
+      "company": "欣盛云数据",
+      "location": "深圳",
+      "type": "实习生",
+      "url": "https://www.shixiseng.com/intern/inn_sctvlcnpqvdm",
+      "source": "实习僧",
+      "description": "提供数据标注/AI训练师实习生招聘信息，包含岗位职责、任职要求、工作内容说明、薪资待遇等招聘信息。",
+      "keywords": ["AI训练师", "数据标注", "实习生"],
+      "time_range": "过去30天",
+      "score": 0.7
+    },
+    {
+      "title": "AI剧本写作Prompt工程实习生-TikTok",
+      "company": "字节跳动",
+      "location": "深圳",
+      "type": "实习生",
+      "url": "https://www.quanzhi.com/job/69a19bc2fc45f41049241841",
+      "source": "全职招聘网",
+      "description": "字节跳动AI剧本写作Prompt工程实习生-TikTok招聘，了解更多招聘信息就来全职招聘网。",
+      "keywords": ["Prompt工程", "实习生"],
+      "time_range": "过去30天",
+      "score": 0.6
+    }
+  ],
+  "search_metadata": {
+    "engines_used": ["duckduckgo", "brave"],
+    "unresponsive_engines": ["google", "startpage"],
+    "search_duration_ms": 25000,
+    "notes": "专门针对Prompt Engineer/提示词工程师实习岗位的搜索，结果较少，该岗位在深圳地区需求相对 niche"
+  }
+}

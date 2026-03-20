@@ -1,44 +1,37 @@
 #!/usr/bin/env python3
 import requests
 import json
-import sys
 
-def search_searxng(query, categories=None, time_range=None):
-    """
-    Search using local SearXNG instance
-    """
-    url = "http://172.19.15.210:8080/search"
-    
+def test_searxng():
+    url = "http://localhost:8080/search"
     params = {
-        'q': query,
+        'q': 'AI Agent',
         'format': 'json',
-        'language': 'zh-CN'
+        'language': 'zh'
+    }
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
     }
     
-    if categories:
-        params['categories'] = categories
-    if time_range:
-        params['time_range'] = time_range
-    
     try:
-        response = requests.get(url, params=params, timeout=30)
-        response.raise_for_status()
-        return response.json()
+        response = requests.get(url, params=params, headers=headers, timeout=30)
+        print(f"Status code: {response.status_code}")
+        print(f"Response headers: {dict(response.headers)}")
+        
+        if response.status_code == 200:
+            try:
+                data = response.json()
+                print(f"Found {len(data.get('results', []))} results")
+                if data.get('results'):
+                    print("First result:", data['results'][0].get('title', 'No title'))
+            except json.JSONDecodeError:
+                print("Response is not JSON, showing first 200 chars:")
+                print(response.text[:200])
+        else:
+            print(f"Error: {response.text[:200]}")
+            
     except Exception as e:
-        print(f"Error searching SearXNG: {e}", file=sys.stderr)
-        return None
+        print(f"Exception: {e}")
 
 if __name__ == "__main__":
-    if len(sys.argv) < 2:
-        print("Usage: python3 test_searxng.py <query> [categories] [time_range]")
-        sys.exit(1)
-    
-    query = sys.argv[1]
-    categories = sys.argv[2] if len(sys.argv) > 2 else None
-    time_range = sys.argv[3] if len(sys.argv) > 3 else None
-    
-    results = search_searxng(query, categories, time_range)
-    if results:
-        print(json.dumps(results, ensure_ascii=False, indent=2))
-    else:
-        print("No results or error occurred")
+    test_searxng()
