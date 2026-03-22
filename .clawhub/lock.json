@@ -4,6 +4,18 @@
     "searxng": {
       "version": "1.0.3",
       "installedAt": 1770711623158
+    },
+    "decide": {
+      "version": "1.0.1",
+      "installedAt": 1774156204458
+    },
+    "cron-doctor": {
+      "version": "1.0.1",
+      "installedAt": 1774156270885
+    },
+    "learning": {
+      "version": "1.0.0",
+      "installedAt": 1774157243417
     }
   }
 }
