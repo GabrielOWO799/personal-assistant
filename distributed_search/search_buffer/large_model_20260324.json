@@ -1,0 +1,81 @@
+{
+  "search_date": "2026-03-24",
+  "keywords": ["深圳 大模型 实习 2026", "深圳 大模型 春招 2026", "深圳 LLM 实习 校招"],
+  "total_results": 5,
+  "jobs": [
+    {
+      "id": "large_model_001",
+      "title": "大模型/多模态算法研究员（实习）",
+      "company": "Gankinterview合作企业",
+      "location": "深圳",
+      "type": "实习",
+      "category": "互联网实习",
+      "source": "Gankinterview校招信息汇总",
+      "url": "https://www.gankinterview.cn/campus?tab=internship",
+      "description": "大模型/多模态算法研究实习生岗位，面向2026届、2027届学生",
+      "publish_date": "2026-03-12",
+      "is_internship": true,
+      "is_campus": false
+    },
+    {
+      "id": "large_model_002",
+      "title": "深圳大模型方向招聘-腾讯",
+      "company": "腾讯",
+      "location": "深圳",
+      "type": "校招/实习",
+      "category": "校招/实习",
+      "source": "CSDN博客",
+      "url": "https://blog.csdn.net/a2875254060/article/details/139453403",
+      "description": "腾讯深圳大模型算法岗位，主要技术方向为预训练和PPO相关技术，团队前期场景为通用大模型，目前主要工作为角色相关的大模型研发",
+      "publish_date": "2024-06-04",
+      "is_internship": true,
+      "is_campus": true
+    },
+    {
+      "id": "large_model_003",
+      "title": "算法工程师-世界模型方向",
+      "company": "招商创科",
+      "location": "深圳、香港",
+      "type": "校招",
+      "category": "2025届校园招聘",
+      "source": "香港中文大学就业中心",
+      "url": "https://career.cuhk.edu.cn/attachment/careercuhk/ueditor/file/20241014/8594_招商创科2025届校园招聘需求.pdf",
+      "description": "针对具身智能的各个重大技术方向进行大模型的预训练和微调，尤其关注多模态（文本、图像、视频等）大模型的结构设计和训练方法上的探索",
+      "publish_date": "2024-10-14",
+      "is_internship": false,
+      "is_campus": true
+    },
+    {
+      "id": "large_model_004",
+      "title": "AI大模型应用开发工程师/工程师（推理加速/AICRM）",
+      "company": "顺丰科技",
+      "location": "深圳",
+      "type": "社招",
+      "category": "C++开发",
+      "source": "猎聘网",
+      "url": "https://www.liepin.com/job/1978146037.shtml",
+      "description": "大模型应用开发架构师/工程师，负责推理加速和AICRM相关开发工作",
+      "publish_date": "2026-02-27",
+      "is_internship": false,
+      "is_campus": false
+    },
+    {
+      "id": "large_model_005",
+      "title": "博士生(2026届博士生招聘) - 个性化AI和AI记忆系统",
+      "company": "OPPO",
+      "location": "深圳",
+      "type": "校招",
+      "category": "2026届校招",
+      "source": "OPPO招聘官网",
+      "url": "https://careers.oppo.com/university/oppo/campus/post",
+      "description": "进行个性化AI(大模型和智能体个性化)和AI记忆系统相关的学术研究和算法落地，包括个性化模型对齐、个性化推理/解码、个性化AI的评估和Benchmark等研究方向",
+      "publish_date": null,
+      "is_internship": false,
+      "is_campus": true
+    }
+  ],
+  "internship_count": 2,
+  "campus_count": 3,
+  "search_status": "completed",
+  "note": "筛选出5条大模型相关岗位信息，其中实习岗位2个，春招/校招岗位3个"
+}
