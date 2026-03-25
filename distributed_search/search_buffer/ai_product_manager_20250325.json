@@ -1,0 +1,83 @@
+{
+  "search_date": "2025-03-25",
+  "search_time": "13:00",
+  "keywords": [
+    "深圳 AI产品经理 实习 2026",
+    "深圳 AI产品经理 春招 2026",
+    "深圳 人工智能产品 实习 校招"
+  ],
+  "total_results": 5,
+  "jobs": [
+    {
+      "id": 1,
+      "title": "AI产品实习生",
+      "company": "深圳市百运科技有限公司",
+      "location": "深圳",
+      "type": "实习",
+      "salary": "5K-6K/月",
+      "url": "https://www.yingjiesheng.com/job-007-912-423.html",
+      "description": "AI产品实习生招聘，面向本科及以上应届生，提供年底双薪、绩效奖金、年度旅游、带薪年假等福利",
+      "source": "应届生求职网",
+      "publish_date": "2026年3月20日",
+      "keywords_matched": ["AI产品", "实习", "深圳"]
+    },
+    {
+      "id": 2,
+      "title": "AI产品实习生招聘 (Agent/AIGC方向)",
+      "company": "xTool Retail Studio",
+      "location": "深圳",
+      "type": "实习",
+      "salary": "可转正",
+      "url": "https://cn.linkedin.com/jobs/view/ai%E4%BA%A7%E5%93%81%E5%B7%A5%E7%A8%8B%E5%B8%88-at-xtool-retail-studio-4386108986",
+      "description": "AI产品实习生招聘，Agent/AIGC方向，要求强自驱力、高好奇心、创造力优先，可转正",
+      "source": "LinkedIn",
+      "publish_date": "近期",
+      "keywords_matched": ["AI产品", "实习", "深圳", "Agent", "AIGC"]
+    },
+    {
+      "id": 3,
+      "title": "人工智能产品经理",
+      "company": "深圳联通",
+      "location": "深圳",
+      "type": "春招/校招",
+      "salary": "未注明",
+      "url": "https://career.gdut.edu.cn/campus/view/id/1020518",
+      "description": "深圳联通2026届春季校园招聘，包含人工智能产品经理岗位，面向2026届毕业生",
+      "source": "广东工业大学就业指导中心",
+      "publish_date": "2026年春季",
+      "keywords_matched": ["人工智能产品", "春招", "校招", "深圳", "2026届"]
+    },
+    {
+      "id": 4,
+      "title": "AI产品经理",
+      "company": "嘉立创",
+      "location": "深圳",
+      "type": "实习/校招",
+      "salary": "未注明",
+      "url": "https://www.zhipin.com/job_detail/519eca5f8f4f56760nZ709y-ElpZ.html",
+      "description": "B端产品AI产品方向，毕业时间要求2026年，招聘截止日期2026.09.30，负责市场与机会洞察、产品定义与设计",
+      "source": "BOSS直聘",
+      "publish_date": "近期",
+      "keywords_matched": ["AI产品", "深圳", "2026"]
+    },
+    {
+      "id": 5,
+      "title": "Product Engineer-产品工程师（AI应用产品经理方向）",
+      "company": "小红书",
+      "location": "深圳/远程",
+      "type": "实习",
+      "salary": "未注明",
+      "url": "https://hr.xiaohongshu.com/recommend/job-list/XHSRC-0f616d0e063f28a9b9740b39a50a8f3b",
+      "description": "【27届实习】Product Engineer-产品工程师，AI应用产品经理方向，质效研发部门",
+      "source": "小红书招聘",
+      "publish_date": "近期",
+      "keywords_matched": ["AI应用", "产品", "实习"]
+    }
+  ],
+  "search_metadata": {
+    "engines_used": ["duckduckgo"],
+    "unresponsive_engines": ["brave"],
+    "time_range": "week",
+    "timestamp": "2025-03-25T13:00:00+08:00"
+  }
+}
