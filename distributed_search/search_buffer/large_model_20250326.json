@@ -1,0 +1,77 @@
+{
+  "search_date": "2025-03-26",
+  "search_time": "10:00",
+  "keywords": [
+    "深圳 大模型 实习 2026",
+    "深圳 大模型 春招 2026",
+    "深圳 LLM 实习 校招"
+  ],
+  "results": [
+    {
+      "title": "视觉生成模型实习生",
+      "company": "索尼（中国）",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://www.shixiseng.com/intern/inn_pe59yyaxd1v2",
+      "salary": "250-300/天",
+      "requirements": "硕士，3天/周，实习3个月",
+      "benefits": "地铁周边,一对一导师,实习津贴,餐补",
+      "source": "实习僧",
+      "publishedDate": "2026-03-20"
+    },
+    {
+      "title": "大模型算法工程师",
+      "company": "深圳佑驾创新科技股份有限公司",
+      "location": "深圳",
+      "type": "校招",
+      "url": "https://campus.niuqizp.com/job-v885ZZ5Cz.html",
+      "salary": "36万元/年",
+      "requirements": "2026届，L4级别",
+      "source": "牛企直聘",
+      "publishedDate": "2026-03-23"
+    },
+    {
+      "title": "直播产品实习生",
+      "company": "抖音",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://www.sohu.com/a/1000625798_121124005",
+      "description": "负责抖音直播开播工具和营收模式相关AI工具能力建设，推动AI技术在直播领域的创新应用与落地",
+      "source": "搜狐",
+      "publishedDate": null
+    },
+    {
+      "title": "【Ace顶尖实习生】基于Diffusion LLM的基座大模型研究",
+      "company": "小红书",
+      "location": "北京/上海/杭州",
+      "type": "实习",
+      "url": "https://campus.niuqizp.com/job-vmY5ZZzaL.html",
+      "description": "大模型基座研究",
+      "source": "牛企直聘",
+      "publishedDate": null
+    },
+    {
+      "title": "支付智能技术部-搜推/营销/大模型实习生",
+      "company": "蚂蚁集团",
+      "location": "深圳/杭州",
+      "type": "实习",
+      "url": "https://bbs.pku.edu.cn/v2/post-read.php?bid=896&threadid=19002441",
+      "description": "负责支付场景下的智能决策中枢，涵盖搜索推荐、大模型应用、营销流控等核心算法方向",
+      "requirements": "2027年毕业同学，优秀者直通校招",
+      "source": "北大BBS",
+      "publishedDate": null
+    }
+  ],
+  "summary": {
+    "total_found": 5,
+    "internship_count": 4,
+    "campus_count": 1,
+    "shenzhen_local": 3,
+    "other_cities": 2
+  },
+  "notes": [
+    "腾讯2026实习生招聘已启动，提供超过一万个实习机会，面向2026年9月-2027年12月毕业学生",
+    "美团2026春季校园招聘预计补招6000人，开放3000+转正实习岗位",
+    "AI岗位需求增长显著，大模型相关岗位供需紧张"
+  ]
+}

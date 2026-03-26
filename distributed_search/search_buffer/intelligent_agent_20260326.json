@@ -1,0 +1,92 @@
+{
+  "search_date": "2026-03-26",
+  "search_keywords": [
+    "深圳 智能体 实习 2026",
+    "深圳 智能体 春招 2026",
+    "深圳 Multi-Agent 实习 校招"
+  ],
+  "total_results": 5,
+  "jobs": [
+    {
+      "id": 1,
+      "title": "腾讯2026青云实习生招聘 - 智能体方向",
+      "company": "腾讯",
+      "location": "深圳",
+      "type": "实习",
+      "category": "智能体/AI",
+      "url": "https://www.163.com/dy/article/KOI5HHUK055284JB.html",
+      "description": "腾讯2026青云实习生招聘，面向2026年9月之后毕业的AI大模型相关技术领域的顶尖本硕博同学，开放大语言模型、NLP、多模态、视觉、语音、智能体、强化学习、搜索、推荐等六大技术领域",
+      "source": "网易新闻",
+      "published_date": "2026-03-19",
+      "is_internship": true,
+      "is_spring_recruitment": true
+    },
+    {
+      "id": 2,
+      "title": "小红书 Ace顶尖实习生 - 通用智能体框架探索与长程任务强化学习研究",
+      "company": "小红书",
+      "location": "深圳/北京/上海/杭州",
+      "type": "实习",
+      "category": "智能体/强化学习",
+      "url": "https://campus.niuqizp.com/job-vkr5Ztnnn.html",
+      "description": "通用智能体框架探索与长程任务强化学习研究，2026校园招聘岗位",
+      "source": "牛企直聘",
+      "published_date": "2026",
+      "is_internship": true,
+      "is_spring_recruitment": true
+    },
+    {
+      "id": 3,
+      "title": "香港中文大学（深圳）未来智联网络研究院 - 具身智能算法工程师（实习生）",
+      "company": "香港中文大学（深圳）",
+      "location": "深圳",
+      "type": "实习",
+      "category": "具身智能/算法",
+      "url": "https://career.cuhk.edu.cn/job/view/id/467557",
+      "description": "具身智能算法工程师实习生招聘，拥有大量A100资源，同时拥有多个机器人硬件平台，可推荐至国内外多个顶尖的计算机视觉、深度学习研究机构进行实习、交流访问和帮助硕博士申请",
+      "source": "港中深就业中心",
+      "published_date": "2026-03-23",
+      "is_internship": true,
+      "is_spring_recruitment": false
+    },
+    {
+      "id": 4,
+      "title": "小鹏汽车2026年物理AI人才专项（实习生专场）",
+      "company": "小鹏汽车",
+      "location": "深圳",
+      "type": "实习",
+      "category": "物理AI/智能体",
+      "url": "https://scc.pku.edu.cn/f/recruitmentinfo/show?recruitmentId=362775b9c17849f3adee9ba21b926f1b",
+      "description": "小鹏汽车致力于让AI从数字世界走向物理世界，以自研的第二代VLA模型作为技术底座，在汽车、机器人、飞行汽车等领域实现规模化落地",
+      "source": "北京大学学生就业指导服务中心",
+      "published_date": "2026",
+      "is_internship": true,
+      "is_spring_recruitment": true
+    },
+    {
+      "id": 5,
+      "title": "中科院深圳先进技术研究院 - 自动化工程师（实习生）",
+      "company": "中国科学院深圳先进技术研究院",
+      "location": "深圳",
+      "type": "实习",
+      "category": "自动化/智能系统",
+      "url": "https://www.yingjiesheng.com/job-007-835-333.html",
+      "description": "深圳合成生物研究重大科技基础设施招聘自动化工程师实习生，提供学习平台、大平台、五险一金、补充医疗保险、带薪年假、年终奖金、定期体检、有餐补等福利",
+      "source": "应届生求职网",
+      "published_date": "2026",
+      "is_internship": true,
+      "is_spring_recruitment": false
+    }
+  ],
+  "search_metadata": {
+    "execution_time": "2026-03-26T11:00:00+08:00",
+    "search_engines_used": ["duckduckgo"],
+    "unresponsive_engines": ["brave", "google", "startpage"],
+    "filter_criteria": {
+      "location": "深圳",
+      "job_types": ["实习", "春招", "校招"],
+      "keywords": ["智能体", "Multi-Agent", "Agent", "具身智能"],
+      "exclude_full_time": true
+    }
+  }
+}

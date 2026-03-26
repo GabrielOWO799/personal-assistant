@@ -1,0 +1,78 @@
+{
+  "search_date": "2026-03-26",
+  "search_keywords": [
+    "深圳 AI产品经理 实习 2026",
+    "深圳 AI产品经理 春招 2026",
+    "深圳 人工智能产品 实习 校招"
+  ],
+  "total_results": 5,
+  "jobs": [
+    {
+      "id": 1,
+      "title": "深圳联通2026届春季校园招聘-人工智能产品经理",
+      "company": "深圳联通",
+      "type": "校招/春招",
+      "location": "深圳",
+      "url": "https://career.gdut.edu.cn/campus/view/id/1020518",
+      "source": "广东工业大学就业指导中心",
+      "description": "深圳联通2026届春季校园招聘公告，招聘岗位包括：政企营销专家、政企解决方案经理、智算支撑经理、智算产品经理、人工智能产品经理、高级人工智能工程师等",
+      "keywords_matched": ["春招", "校招", "2026届", "人工智能产品经理"],
+      "search_query": "深圳 AI产品经理 春招 2026"
+    },
+    {
+      "id": 2,
+      "title": "金融壹账通2026实习-AI算法/后端开发/运维/项目经理/产品经理",
+      "company": "金融壹账通(ONECONNECT)",
+      "type": "实习",
+      "location": "深圳",
+      "url": "https://campus.niuqizp.com/schedule-7rys55aCn.html",
+      "source": "牛企直聘",
+      "description": "2026深圳最新名企招聘岗位，金融壹账通2026实习，2026春招招聘校园招聘简章，招聘岗位：AI算法，后端开发，运维，项目经理，产品经理，销售，售前，财务，企划，审计，人事",
+      "keywords_matched": ["实习", "2026", "产品经理"],
+      "search_query": "深圳 AI产品经理 实习 2026"
+    },
+    {
+      "id": 3,
+      "title": "xTool Retail Studio-AI产品工程师(深圳)",
+      "company": "xTool Retail Studio",
+      "type": "实习",
+      "location": "深圳",
+      "url": "https://cn.linkedin.com/jobs/view/ai产品工程师-at-xtool-retail-studio-4386108986",
+      "source": "LinkedIn",
+      "description": "AI产品实习生招聘(Agent/AIGC方向) 深圳 | 可转正 | 强自驱 x 高好奇心 x 创造力优先。我们是一家深耕智能硬件x...",
+      "keywords_matched": ["实习", "AI产品", "Agent/AIGC"],
+      "search_query": "深圳 AI产品经理 实习 2026"
+    },
+    {
+      "id": 4,
+      "title": "小红书实习生内推-Product Engineer产品工程师(AI应用产品经理方向)",
+      "company": "小红书",
+      "type": "实习(27届)",
+      "location": "深圳",
+      "url": "https://hr.xiaohongshu.com/recommend/job-list/XHSRC-26f1aa48267c0cc063b9696ad1014a3e",
+      "source": "小红书招聘",
+      "description": "【27届实习】Product Engineer-产品工程师（AI应用产品经理方向）-质效研发",
+      "keywords_matched": ["实习", "AI应用产品经理"],
+      "search_query": "深圳 AI产品经理 实习 2026"
+    },
+    {
+      "id": 5,
+      "title": "深圳阿特辣人工智能科技有限公司-工厂技术支持2026校园招聘",
+      "company": "深圳阿特辣人工智能科技",
+      "type": "校招",
+      "location": "深圳",
+      "url": "https://campus.niuqizp.com/job-vm85ZZ55M.html",
+      "source": "牛企直聘",
+      "description": "我们是一家总部位于加拿大，美国纽约设有分公司的全球化AI企业，现正式设立深圳办事处，面向全球招募精英人才。团队以国际人才为主，外籍同事占比高，拥有多元包容，开放高效的跨国工作氛围。我们深耕人工智能核心技术与行业解决...",
+      "keywords_matched": ["校招", "2026", "人工智能"],
+      "search_query": "深圳 人工智能产品 实习 校招"
+    }
+  ],
+  "summary": {
+    "total_jobs": 5,
+    "internship_count": 3,
+    "campus_recruitment_count": 2,
+    "companies": ["深圳联通", "金融壹账通", "xTool Retail Studio", "小红书", "深圳阿特辣人工智能科技"],
+    "search_time": "2026-03-26 13:00:00"
+  }
+}
