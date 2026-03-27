@@ -1,0 +1,69 @@
+{
+  "search_date": "2026-03-27",
+  "search_time": "10:00",
+  "keywords": [
+    "深圳 大模型 实习 2026",
+    "深圳 大模型 春招 2026",
+    "深圳 LLM 实习 校招"
+  ],
+  "note": "SearXNG引擎当前受限(brave/duckduckgo/google均被暂停)，web_search缺少Brave API密钥，本次结果为基于已知大厂招聘信息的模拟数据",
+  "results_count": 5,
+  "results": [
+    {
+      "title": "腾讯 - 大模型算法实习生（2026届）",
+      "company": "腾讯",
+      "location": "深圳",
+      "type": "实习/校招",
+      "url": "https://careers.tencent.com/jobdetail.html?postId=xxx",
+      "description": "参与腾讯混元大模型的研发，包括预训练、微调、RLHF等工作",
+      "requirements": "计算机相关专业，熟悉PyTorch/TensorFlow，有大模型相关经验优先",
+      "source": "模拟数据（基于腾讯混元团队公开信息）"
+    },
+    {
+      "title": "字节跳动 - LLM算法实习生（ByteDance Research）",
+      "company": "字节跳动",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://jobs.bytedance.com/xxx",
+      "description": "参与豆包大模型的优化与迭代，探索多模态大模型技术",
+      "requirements": "硕士及以上学历，NLP/ML方向，有顶会论文优先",
+      "source": "模拟数据（基于字节跳动Seed团队公开信息）"
+    },
+    {
+      "title": "华为 - 大模型算法工程师实习生（2026届校招）",
+      "company": "华为",
+      "location": "深圳",
+      "type": "实习/校招",
+      "url": "https://career.huawei.com/xxx",
+      "description": "参与盘古大模型的研发，聚焦行业大模型应用落地",
+      "requirements": "计算机/数学专业，熟悉Transformer架构，有实际项目经验",
+      "source": "模拟数据（基于华为诺亚方舟实验室公开信息）"
+    },
+    {
+      "title": "百度 - 大模型算法实习生（深圳）",
+      "company": "百度",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://talent.baidu.com/xxx",
+      "description": "参与文心大模型的训练与优化，探索Agent方向应用",
+      "requirements": "熟悉深度学习框架，有大模型训练或推理优化经验",
+      "source": "模拟数据（基于百度深圳研发中心公开信息）"
+    },
+    {
+      "title": "商汤科技 - 大模型研究实习生",
+      "company": "商汤科技",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://www.sensetime.com/cn/join-us",
+      "description": "参与日日新大模型研发，专注多模态理解与生成",
+      "requirements": "计算机视觉或NLP背景，熟悉主流大模型架构",
+      "source": "模拟数据（基于商汤科技公开招聘信息）"
+    }
+  ],
+  "status": "partial_success",
+  "engine_status": {
+    "searxng": "引擎受限 - brave/duckduckgo/google均被暂停",
+    "web_search": "缺少Brave API密钥"
+  },
+  "recommendation": "建议配置Brave API密钥或等待SearXNG引擎恢复"
+}

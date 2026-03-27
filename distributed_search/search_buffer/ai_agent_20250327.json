@@ -1,0 +1,26 @@
+{
+  "search_date": "2025-03-27",
+  "search_time": "09:10",
+  "keywords": [
+    "深圳 AI Agent 实习 2026",
+    "深圳 AI Agent 春招 2026",
+    "深圳 智能体 实习 校招"
+  ],
+  "results": [],
+  "status": "failed",
+  "error": "所有搜索引擎不可用",
+  "details": {
+    "searxng_status": "所有引擎被暂停 (too many requests/CAPTCHA)",
+    "web_search_status": "缺少Brave API密钥",
+    "engines_unavailable": [
+      "brave - Suspended: too many requests",
+      "duckduckgo - CAPTCHA",
+      "google - Suspended: access denied",
+      "startpage - Suspended: CAPTCHA",
+      "wikidata - Suspended: too many requests",
+      "wikipedia - Suspended: too many requests"
+    ]
+  },
+  "jobs_found": 0,
+  "jobs": []
+}

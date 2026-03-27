@@ -1,0 +1,69 @@
+{
+  "search_date": "2025-03-27",
+  "search_time": "11:00",
+  "keywords": [
+    "深圳 智能体 实习 2026",
+    "深圳 智能体 春招 2026",
+    "深圳 Multi-Agent 实习 校招"
+  ],
+  "total_results": 5,
+  "jobs": [
+    {
+      "title": "腾讯2026青云实习生招聘 - 智能体等六大技术领域",
+      "company": "腾讯",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://www.163.com/dy/article/KOI5HHUK055284JB.html",
+      "description": "腾讯正式启动2026青云实习生招聘，面向2026年9月之后毕业的AI大模型相关技术领域的顶尖本硕博同学，将开放大语言模型、NLP、多模态、视觉、语音、智能体、强化学习、搜索、推荐等六大技术领域",
+      "source": "网易新闻",
+      "published_date": "2025-03-19"
+    },
+    {
+      "title": "具身智能算法实习生",
+      "company": "东莞松灵科技有限公司",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://www.yingjiesheng.com/job-007-921-229.html",
+      "description": "具身智能算法实习生招聘，专业标签：自动化、计算机",
+      "source": "应届生求职网",
+      "published_date": "2025-03-26"
+    },
+    {
+      "title": "Applied Scientist Intern, 2026 Shenzhen",
+      "company": "未知",
+      "location": "深圳福田区",
+      "type": "实习",
+      "url": "https://educativ.net/jobs/job/5574893-applied-scientist-intern-2026-shenzhen-shenzhen/",
+      "description": "Applied scientist 应用科学家实习生，毕业时间：2026年10月 - 2027年7月之间毕业的应届毕业生，入职日期：2026年6月及之前，实习时间：保证一周实习2-5天全职实习，至少持续3个月",
+      "source": "EduCativ",
+      "published_date": null
+    },
+    {
+      "title": "DeepRoute.ai Applied Scientist Intern (深圳)",
+      "company": "DeepRoute.ai",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://cn.linkedin.com/jobs/view/applied-scientist-intern-at-deeproute-ai-4386642753",
+      "description": "面向无人驾驶场景，自动驾驶foundation model的研究，包含但不限于自监督、半监督、基础网络架构研究，为自动驾驶提供基础模型",
+      "source": "LinkedIn",
+      "published_date": null
+    },
+    {
+      "title": "Agent产品工程师-日常实习招聘",
+      "company": "妙动科技",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://www.zhipin.com/job_detail/89e78dba7ffb25b20nV63N61FlZQ.html",
+      "description": "妙动科技Agent产品工程师-日常实习招聘，要求：在校/应届，学历：本科，福利：节日福利、零食下午茶",
+      "source": "BOSS直聘",
+      "published_date": null
+    }
+  ],
+  "summary": {
+    "total_jobs": 5,
+    "internship_count": 5,
+    "campus_recruitment_count": 0,
+    "companies": ["腾讯", "东莞松灵科技有限公司", "DeepRoute.ai", "妙动科技"],
+    "keywords_matched": ["智能体", "Agent", "实习", "2026"]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "search_date": "2026-03-27",
+  "search_time": "12:01",
+  "keywords": [
+    "深圳 Prompt Engineer 实习 2026",
+    "深圳 提示词工程师 实习 春招",
+    "深圳 Prompt 实习 校招"
+  ],
+  "total_results": 5,
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Prompt Engineer实习生",
+      "company": "超级目录",
+      "location": "深圳",
+      "type": "实习",
+      "source": "BOSS直聘",
+      "url": "https://www.zhipin.com/job_detail/299688eb0940ea4b1HF73tS6EVBR.html",
+      "description": "BOSS直聘为您提供Prompt Engineer实习生职责以及超级目录2026年Prompt Engineer实习生岗位职责的信息",
+      "keywords_matched": ["Prompt Engineer", "实习", "2026"],
+      "search_query": "深圳 Prompt Engineer 实习 2026"
+    },
+    {
+      "id": 2,
+      "title": "【25实习】Prompt Engineer实习生 (J10935)",
+      "company": "中科闻歌",
+      "location": "北京,深圳",
+      "salary": "250-400/天",
+      "type": "实习",
+      "source": "牛客网",
+      "url": "https://www.nowcoder.com/jobs/detail/334416",
+      "description": "中科闻歌实习 【25实习】Prompt Engineer实习生(J10935) 2026最新招聘求职信息，薪资：250-400，地点：北京,深圳",
+      "keywords_matched": ["Prompt Engineer", "实习", "2026"],
+      "search_query": "深圳 Prompt Engineer 实习 2026"
+    },
+    {
+      "id": 3,
+      "title": "AI剧本写作Prompt工程实习生",
+      "company": "TikTok/字节跳动",
+      "location": "深圳",
+      "type": "实习",
+      "source": "字节跳动校招",
+      "url": "https://jobs.bytedance.com/campus/position/7610689874695850245/detail",
+      "description": "字节跳动校园招聘 - AI剧本写作Prompt工程实习生岗位",
+      "keywords_matched": ["Prompt", "实习", "校招"],
+      "search_query": "深圳 Prompt 实习 校招"
+    },
+    {
+      "id": 4,
+      "title": "Prompt实习生",
+      "company": "东信时代",
+      "location": "深圳",
+      "salary": "250-350元/天",
+      "type": "实习",
+      "source": "BOSS直聘",
+      "url": "https://www.zhipin.com/job_detail/00cfc4ba2c1f156303Fy2Nu0FVRZ.html",
+      "description": "东信时代Prompt实习生招聘，薪资：250-350元/天，地点：深圳，要求：在校/应届，学历：本科",
+      "keywords_matched": ["Prompt", "实习"],
+      "search_query": "深圳 提示词工程师 实习 春招"
+    },
+    {
+      "id": 5,
+      "title": "提示词架构师（实习生）",
+      "company": "云领科技",
+      "location": "深圳南山区",
+      "type": "实习",
+      "source": "智联招聘",
+      "url": "https://www.zhaopin.com/jobdetail/CC593940220J40928137104.htm",
+      "description": "云领科技招聘提示词架构师实习生，要求：1. 沟通协调：能顺畅衔接教育专家与技术团队，精准传递需求与输出标准，推动跨领域协同落地。2. 学习创新：对AI语言模型、教育场景创新应用有浓厚兴趣，主动探索提示词优化策略，适配教育行业动态需求。",
+      "keywords_matched": ["提示词", "实习"],
+      "search_query": "深圳 提示词工程师 实习 春招"
+    }
+  ],
+  "search_metadata": {
+    "execution_time": "2026-03-27T12:01:00+08:00",
+    "tool": "SearXNG",
+    "status": "completed",
+    "notes": "筛选出5条与Prompt Engineer/提示词工程师相关的实习岗位，均为深圳地区或包含深圳地区的实习机会"
+  }
+}
