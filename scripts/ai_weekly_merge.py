@@ -89,11 +89,13 @@ def format_item(index, info):
 def generate_weekly_report():
     """生成周报"""
     today = datetime.datetime.now().strftime("%Y%m%d")
+    # 使用前一天的数据（周五搜集，周六发送）
+    yesterday = (datetime.datetime.now() - datetime.timedelta(days=1)).strftime("%Y%m%d")
     
     # 加载三类搜索结果
-    chaowan_file = f"{SEARCH_BUFFER_DIR}/ai_chaowan_{today}.json"
-    toys_file = f"{SEARCH_BUFFER_DIR}/ai_toys_{today}.json"
-    hardware_file = f"{SEARCH_BUFFER_DIR}/ai_hardware_{today}.json"
+    chaowan_file = f"{SEARCH_BUFFER_DIR}/ai_chaowan_{yesterday}.json"
+    toys_file = f"{SEARCH_BUFFER_DIR}/ai_toys_{yesterday}.json"
+    hardware_file = f"{SEARCH_BUFFER_DIR}/ai_hardware_{yesterday}.json"
     
     chaowan_data = load_json_file(chaowan_file)
     toys_data = load_json_file(toys_file)
@@ -148,11 +150,12 @@ def main():
     
     print("\n[1/3] 检查搜索结果文件...")
     today = datetime.datetime.now().strftime("%Y%m%d")
+    yesterday = (datetime.datetime.now() - datetime.timedelta(days=1)).strftime("%Y%m%d")
     
     files_to_check = [
-        f"{SEARCH_BUFFER_DIR}/ai_chaowan_{today}.json",
-        f"{SEARCH_BUFFER_DIR}/ai_toys_{today}.json",
-        f"{SEARCH_BUFFER_DIR}/ai_hardware_{today}.json"
+        f"{SEARCH_BUFFER_DIR}/ai_chaowan_{yesterday}.json",
+        f"{SEARCH_BUFFER_DIR}/ai_toys_{yesterday}.json",
+        f"{SEARCH_BUFFER_DIR}/ai_hardware_{yesterday}.json"
     ]
     
     for f in files_to_check:
