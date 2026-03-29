@@ -1,0 +1,59 @@
+{
+  "search_date": "2026-03-29",
+  "search_time": "10:00",
+  "keywords": [
+    "深圳 大模型 实习 2026",
+    "深圳 大模型 春招 2026",
+    "深圳 LLM 实习 校招"
+  ],
+  "jobs": [
+    {
+      "title": "2026年春季大湾区就业实习双选会",
+      "company": "清北哈三校联合",
+      "location": "深圳",
+      "type": "春招/实习",
+      "url": "https://shenzhen.sina.cn/news/2026-03-27/detail-inhsmhtw2073928.d.html",
+      "description": "由北京大学深圳研究生院、清华大学深圳国际研究生院、哈尔滨工业大学（深圳）三校联合主办的2026年春季大湾区重点用人单位就业实习双选会",
+      "source": "新浪深圳"
+    },
+    {
+      "title": "大模型应用算法实习生",
+      "company": "百度",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://www.shixiseng.com/intern/inn_mtvir1wp5h89",
+      "description": "负责落地多模态大模型在多模态理解场景中的应用，重点研究文本、图像相关的多模态大模型技术，构建大小模型融合的多模态理解系统",
+      "source": "实习僧"
+    },
+    {
+      "title": "蓝芯算力2026校园招聘",
+      "company": "蓝芯算力（深圳）科技有限公司",
+      "location": "深圳/北京/上海",
+      "type": "校招",
+      "url": "https://campus.niuqizp.com/job-vll5ZZLLt.html",
+      "description": "公司自研的RISC-V+AI融合架构智算服务器CPU成功点亮并顺利启动Linux操作系统，为数据中心、云计算、具身智能机器人、大模型推理等关键场景提供自主可控、高能效的算力底座",
+      "source": "牛企直聘"
+    },
+    {
+      "title": "卓驭2025、2026届校园招聘",
+      "company": "卓驭",
+      "location": "上海/深圳/北京",
+      "type": "校招",
+      "url": "https://www.quanzhi.com/notice/69c647a84d195df713deb16c",
+      "description": "招聘训练推理优化算法岗/端到端模型算法岗/物理AI基模算法岗，面向2025、2026届应届生",
+      "source": "全职招聘网"
+    },
+    {
+      "title": "智元机器人2026春招+2027届实习招聘",
+      "company": "智元机器人",
+      "location": "深圳",
+      "type": "春招/实习",
+      "url": "http://www.cst.zju.edu.cn/2026/0326/c36276a3144553/page.htm",
+      "description": "智元机器人致力以AI+机器人的融合创新，打造世界级领先的通用具身机器人产品及应用生态。招聘对象：2026届+2027届，岗位：大模型类、算法类、软件类、测试类",
+      "source": "浙江大学计算机学院"
+    }
+  ],
+  "total_count": 5,
+  "search_status": "completed",
+  "note": "搜索结果包含2026年深圳地区大模型相关实习和春招岗位"
+}
