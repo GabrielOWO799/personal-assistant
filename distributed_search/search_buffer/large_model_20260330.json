@@ -1,0 +1,93 @@
+{
+  "search_date": "2026-03-30",
+  "search_time": "10:00",
+  "keywords": [
+    "深圳 大模型 实习 2026",
+    "深圳 大模型 春招 2026",
+    "深圳 LLM 实习 校招"
+  ],
+  "total_results": 5,
+  "jobs": [
+    {
+      "title": "大模型应用开发实习生",
+      "company": "超参数科技",
+      "location": "深圳",
+      "type": "实习",
+      "salary": "350-450",
+      "url": "https://www.nowcoder.com/jobs/detail/417945",
+      "source": "牛客网",
+      "description": "大模型应用开发实习生 2026最新招聘求职信息，薪资：350-450，地点：深圳"
+    },
+    {
+      "title": "实习生（大模型）",
+      "company": "DJI大疆",
+      "location": "深圳市",
+      "type": "实习",
+      "url": "https://we.dji.com/zh-CN/position/detail?positionId=1991874969068556288",
+      "source": "大疆招聘",
+      "description": "负责计算机视觉算法相关研究和开发，并落地产品。包括但不限于：负责研发基于多种传感器的实时深度算法、3D场景在线建图、动静态目标检测跟踪和语义识别"
+    },
+    {
+      "title": "2026年深圳实习生（大模型方向）",
+      "company": "深圳市大数据研究院",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://www.lipind.com/position/detail/1024626.html",
+      "source": "理聘",
+      "description": "深圳市大数据研究院（Shenzhen Research Institute of Big Data），是在深圳市委、市政府的支持下于2016年3月组建成立的市属二类事业单位"
+    },
+    {
+      "title": "大模型算法实习生",
+      "company": "深圳市新研智投科技",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://www.zhipin.com/job_detail/43647b582f0fb30103F70tq_FlRQ.html",
+      "source": "BOSS直聘",
+      "description": "BOSS直聘为您提供大模型算法实习生以及深圳市新研智投科技2026年大模型算法实习生岗位职责的信息"
+    },
+    {
+      "title": "大模型AI实习生",
+      "company": "智界探索",
+      "location": "深圳",
+      "type": "实习",
+      "salary": "200-1000",
+      "url": "https://www.nowcoder.com/jobs/detail/389760",
+      "source": "牛客网",
+      "description": "智界探索实习 大模型AI实习生 2026最新招聘求职信息，薪资：200-1000，地点：深圳"
+    }
+  ],
+  "additional_opportunities": [
+    {
+      "title": "腾讯青云实习生招聘",
+      "company": "腾讯",
+      "location": "深圳",
+      "type": "实习/校招",
+      "url": "https://www.sohu.com/a/998657581_121010226",
+      "source": "搜狐",
+      "description": "腾讯2026青云实习生招聘正式启动，面向2026年9月之后毕业的AI大模型相关技术领域的顶尖本硕博同学，开放六大技术领域"
+    },
+    {
+      "title": "字节跳动Top Seed人才计划",
+      "company": "字节跳动",
+      "location": "深圳",
+      "type": "校招",
+      "url": "https://jobs.bytedance.com/campus/topseed",
+      "source": "字节跳动招聘",
+      "description": "如果你有志于投身LLM、语音、视觉、世界模型、基础架构、AI Infra、下一代AI交互等方向，请选择Top Seed人才计划"
+    },
+    {
+      "title": "大模型算法工程师实习生",
+      "company": "国家超级计算深圳中心",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://www.yingjiesheng.com/job-007-588-502.html",
+      "source": "应届生求职网",
+      "description": "大模型部署与优化，掌握PyTorch基础，了解模型量化、蒸馏或推理加速技术"
+    }
+  ],
+  "search_metadata": {
+    "engine": "SearXNG",
+    "unresponsive_engines": ["google", "startpage"],
+    "search_duration": "completed"
+  }
+}

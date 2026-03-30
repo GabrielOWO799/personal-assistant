@@ -1,0 +1,44 @@
+{
+  "search_date": "2025-03-30",
+  "search_time": "11:00",
+  "keywords": [
+    "深圳 智能体 实习 2026",
+    "深圳 智能体 春招 2026",
+    "深圳 Multi-Agent 实习 校招"
+  ],
+  "total_results": 3,
+  "jobs": [
+    {
+      "title": "弘毅投资AI开发/智能体应用实习生(A80727)",
+      "company": "弘毅投资",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://cn.linkedin.com/jobs/view/ai%E5%BC%80%E5%8F%91-%E6%99%BA%E8%83%BD%E4%BD%93%E5%BA%94%E7%94%A8%E5%AE%9E%E4%B9%A0%E7%94%9F-a80727-at-hony-capital-4389056518",
+      "source": "LinkedIn/实习僧",
+      "description": "自动化脚本开发：承接运营侧的自动化需求，独立编写Python自动化脚本；智能体部署与培养：协助完成OpenClaw智能体的部署与培养",
+      "keywords_matched": ["智能体", "实习"]
+    },
+    {
+      "title": "津渡生科招聘大模型应用开发实习生（Agent方向）",
+      "company": "津渡生科",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://bbs.pku.edu.cn/v2/post-read.php?bid=896&threadid=19004212",
+      "source": "北大未名BBS",
+      "description": "智能体应用开发：参与智能体（Agent）应用的技术选型与模块设计，协助完成系统架构的落地；提示工程实践：参与复杂提示链（Chain-of-Thought、ReAct等）的开发",
+      "keywords_matched": ["智能体", "Agent", "实习"]
+    },
+    {
+      "title": "快手-大模型AI Agent开发工程师实习",
+      "company": "快手",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://www.shixiseng.com/intern/inn_xzovirlfn2id",
+      "source": "实习僧",
+      "description": "有LangChain、LlamaIndex、LangGraph、AutoGen、CrewAI等Agent框架实战经验；理解ReAct、CoT、ToT、Reflection、Multi-Agent等常见Agent推理与协作模式",
+      "keywords_matched": ["Agent", "Multi-Agent", "实习"]
+    }
+  ],
+  "search_status": "completed",
+  "note": "筛选出3条符合要求的实习/校招岗位，均为Agent/智能体相关方向"
+}
