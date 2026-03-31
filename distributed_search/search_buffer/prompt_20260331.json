@@ -1,0 +1,47 @@
+{
+  "date": "20260331",
+  "query_time": "2026-03-31T12:00:43.790161",
+  "total_found": 5,
+  "results": [
+    {
+      "title": "2026校招信息汇总｜26届/27届秋招春招与暑期/日常实习每日更新 | Gank Interview",
+      "url": "https://www.gankinterview.cn/campus",
+      "snippet": "已收录 12,303 条，覆盖 26 届、27 届校招、秋招、春招、暑期实习、日常实习岗位，支持按公司、岗位、地点和招聘类型筛选。最近更新 2026-03-30。",
+      "source": "searxng",
+      "query": "深圳 提示词工程师 实习 春招",
+      "timestamp": "2026-03-31T12:00:43.182148"
+    },
+    {
+      "title": "2026春招必看：收藏这份ai就业指南，小白也能轻松入行拿 ...",
+      "url": "https://blog.csdn.net/qq_46094651/article/details/159507378",
+      "snippet": "本文针对春招中的AI岗位需求，揭示了AI行业并非只招算法大神，而是全产业链都在缺人，尤其是下游应用端。 文章列举了5大新兴AI岗位，如AI提示词工程师、AI内容运营策划师等，这些岗位门槛低，适合零经验应届生。",
+      "source": "searxng",
+      "query": "深圳 提示词工程师 实习 春招",
+      "timestamp": "2026-03-31T12:00:43.182169"
+    },
+    {
+      "title": "「Prompt实习生招聘」_东信时代招聘-BOSS直聘",
+      "url": "https://www.zhipin.com/job_detail/00cfc4ba2c1f156303Fy2Nu0FVRZ.html",
+      "snippet": "东信时代Prompt实习生招聘，薪资：250-350元/天，地点：深圳，要求：在校/应届，学历：本科，福利：生育福利、团建经费、加班打车、育儿假、护理假、儿童节福利假、生日福利、三八节福利、年度体检、交通补助、生日福利、节日福利、零食下午茶、餐补 ...",
+      "source": "searxng",
+      "query": "深圳 Prompt 实习 校招",
+      "timestamp": "2026-03-31T12:00:43.790037"
+    },
+    {
+      "title": "深圳实习_深圳实习生招聘信息 - 实习僧",
+      "url": "https://www.shixiseng.com/interns?type=intern&city=%E6%B7%B1%E5%9C%B3",
+      "snippet": "实习僧为大学生提供2026年最新的深圳实习,深圳实习生招聘信息。助力大学生职业发展,帮助企业有效招聘,找实习校招就上实习僧",
+      "source": "searxng",
+      "query": "深圳 Prompt 实习 校招",
+      "timestamp": "2026-03-31T12:00:43.790055"
+    },
+    {
+      "title": "【深圳校招招聘网_2026年深圳校招招聘信息】-深圳猎聘",
+      "url": "https://www.liepin.com/city-sz/zpxiaozhao03/",
+      "snippet": "猎聘2026年深圳校招招聘信息,海量高薪猎头职位等你来选,了解深圳校招岗位要求、薪资待遇等真实招聘信息,找高薪职位,上猎聘!",
+      "source": "searxng",
+      "query": "深圳 Prompt 实习 校招",
+      "timestamp": "2026-03-31T12:00:43.790062"
+    }
+  ]
+}

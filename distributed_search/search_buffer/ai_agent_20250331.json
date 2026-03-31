@@ -1,0 +1,73 @@
+{
+  "search_date": "2025-03-31",
+  "search_time": "09:03",
+  "keywords": [
+    "深圳 AI Agent 实习 2026",
+    "深圳 AI Agent 春招 2026",
+    "深圳 智能体 实习 校招"
+  ],
+  "total_results": 5,
+  "jobs": [
+    {
+      "id": 1,
+      "title": "[深圳][急招] 深信服 AI 方向内推，算法/Infra/Agent，校招社招都有",
+      "company": "深信服",
+      "location": "深圳",
+      "type": "校招/社招",
+      "url": "https://www.v2ex.com/t/1201733",
+      "description": "负责企业级 AI Agent 核心架构设计与落地，研发 RAG 检索增强、工具调用、多轮对话规划、记忆管理、多智能体协同等模块",
+      "source": "V2EX",
+      "date": "2025-03-31"
+    },
+    {
+      "id": 2,
+      "title": "AI应用实习生",
+      "company": "法雷奥汽车内部控制（深圳）有限公司",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://www.yingjiesheng.com/job-007-919-898.html",
+      "description": "AI应用方向实习生招聘",
+      "source": "应届生求职网",
+      "date": "2025-03-31"
+    },
+    {
+      "id": 3,
+      "title": "弘毅投资正在招聘AI开发/智能体应用实习生(A80727)",
+      "company": "弘毅投资",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://cn.linkedin.com/jobs/view/ai%E5%BC%80%E5%8F%91-%E6%99%BA%E8%83%BD%E4%BD%93%E5%BA%94%E7%94%A8%E5%AE%9E%E4%B9%A0%E7%94%9F-a80727-at-hony-capital-4389056518",
+      "description": "自动化脚本开发：承接运营侧的自动化需求，独立编写 Python 自动化脚本；智能体部署与培养：协助完成 OpenClaw 智能体相关任务",
+      "source": "LinkedIn",
+      "date": "2025-03-31"
+    },
+    {
+      "id": 4,
+      "title": "「Agent产品经理-日常实习招聘」",
+      "company": "妙动科技",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://www.zhipin.com/job_detail/e619e42f6f19de370nV73NS5EFJZ.html",
+      "description": "AI Agent 工作流搭建与调优：负责机器人核心交互场景的 AI Agent 搭建，通过高阶 Prompt Engineering 及工作流编排工具调试 LLM 输出效果",
+      "source": "BOSS直聘",
+      "date": "2025-03-31"
+    },
+    {
+      "id": 5,
+      "title": "智能体算法实习生",
+      "company": "OPPO",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://www.shixiseng.com/intern/inn_fg0ee5hxvnq3",
+      "description": "OPPO智能体算法实习生招聘，包含岗位职责、任职要求、工作内容说明、薪资待遇等",
+      "source": "实习僧",
+      "date": "2025-03-31"
+    }
+  ],
+  "metadata": {
+    "search_engine": "SearXNG",
+    "search_duration": "completed",
+    "filter_applied": "实习/春招岗位筛选",
+    "excluded_fulltime": true
+  }
+}

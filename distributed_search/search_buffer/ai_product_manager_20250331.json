@@ -1,0 +1,88 @@
+{
+  "search_date": "2025-03-31",
+  "search_time": "13:00",
+  "keywords": [
+    "深圳 AI产品经理 实习 2026",
+    "深圳 AI产品经理 春招 2026",
+    "深圳 人工智能产品 实习 校招"
+  ],
+  "total_results": 5,
+  "jobs": [
+    {
+      "id": "ai_pm_001",
+      "title": "山海星辰集团2026届AI专场校招-AI产品经理",
+      "company": "山海星辰集团",
+      "location": "深圳",
+      "type": "校招",
+      "tags": ["2026届", "AI产品经理", "校招"],
+      "url": "https://campus.niuqizp.com/job-vmr5ZzNnL.html",
+      "description": "山海星辰集团2026届AI专场校招火热进行中，招聘AI管培生、AI导演、制作、AI研发工程师、AI产品经理等岗位，覆盖北京、深圳、广州、杭州等城市。",
+      "source": "牛企招聘",
+      "published_date": null,
+      "is_internship": false,
+      "is_campus": true
+    },
+    {
+      "id": "ai_pm_002",
+      "title": "腾讯AI产品经理实习",
+      "company": "腾讯云",
+      "location": "深圳",
+      "type": "实习",
+      "tags": ["实习", "AI产品经理", "腾讯云"],
+      "url": "https://campus.niuqizp.com/schedule-7Ums5NZLZ.html",
+      "description": "腾讯云是腾讯倾力打造的云服务品牌，为客户提供先进的云产品与云服务。",
+      "source": "牛企招聘",
+      "published_date": null,
+      "is_internship": true,
+      "is_campus": false
+    },
+    {
+      "id": "ai_pm_003",
+      "title": "AI产品经理求职必看-实习岗位",
+      "company": "多家公司",
+      "location": "深圳",
+      "type": "实习/校招",
+      "tags": ["AI产品经理", "实习", "求职"],
+      "url": "https://www.sohu.com/a/1002852640_122478706",
+      "description": "到2026年，AI技术更成熟了，市场对AI产品经理的需求肯定更大。不过竞争也更激烈，企业要求也更高了，光懂技术不行，还得会分析数据、懂市场。",
+      "source": "搜狐",
+      "published_date": null,
+      "is_internship": true,
+      "is_campus": true
+    },
+    {
+      "id": "ai_pm_004",
+      "title": "小米AI人才专项计划-AI产品方向",
+      "company": "小米集团",
+      "location": "深圳",
+      "type": "实习/校招",
+      "tags": ["AI产品", "小米", "实习生计划"],
+      "url": "https://k.sina.cn/article_5953189932_162d6782c067040fq6.html",
+      "description": "小米集团启动AI人才专项计划，整合顶尖人才、全球校园招聘、实习生计划三大招聘板块，面向不同阶段人才开放全链条AI岗位。",
+      "source": "新浪新闻",
+      "published_date": "2026-03-30",
+      "is_internship": true,
+      "is_campus": true
+    },
+    {
+      "id": "ai_pm_005",
+      "title": "2026春招AI岗位疯抢-AI产品经理方向",
+      "company": "多家科技公司",
+      "location": "深圳",
+      "type": "春招",
+      "tags": ["2026春招", "AI产品经理", "高薪"],
+      "url": "https://blog.csdn.net/2401_84204207/article/details/159655984",
+      "description": "2026年春招，AI岗位需求激增，多个核心岗位年薪直接突破百万，成为春招求职的绝对焦点。大厂普遍提前招聘，AI相关岗位占比近半。",
+      "source": "CSDN博客",
+      "published_date": null,
+      "is_internship": false,
+      "is_campus": true
+    }
+  ],
+  "search_status": {
+    "engine": "searxng",
+    "time_range": "day",
+    "unresponsive_engines": ["google", "startpage", "brave"],
+    "notes": "Google和Startpage引擎因访问限制暂停，Brave引擎因请求过多暂停，主要结果来自DuckDuckGo"
+  }
+}
