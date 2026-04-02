@@ -1,0 +1,84 @@
+{
+  "search_date": "2026-04-02",
+  "search_keywords": [
+    "深圳 智能体 实习 2026",
+    "深圳 智能体 春招 2026",
+    "深圳 Multi-Agent 实习 校招"
+  ],
+  "total_results": 5,
+  "jobs": [
+    {
+      "id": 1,
+      "title": "智能体研发工程师_维沃移动实习",
+      "company": "维沃移动",
+      "type": "实习",
+      "location": "深圳",
+      "salary": "300-320",
+      "year": "2026",
+      "source": "牛客网",
+      "url": "https://www.nowcoder.com/jobs/detail/433215",
+      "keywords": ["智能体", "研发工程师", "实习"],
+      "matched_search": "深圳 智能体 实习 2026"
+    },
+    {
+      "id": 2,
+      "title": "AI智能体开发实习生",
+      "company": "字节跳动",
+      "type": "实习",
+      "location": "深圳",
+      "salary": "未标注",
+      "year": "未标注",
+      "source": "BOSS直聘",
+      "url": "https://www.zhipin.com/job_detail/f94a5caca75cd69a0nRy0tW1FlBX.html",
+      "keywords": ["AI", "智能体", "开发", "实习生"],
+      "matched_search": "深圳 智能体 实习 2026"
+    },
+    {
+      "id": 3,
+      "title": "Multi agent实习生",
+      "company": "深圳市云泥科技",
+      "type": "实习",
+      "location": "深圳",
+      "salary": "150-300元/天",
+      "year": "未标注",
+      "source": "BOSS直聘",
+      "url": "https://www.zhipin.com/job_detail/6492d94ce075713003V73t20EVRV.html",
+      "keywords": ["Multi-agent", "实习生"],
+      "matched_search": "深圳 Multi-Agent 实习 校招"
+    },
+    {
+      "id": 4,
+      "title": "LLM实习生-Multi-Agents与智能信息抽取方向",
+      "company": "启盼科技",
+      "type": "实习",
+      "location": "深圳",
+      "salary": "200-250元/天",
+      "year": "未标注",
+      "source": "猎聘",
+      "url": "https://www.liepin.com/job/1976894721.shtml",
+      "keywords": ["LLM", "Multi-Agents", "智能", "实习生"],
+      "matched_search": "深圳 Multi-Agent 实习 校招"
+    },
+    {
+      "id": 5,
+      "title": "AI研究员（智能体检索）",
+      "company": "OPPO",
+      "type": "校招/应届",
+      "location": "深圳",
+      "salary": "未标注",
+      "year": "2026届",
+      "source": "OPPO招聘官网",
+      "url": "https://careers.oppo.com/university/oppo/campus/post",
+      "keywords": ["AI", "研究员", "智能体", "检索", "校招"],
+      "matched_search": "深圳 智能体 春招 2026"
+    }
+  ],
+  "filter_applied": {
+    "include_intern": true,
+    "include_campus": true,
+    "exclude_fulltime": true,
+    "location": "深圳",
+    "keywords_required": ["智能体", "Agent", "Multi-Agent", "实习", "春招", "校招"]
+  },
+  "notes": "筛选结果均为深圳地区的实习或春招岗位，与智能体/Agent/Multi-Agent相关"
+}
