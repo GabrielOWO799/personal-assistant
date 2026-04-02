@@ -1,2 +1,0 @@
-# AI Agent Monitor Dependencies
-# No external dependencies needed for basic functionality

@@ -1,1 +1,0 @@
-# Search buffer directory for temporary search results

@@ -1,0 +1,67 @@
+{
+  "search_date": "2026-04-02",
+  "search_time": "09:10",
+  "keywords": [
+    "深圳 AI Agent 实习 2026",
+    "深圳 AI Agent 春招 2026",
+    "深圳 智能体 实习 校招"
+  ],
+  "results_count": 5,
+  "jobs": [
+    {
+      "title": "字节跳动Seed大模型校招/实习生招募",
+      "company": "字节跳动",
+      "type": "校招/实习",
+      "location": "深圳",
+      "url": "https://www.eeo.com.cn/2026/0401/824663.shtml",
+      "description": "字节跳动Seed正式启动大模型人才校招，下设2027届应届生招聘和在校实习生招聘。今年Seed将加大人才投入，本次在全球招募的2027届大模型人才将达到约100位。",
+      "tags": ["大模型", "AI", "校招", "实习"],
+      "source": "经济观察网"
+    },
+    {
+      "title": "大模型应用开发工程师（实习生）",
+      "company": "个人工作室",
+      "type": "实习",
+      "location": "深圳南山科技园",
+      "url": "https://www.codefather.cn/post/2039228129012117506",
+      "description": "招一名实习生，做AI大模型agent应用开发。基于大模型开发agent应用，协助搭建AI智能体架构，参与需求拆解与原型开发。",
+      "tags": ["AI Agent", "大模型", "实习", "Python"],
+      "source": "编程导航"
+    },
+    {
+      "title": "Profet AI 杰倫智能 2026 實習計畫",
+      "company": "Profet AI 杰倫智能",
+      "type": "实习",
+      "location": "深圳/台湾",
+      "url": "https://www.me.ncu.edu.tw/...",
+      "description": "提供6個月學期實習，1-on-1專屬mentor陪伴計畫、AI Agent專業培訓。實習結束後設有明確的轉正制度。",
+      "tags": ["AI Agent", "实习", "转正"],
+      "source": "国立中央大学"
+    },
+    {
+      "title": "万兴科技2026实习生春季招聘",
+      "company": "万兴科技",
+      "type": "实习/春招",
+      "location": "深圳/长沙",
+      "url": "https://jdjyw.jlu.edu.cn/portal/jyzp/recruit/details?id=953cf1cfc91c440d9972925e0d2529b0",
+      "description": "Wonder Nove新星计划，万兴科技2026实习生春季招聘。研发、产品、设计、营销、职能五类岗位全开放。拿深圳同等高薪，住长沙宜居房子。",
+      "tags": ["AI", "实习", "春招", "AIGC"],
+      "source": "吉林大学就业网"
+    },
+    {
+      "title": "玖治科技招骋26届春招",
+      "company": "玖治科技",
+      "type": "春招",
+      "location": "深圳/东莞",
+      "url": "https://campus.niuqizp.com/job-vly5Zzna5.html",
+      "description": "玖治科技招骋26届春招，深圳/东莞。软件开发与敏捷项目管培生、助理胶水工程师、助理交付工程师、医学产品实习生、算法实习生、用户洞察实习生等岗位。",
+      "tags": ["春招", "算法", "实习"],
+      "source": "牛企直聘"
+    }
+  ],
+  "search_status": {
+    "searxng_status": "部分引擎可用 (DuckDuckGo)",
+    "unavailable_engines": ["brave", "google", "startpage"],
+    "execution_time": "completed"
+  }
+}

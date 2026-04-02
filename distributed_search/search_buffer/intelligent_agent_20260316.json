@@ -1,9 +1,0 @@
-{
-  "search_query": "深圳 智能体 实习 开发工程师 Multi-Agent site:zhaopin.com OR site:51job.com OR site:yingjiesheng.com",
-  "time_ranges": ["past 7 days", "past 30 days", "past 180 days"],
-  "timestamp": "2026-03-16T11:00:00+08:00",
-  "results": [],
-  "total_found": 0,
-  "error": "SearXNG service unavailable - container failed to start due to configuration issues",
-  "note": "Task completed with empty results due to technical limitations"
-}
