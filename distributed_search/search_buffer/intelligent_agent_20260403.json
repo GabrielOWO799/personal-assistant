@@ -1,0 +1,57 @@
+{
+  "search_date": "2026-04-03",
+  "search_keywords": [
+    "深圳 智能体 实习 2026",
+    "深圳 智能体 春招 2026",
+    "深圳 Multi-Agent 实习 校招"
+  ],
+  "total_results": 3,
+  "jobs": [
+    {
+      "title": "ZTE中兴中兴通讯深圳南京长沙西安智能制造基地实习生招聘",
+      "company": "ZTE中兴/中兴通讯",
+      "location": "深圳|南京|长沙|西安",
+      "type": "实习",
+      "url": "https://campus.niuqizp.com/job-vkY5Za5Na.html",
+      "description": "2026深圳最新名企招聘岗位，2026深圳毕业生求职招聘，应届生找工作上牛企直聘。ZTE中兴中兴通讯深圳南京长沙西安智能制造基地实习生招聘中，速投,ZTE中兴校招官网岗位投递链接,深圳|南京|西安|其他校园招聘职位,SMT技术,测试技术,维修技术,装配技术,中兴通讯智能制造招聘直投职位链接",
+      "source": "牛企直聘",
+      "is_internship": true,
+      "is_spring_recruitment": true,
+      "match_score": 0.8
+    },
+    {
+      "title": "实习生开发多智能体系统，攻克数据跨境合规难题",
+      "company": "联大/ReguThink咨询",
+      "location": "北京（联大）",
+      "type": "实习",
+      "url": "https://www.bc.buu.edu.cn/art/2026/4/3/art_28169_825579.html",
+      "description": "学术训练与技术实现的结合，体现在ReguThink咨询多智能体系统的开发中。面对数据跨境合规审查人力密集、国内外标准不一、企业合规成本高等痛点，与模型训练部实习生尝试将法规管理体系转化为结构化知识图谱。",
+      "source": "北京联合大学",
+      "is_internship": true,
+      "is_spring_recruitment": false,
+      "match_score": 0.9
+    },
+    {
+      "title": "火羽游戏26校招 - Agent架构师, AI训练师, AI策划",
+      "company": "火羽游戏",
+      "location": "上海",
+      "type": "校招/春招",
+      "url": "https://campus.niuqizp.com/schedule-7rwr5NnNa.html",
+      "description": "2026上海最新名企招聘岗位，2026上海毕业生求职招聘，应届生找工作上牛企直聘。火羽游戏26校招，2026春招招聘校园招聘简章，为您求职应聘火羽提供有价值的信息,招聘岗位：Agent架构师，AI训练师，AI策划系统,火羽是一家专注于AI与游戏融合创新的公司，自研AI全链路开发系统，包括AI智能体模型、AI...",
+      "source": "牛企直聘",
+      "is_internship": false,
+      "is_spring_recruitment": true,
+      "match_score": 0.7
+    }
+  ],
+  "search_metadata": {
+    "timestamp": "2026-04-03T11:00:00+08:00",
+    "engine": "searxng",
+    "time_range": "day",
+    "unresponsive_engines": [
+      "brave: too many requests",
+      "google: Suspended: access denied",
+      "startpage: Suspended: CAPTCHA"
+    ]
+  }
+}
