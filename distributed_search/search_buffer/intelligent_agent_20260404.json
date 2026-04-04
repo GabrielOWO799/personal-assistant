@@ -1,0 +1,64 @@
+{
+  "query_keywords": [
+    "深圳 智能体 实习 2026",
+    "深圳 智能体 春招 2026",
+    "深圳 Multi-Agent 实习 校招"
+  ],
+  "search_date": "2026-04-04",
+  "total_results_found": 3,
+  "filtered_jobs": [
+    {
+      "title": "国金证券股份有限公司招聘4月实习热招",
+      "company": "国金证券股份有限公司",
+      "location": "深圳",
+      "job_type": "实习",
+      "url": "https://campus.niuqizp.com/job-vss5ZatCL.html",
+      "description": "2026校园招聘，深圳地区实习岗位热招中",
+      "source": "campus.niuqizp.com",
+      "relevance": "春招/校招实习岗位，深圳有岗"
+    },
+    {
+      "title": "国金证券研究所26届春招",
+      "company": "国金证券",
+      "location": "深圳",
+      "job_type": "春招",
+      "url": "https://campus.niuqizp.com/job-vss5ZatCL.html",
+      "description": "2026届春季校园招聘，北京、上海、深圳均有岗位",
+      "source": "campus.niuqizp.com",
+      "relevance": "2026届春招岗位，深圳有岗"
+    },
+    {
+      "title": "国金资管金熠计划2026春季实习生招聘",
+      "company": "国金资管",
+      "location": "上海",
+      "job_type": "实习",
+      "url": "https://campus.niuqizp.com/job-vss5ZatCL.html",
+      "description": "2026春季实习生招聘，金融资管方向",
+      "source": "campus.niuqizp.com",
+      "relevance": "2026春季实习"
+    }
+  ],
+  "raw_results_summary": {
+    "query_1": {
+      "keyword": "深圳 智能体 实习 2026",
+      "results_count": 17,
+      "note": "主要返回了B站教程视频、行业新闻，实习岗位信息较少"
+    },
+    "query_2": {
+      "keyword": "深圳 智能体 春招 2026",
+      "results_count": 10,
+      "note": "返回了行业新闻、春招信息，包含国金证券等金融类实习/春招岗位"
+    },
+    "query_3": {
+      "keyword": "深圳 Multi-Agent 实习 校招",
+      "results_count": 0,
+      "note": "无直接匹配结果"
+    }
+  },
+  "search_metadata": {
+    "engines_used": ["duckduckgo", "brave"],
+    "unresponsive_engines": ["google", "startpage"],
+    "time_range": "day",
+    "timestamp": "2026-04-04T11:00:00+08:00"
+  }
+}

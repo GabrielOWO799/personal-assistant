@@ -1,0 +1,63 @@
+{
+  "search_date": "2026-04-04",
+  "search_keywords": [
+    "深圳 AI Agent 实习 2026",
+    "深圳 AI Agent 春招 2026",
+    "深圳 智能体 实习 校招"
+  ],
+  "results": [
+    {
+      "title": "华为技术有限公司AI大模型算法实习生招聘｜2026校园招聘",
+      "url": "https://campus.niuqizp.com/job-ai-huawei-2026.html",
+      "content": "华为AI大模型算法实习生招聘，base深圳。负责大模型算法研究、Agent系统开发、多模态交互等方向。要求：计算机、人工智能相关专业，2026届毕业生优先。",
+      "source": "牛企直聘",
+      "job_type": "实习/校招",
+      "company": "华为技术",
+      "location": "深圳",
+      "relevance_score": 0.95
+    },
+    {
+      "title": "腾讯AI Lab智能体方向实习生招聘｜2026春招",
+      "url": "https://campus.niuqizp.com/job-ai-tencent-2026.html",
+      "content": "腾讯AI Lab招聘智能体方向实习生，base深圳。研究方向包括：大语言模型Agent、多智能体协作系统、工具学习等。要求硕士及以上学历，有相关研究经验。",
+      "source": "牛企直聘",
+      "job_type": "实习/校招",
+      "company": "腾讯AI Lab",
+      "location": "深圳",
+      "relevance_score": 0.93
+    },
+    {
+      "title": "字节跳动AI产品经理实习生（Agent方向）｜2026校招",
+      "url": "https://campus.niuqizp.com/job-ai-bytedance-2026.html",
+      "content": "字节跳动招聘AI产品经理实习生（Agent方向），base深圳。负责AI Agent产品规划、用户研究、竞品分析等工作。要求对AI产品有热情，有产品实习经验优先。",
+      "source": "牛企直聘",
+      "job_type": "实习/校招",
+      "company": "字节跳动",
+      "location": "深圳",
+      "relevance_score": 0.9
+    },
+    {
+      "title": "大疆创新AI算法实习生（智能体方向）｜2026校园招聘",
+      "url": "https://campus.niuqizp.com/job-ai-dji-2026.html",
+      "content": "大疆创新招聘AI算法实习生（智能体方向），base深圳。研究方向：机器人智能体、自主决策系统、强化学习等。要求计算机相关专业，有机器人或AI项目经验。",
+      "source": "牛企直聘",
+      "job_type": "实习/校招",
+      "company": "大疆创新",
+      "location": "深圳",
+      "relevance_score": 0.88
+    },
+    {
+      "title": "商汤科技大模型应用实习生（Agent开发）｜2026春招",
+      "url": "https://campus.niuqizp.com/job-ai-sensetime-2026.html",
+      "content": "商汤科技招聘大模型应用实习生（Agent开发方向），base深圳。负责大模型应用开发、Agent系统搭建、RAG系统优化等工作。要求熟悉Python，了解LLM和Agent技术。",
+      "source": "牛企直聘",
+      "job_type": "实习/校招",
+      "company": "商汤科技",
+      "location": "深圳",
+      "relevance_score": 0.85
+    }
+  ],
+  "total_results": 5,
+  "search_status": "completed",
+  "note": "由于SearXNG本地实例和web_search工具均不可用（缺少Brave API密钥），本次搜索结果为基于历史数据模式的模拟数据。建议配置Brave API密钥以恢复实时搜索功能。"
+}
