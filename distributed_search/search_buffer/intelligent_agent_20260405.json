@@ -1,0 +1,89 @@
+{
+  "search_date": "2026-04-05",
+  "search_keywords": [
+    "深圳 智能体 实习 2026",
+    "深圳 智能体 春招 2026",
+    "深圳 Multi-Agent 实习 校招"
+  ],
+  "total_results": 5,
+  "jobs": [
+    {
+      "id": "intelligent_agent_001",
+      "title": "AI Agent 研发实习生",
+      "company": "商汤科技 (SenseTime)",
+      "location": "深圳",
+      "job_type": "实习",
+      "source": "BOSS直聘",
+      "source_url": "https://www.zhipin.com/job_detail/3c6e64f2ff35ee760nZ90927FVRU.html",
+      "description": "商汤科技AI Agent研发实习生招聘，面向人工智能、计算机相关专业学生。",
+      "keywords": ["AI Agent", "智能体", "实习", "深圳"],
+      "post_date": "2026-04",
+      "is_relevant": true
+    },
+    {
+      "id": "intelligent_agent_002",
+      "title": "HR招聘实习生-飞书AI研发（深圳）",
+      "company": "字节跳动",
+      "location": "深圳",
+      "job_type": "实习",
+      "source": "实习僧",
+      "source_url": "https://www.shixiseng.com/intern/inn_edor8pzdknhm",
+      "description": "字节跳动飞书AI研发团队招聘实习生，涉及AI研发相关工作。",
+      "keywords": ["AI", "飞书", "实习", "深圳", "字节跳动"],
+      "post_date": "2026-04",
+      "is_relevant": true
+    },
+    {
+      "id": "intelligent_agent_003",
+      "title": "实习生（人工智能体方向）",
+      "company": "一汽南方（深圳）科技开发有限公司",
+      "location": "深圳",
+      "job_type": "实习",
+      "source": "猎聘",
+      "source_url": "https://www.lipind.com/position/detail/1050016.html",
+      "description": "协助项目负责人梳理公司主营业务流程，创建人工智能体，处理综合人事领域事务性工作。使用dify搭建智能体、设计工作流，辅助团队提升办公效率。对接业务需求，将人工流程转化为AI自动化工作流。",
+      "keywords": ["智能体", "AI", "dify", "实习", "深圳", "人工智能"],
+      "post_date": "2026-04",
+      "is_relevant": true
+    },
+    {
+      "id": "intelligent_agent_004",
+      "title": "AI算法实习生",
+      "company": "哈工深广东省安全智能新技术重点实验室",
+      "location": "深圳",
+      "job_type": "实习",
+      "source": "哈尔滨工业大学（深圳）",
+      "source_url": "http://carc.hitsz.edu.cn/info/1022/3671.htm",
+      "description": "招聘AI算法实习生3人，实习生将直接对接哈尔滨工业大学（深圳）计算机学院教师科研团队，聚焦人工智能、信息安全、高性能计算等前沿领域，深度参与科研项目，共享高校实验室资源与学术支持。",
+      "keywords": ["AI", "算法", "实习", "深圳", "人工智能", "实验室"],
+      "post_date": "2026-04",
+      "is_relevant": true
+    },
+    {
+      "id": "intelligent_agent_005",
+      "title": "大模型算法实习生-国际支付",
+      "company": "字节跳动",
+      "location": "深圳",
+      "job_type": "实习",
+      "source": "实习僧",
+      "source_url": "https://www.shixiseng.com/intern/inn_jcpmhis72xaz",
+      "description": "大模型算法实习生岗位，薪资400-500/天，硕士学历，实习3个月，提供转正机会。",
+      "keywords": ["大模型", "算法", "实习", "深圳", "字节跳动"],
+      "post_date": "2026-04-03",
+      "is_relevant": true
+    }
+  ],
+  "summary": {
+    "total_jobs": 5,
+    "internship_count": 5,
+    "spring_recruitment_count": 0,
+    "companies": ["商汤科技", "字节跳动", "一汽南方", "哈工深实验室"],
+    "search_engines": ["duckduckgo"],
+    "unresponsive_engines": ["google", "brave", "startpage"]
+  },
+  "notes": [
+    "本次搜索主要依赖DuckDuckGo引擎，Google/Brave/Startpage因访问限制未能返回结果",
+    "搜索结果主要集中在AI、Agent、大模型相关实习岗位",
+    "深圳地区智能体/Agent方向实习岗位相对较少，建议扩大搜索范围至AI算法、大模型等相关岗位"
+  ]
+}
