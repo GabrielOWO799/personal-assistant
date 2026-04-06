@@ -1,0 +1,72 @@
+{
+  "search_date": "2026-04-06",
+  "search_keywords": [
+    "深圳 AI产品经理 实习 2026",
+    "深圳 AI产品经理 春招 2026",
+    "深圳 人工智能产品 实习 校招",
+    "AI产品经理 实习生 深圳",
+    "AI 产品经理 春招 2026届"
+  ],
+  "jobs": [
+    {
+      "title": "AI产品经理实习生-27届暑期实习招聘",
+      "company": "TCL实业",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://www.zhipin.com/job_detail/e56e8f9c31178c800nZy3t24EVdT.html",
+      "source": "BOSS直聘",
+      "requirements": "在校/应届，学历不限",
+      "benefits": "五险一金、定期体检、年终奖、带薪年假、员工旅游、免费班车、零食下午茶",
+      "description": "TCL实业AI产品经理实习生岗位，面向27届学生"
+    },
+    {
+      "title": "Product Engineer-产品工程师（AI应用产品经理方向）",
+      "company": "小红书",
+      "location": "上海/北京",
+      "type": "实习",
+      "url": "https://hr.xiaohongshu.com/recommend/job-list/XHSRC-eda00f32f8f3e326746a4754e93e7c39",
+      "source": "小红书社招内推",
+      "requirements": "27届实习",
+      "description": "AI应用产品经理方向，质效研发部门"
+    },
+    {
+      "title": "AI Agent产品经理",
+      "company": "阿里淘宝闪购",
+      "location": "杭州",
+      "type": "实习",
+      "url": "https://spxy.zjgsu.edu.cn/?news/6467.html",
+      "source": "校招官网",
+      "requirements": "27届实习生",
+      "description": "阿里星项目，包含AI应用研发工程师、AI应用算法工程师、AI体验设计师、AI数据工程师、AI Agent产品经理等岗位"
+    },
+    {
+      "title": "AI策略产品经理实习生-抖音电商",
+      "company": "字节跳动",
+      "location": "北京/上海/深圳",
+      "type": "实习",
+      "url": "https://www.shixiseng.com/intern/inn_nc4yrkllhjkq",
+      "source": "实习僧",
+      "description": "字节跳动AI策略产品经理实习生，抖音电商方向"
+    },
+    {
+      "title": "实习生（AI方向）",
+      "company": "一汽南方（深圳）科技开发有限公司",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://www.lipind.com/position/detail/1050016.html",
+      "source": "理聘",
+      "salary": "3-4K/月",
+      "requirements": "经验不限，本科，计算机相关专业",
+      "description": "协助项目负责人梳理公司主营业务流程，创建人工智能体，处理综合人事领域事务性工作。使用dify搭建智能体、设计工作流，辅助团队提升办公效率；对接业务需求，将人工流程转化为AI自动化工作流"
+    }
+  ],
+  "summary": {
+    "total_jobs": 5,
+    "internship_count": 5,
+    "campus_recruitment_count": 0,
+    "shenzhen_jobs": 2,
+    "other_cities": 3,
+    "top_companies": ["TCL实业", "字节跳动", "阿里", "小红书", "一汽南方"],
+    "search_notes": "本次搜索主要发现27届暑期实习岗位较多，2026届春招AI产品经理岗位竞争激烈。深圳地区有TCL实业和一汽南方等企业提供AI产品经理实习岗位。"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "search_date": "2026-04-06",
+  "search_time": "09:10",
+  "keywords": [
+    "深圳 AI Agent 实习 2026",
+    "深圳 AI Agent 春招 2026",
+    "深圳 智能体 实习 校招"
+  ],
+  "total_results": 0,
+  "filtered_jobs": [],
+  "raw_results_summary": {
+    "query_1": {
+      "keyword": "深圳 AI Agent 实习 2026",
+      "results_count": 0,
+      "note": "未找到相关实习岗位"
+    },
+    "query_2": {
+      "keyword": "深圳 AI Agent 春招 2026",
+      "results_count": 0,
+      "note": "未找到相关春招岗位"
+    },
+    "query_3": {
+      "keyword": "深圳 智能体 实习 校招",
+      "results_count": 0,
+      "note": "未找到相关校招岗位"
+    }
+  },
+  "search_status": "completed",
+  "message": "本次搜索未找到符合条件的深圳AI Agent实习或春招岗位。搜索结果显示的相关内容主要为AI Agent技术资讯、培训课程、行业报告等，无具体招聘岗位信息。"
+}
