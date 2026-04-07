@@ -1,0 +1,121 @@
+{
+  "search_date": "2026-04-07",
+  "search_time": "10:00",
+  "keywords": [
+    "深圳 大模型 实习 2026",
+    "深圳 大模型 春招 2026",
+    "深圳 LLM 实习 校招"
+  ],
+  "total_results": 5,
+  "jobs": [
+    {
+      "id": "1",
+      "title": "蚂蚁大数字金融板块 2027届实习生招聘",
+      "company": "蚂蚁集团",
+      "department": "大数字金融板块",
+      "location": "深圳/杭州",
+      "job_type": "实习",
+      "target_group": "2027届毕业生（毕业时间在2026.11.1至2027.10.31）",
+      "positions": [
+        "大模型智能体优化算法",
+        "多模态理解和生成算法",
+        "搜索广告算法",
+        "智能体与大模型应用工程"
+      ],
+      "requirements": "对AI金融感兴趣，不需要金融经验",
+      "source_url": "https://www.sohu.com/a/1006055909_121106832",
+      "publish_date": "2026-04-07",
+      "search_keyword": "深圳 大模型 实习 2026"
+    },
+    {
+      "id": "2",
+      "title": "科大讯2026届春季校园招聘启动",
+      "company": "科大讯",
+      "location": "合肥/深圳",
+      "job_type": "校招/春招",
+      "target_group": "2026届应届毕业生（放宽至24届）",
+      "positions": [
+        "飞凡计划",
+        "飞星计划",
+        "星火大模型研发"
+      ],
+      "highlights": [
+        "豪华offer包",
+        "优先进入认知智能全国重点实验室",
+        "优秀硕士应届生优先进入C9高校攻读在职博士学位",
+        "优秀博士优先进入科大讯博士后流动站"
+      ],
+      "source_url": "https://blog.csdn.net/qq_39245184/article/details/159888919",
+      "publish_date": "2026-04-07",
+      "search_keyword": "深圳 大模型 春招 2026"
+    },
+    {
+      "id": "3",
+      "title": "深圳春季招聘会：新兴产业岗位多，高薪抢人才",
+      "company": "多家企业",
+      "location": "深圳",
+      "job_type": "校招/实习",
+      "target_group": "应届毕业生及实习生",
+      "description": "深圳技术大学举办2026年春季就业双选会，汇聚150余家优质企业，释放4000余个热门岗位，兼顾全职与实习岗位需求",
+      "highlights": [
+        "150+家企业",
+        "4000+岗位",
+        "含AI、大数据等技术型岗位"
+      ],
+      "source_url": "https://www.zpfb.cn/zpxx/64774.html",
+      "publish_date": "2026-04-07",
+      "search_keyword": "深圳 LLM 实习 校招"
+    },
+    {
+      "id": "4",
+      "title": "搜狐畅游2026届校园招聘",
+      "company": "搜狐畅游",
+      "location": "北京/深圳",
+      "job_type": "校招/实习",
+      "target_group": "2026/2027届毕业生",
+      "positions": [
+        "游戏策划",
+        "游戏程序开发",
+        "游戏美术",
+        "游戏运营",
+        "平台业务",
+        "平台技术"
+      ],
+      "highlights": [
+        "全年14-16薪",
+        "项目奖金、绩效奖金",
+        "非京生源校招提前实习住房补贴",
+        "应届生北京落户机会"
+      ],
+      "source_url": "https://www.sohu.com/a/1006040069_121123831",
+      "publish_date": "2026-04-07",
+      "search_keyword": "深圳 大模型 春招 2026"
+    },
+    {
+      "id": "5",
+      "title": "昆山博思达自动化设备科技2026届校园招聘",
+      "company": "昆山博思达自动化设备科技有限公司",
+      "location": "深圳/苏州昆山/成都",
+      "job_type": "校招",
+      "target_group": "2026届应届生",
+      "positions": [
+        "机械设计工程师",
+        "电气工程师"
+      ],
+      "requirements": "机械工程及自动化/电气工程及其自动化专业可投",
+      "source_url": "https://www.quanzhi.com/notice/69d415d185fb8af095c32abd",
+      "publish_date": "2026-04-07",
+      "search_keyword": "深圳 LLM 实习 校招"
+    }
+  ],
+  "metadata": {
+    "search_engine": "SearXNG",
+    "data_source": "duckduckgo",
+    "unresponsive_engines": [
+      "brave (Suspended: too many requests)",
+      "google (Suspended: access denied)",
+      "startpage (Suspended: CAPTCHA)"
+    ],
+    "note": "本次搜索结果主要来自蚂蚁集团、科大讯等企业的AI相关实习/校招岗位，涵盖大模型算法、智能体开发等方向"
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "search_date": "2025-04-07",
+  "search_time": "11:00",
+  "keywords": [
+    "深圳 智能体 实习 2026",
+    "深圳 智能体 春招 2026",
+    "深圳 Multi-Agent 实习 校招",
+    "深圳 Agent 实习",
+    "深圳 AI Agent 实习 招聘",
+    "深圳 大模型 实习 Agent",
+    "深圳 LLM 实习 2026"
+  ],
+  "total_results": 5,
+  "jobs": [
+    {
+      "id": 1,
+      "title": "AI Agent 软件工程师-实习 (A158547)",
+      "company": "逸文科技",
+      "location": "深圳",
+      "type": "实习",
+      "category": "实习岗位",
+      "requirements": "在校/应届，本科学历",
+      "benefits": "生日福利、节日福利、团建聚餐、零食下午茶、员工旅游、带薪年假、股票期权、保底工资、绩效奖金、年终奖、定期体检、五险一金",
+      "source": "BOSS直聘",
+      "url": "https://www.zhipin.com/job_detail/0a4cb31749633d8703By0tq4EFBS.html",
+      "search_keyword": "深圳 Agent 实习"
+    },
+    {
+      "id": 2,
+      "title": "Agent应用开发、软件测试实习生",
+      "company": "智控",
+      "location": "深圳",
+      "type": "实习",
+      "category": "实习岗位",
+      "responsibilities": "参与公司 Agent 应用在移动端的跨端开发与迭代，基于 UniApp",
+      "source": "LinkedIn",
+      "url": "https://cn.linkedin.com/jobs/view/agent%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E3%80%81%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%AE%9E%E4%B9%A0%E7%94%9F-at-%E6%99%BA%E6%8E%A7-4396243750",
+      "search_keyword": "深圳 Agent 实习"
+    },
+    {
+      "id": 3,
+      "title": "AI4Science Agent 实习生",
+      "company": "IDEA研究院（深圳）",
+      "location": "深圳",
+      "type": "实习",
+      "category": "实习岗位",
+      "description": "探索AI for Science前沿领域，主攻构建能够自主进行科学研究的多智能体（Multi-Agent）系统",
+      "highlights": "LLM应用、AI Agent变革药物设计、材料科学",
+      "source": "知乎",
+      "url": "https://zhuanlan.zhihu.com/p/1935661652470104124",
+      "search_keyword": "深圳 Agent 实习"
+    },
+    {
+      "id": 4,
+      "title": "AI Agent研发实习生-开发者服务",
+      "company": "字节跳动",
+      "location": "深圳",
+      "type": "实习",
+      "category": "实习岗位",
+      "description": "专注于开发者服务领域的技术研发与创新",
+      "source": "字节跳动招聘",
+      "url": "https://jobs.bytedance.com/campus/position/7468221645670074632/detail",
+      "search_keyword": "深圳 AI Agent 实习 招聘"
+    },
+    {
+      "id": 5,
+      "title": "Agent 应用开发实习生",
+      "company": "远湾数科（深圳）有限公司",
+      "location": "深圳",
+      "type": "实习",
+      "category": "实习岗位",
+      "salary": "150-300/天",
+      "source": "牛客网",
+      "url": "https://www.nowcoder.com/jobs/detail/435750",
+      "search_keyword": "深圳 Agent 实习"
+    },
+    {
+      "id": 6,
+      "title": "AI应用开发实习生",
+      "company": "Sei Robotics",
+      "location": "深圳",
+      "type": "实习（可转正）",
+      "category": "实习岗位",
+      "department": "AI产品研发部",
+      "description": "AI应用/AI Agent开发实习生",
+      "contact": "hr@seirobotics.net",
+      "source": "水木社区",
+      "url": "https://m.newsmth.net/article/Intern/344847",
+      "search_keyword": "深圳 Agent 实习"
+    },
+    {
+      "id": 7,
+      "title": "大模型应用开发实习生（Agent方向）",
+      "company": "深圳市大数据研究院",
+      "location": "深圳",
+      "type": "实习",
+      "category": "实习岗位",
+      "description": "深圳市大数据研究院是深圳市属二类事业单位，2016年3月组建成立",
+      "source": "理聘",
+      "url": "https://www.lipind.com/position/detail/1023562.html",
+      "search_keyword": "深圳 大模型 实习 Agent"
+    },
+    {
+      "id": 8,
+      "title": "大模型开发实习生（Agent/RAG/Fine-tune）",
+      "company": "千芯科技",
+      "location": "深圳",
+      "type": "实习",
+      "category": "实习岗位",
+      "requirements": "在校/应届，本科学历",
+      "benefits": "五险一金、定期体检、年终奖、绩效奖金、保底工资、底薪加提成、股票期权、带薪年假、加班补助、节假日加班费、法定节假日三薪",
+      "source": "BOSS直聘",
+      "url": "https://www.zhipin.com/job_detail/be6607789f5bea471Hxy2dy4E1dW.html",
+      "search_keyword": "深圳 大模型 实习 Agent"
+    },
+    {
+      "id": 9,
+      "title": "实习生（大模型）",
+      "company": "DJI大疆",
+      "location": "深圳",
+      "type": "实习",
+      "category": "实习岗位",
+      "responsibilities": "负责多模态大模型算法研究，针对手持影像开展大模型理解、生成、Agent规划等相关算法的实现和优化；负责音频理解、语音合成、LLM agent相关算法的实现和优化，搭建通用语音助手",
+      "source": "大疆招聘",
+      "url": "https://we.dji.com/zh-CN/position/detail?positionId=1991874969068556288&positionCategory=1",
+      "search_keyword": "深圳 大模型 实习 Agent"
+    },
+    {
+      "id": 10,
+      "title": "大模型技术实习生",
+      "company": "货拉拉",
+      "location": "深圳",
+      "type": "实习",
+      "category": "实习岗位",
+      "responsibilities": "支持大模型相关工作，包括大模型框架调研、LangGraph等技术实现与优化；支持大模型在业务场景中的落地，如内容生成、智能问答等方向的模块开发与数据分析；探索并实现基于LangGraph、LangChain、RAG、Agent等技术的大模型应用方案",
+      "requirements": "统计学、计算机、信息技术等相关专业",
+      "source": "实习僧",
+      "url": "https://www.shixiseng.com/intern/inn_ye3xkxqeq8vh",
+      "search_keyword": "深圳 大模型 实习 Agent"
+    },
+    {
+      "id": 11,
+      "title": "大语言模型AI搜索Agent算法工程师实习生-豆包大模型（Top Seed Intern）",
+      "company": "字节跳动",
+      "location": "深圳",
+      "type": "实习",
+      "category": "实习岗位",
+      "salary": "300-1000/天",
+      "source": "牛客网",
+      "url": "https://www.nowcoder.com/jobs/detail/386087",
+      "search_keyword": "深圳 大模型 实习 Agent"
+    },
+    {
+      "id": 12,
+      "title": "LLM算法实习（腾讯混元大模型）",
+      "company": "腾讯科技",
+      "location": "深圳",
+      "type": "实习",
+      "category": "实习岗位",
+      "salary": "350-500/天",
+      "source": "牛客网",
+      "url": "https://www.nowcoder.com/jobs/detail/358616",
+      "search_keyword": "深圳 LLM 实习 2026"
+    },
+    {
+      "id": 13,
+      "title": "腾讯混元大模型团队—LLM预训练算法方向实习生",
+      "company": "腾讯",
+      "location": "深圳",
+      "type": "实习",
+      "category": "实习岗位",
+      "requirements": "2026届毕业的同学才可走暑期实习生（有转正机会），其他都只能走日常实习生",
+      "contact": "andreasyang@tencent.com",
+      "source": "知乎",
+      "url": "https://zhuanlan.zhihu.com/p/27733411525",
+      "search_keyword": "深圳 LLM 实习 2026"
+    }
+  ],
+  "summary": {
+    "total_jobs": 13,
+    "internship_jobs": 13,
+    "campus_recruitment": 0,
+    "location_distribution": {
+      "深圳": 13
+    },
+    "company_types": [
+      "互联网大厂（字节跳动、腾讯、大疆）",
+      "AI科技公司（千芯科技、逸文科技、智控）",
+      "研究机构（IDEA研究院、深圳市大数据研究院）",
+      "其他科技公司（远湾数科、Sei Robotics、货拉拉）"
+    ],
+    "key_skills": [
+      "AI Agent",
+      "Multi-Agent",
+      "LLM",
+      "RAG",
+      "LangGraph",
+      "LangChain",
+      "大模型应用开发",
+      "智能体系统"
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "search_date": "2026-04-07",
+  "search_keyword": "深圳 AI产品经理 实习 春招 2026",
+  "total_results": 5,
+  "jobs": [
+    {
+      "id": "1",
+      "title": "AI产品经理实习生-27届暑期实习",
+      "company": "TCL实业",
+      "location": "深圳",
+      "type": "实习",
+      "tags": ["暑期实习", "在校/应届", "学历不限"],
+      "url": "https://www.zhipin.com/job_detail/e56e8f9c31178c800nZy3t24EVdT.html",
+      "description": "TCL实业AI产品经理实习生招聘，面向27届暑期实习，提供五险一金、定期体检、年终奖、带薪年假、员工旅游、免费班车、零食下午茶等福利。",
+      "source": "Boss直聘",
+      "published_date": "2026-04"
+    },
+    {
+      "id": "2",
+      "title": "AI产品经理实习生-火山方舟MaaS",
+      "company": "字节跳动",
+      "location": "深圳",
+      "type": "实习",
+      "tags": ["火山方舟", "MaaS", "AI产品"],
+      "url": "https://www.shixiseng.com/intern/inn_tevgt2e20v3i",
+      "description": "字节跳动AI产品经理实习生招聘，负责火山方舟MaaS产品相关工作。",
+      "source": "实习僧",
+      "published_date": "2026-04"
+    },
+    {
+      "id": "3",
+      "title": "AI产品经理",
+      "company": "山海星辰集团",
+      "location": "深圳",
+      "type": "校招",
+      "tags": ["2026届", "校招", "AI产品"],
+      "url": "https://jyzd.fjtcm.edu.cn/2026/0406/c1500a112202/page.htm",
+      "description": "山海星辰集团2026届AI专场校招，招聘AI产品经理岗位。工作地点包括北京/杭州/深圳/广州/重庆/南宁/长春多地可选。周末双休，每天7h工作制。",
+      "source": "福建中医药大学就业指导中心",
+      "published_date": "2026-04-06"
+    },
+    {
+      "id": "4",
+      "title": "程序化广告AI产品经理实习生",
+      "company": "百度在线",
+      "location": "深圳",
+      "type": "实习",
+      "tags": ["程序化广告", "本科", "在校/应届"],
+      "url": "https://www.zhipin.com/job_detail/ac14e7a5efc545710nV429q1EVZT.html",
+      "description": "百度在线程序化广告AI产品经理实习生招聘，要求本科学历，在校或应届生，提供五险一金、补充医疗保险等福利。",
+      "source": "Boss直聘",
+      "published_date": "2026-04"
+    },
+    {
+      "id": "5",
+      "title": "AI Agent产品经理实习生",
+      "company": "阿里淘宝闪购",
+      "location": "深圳",
+      "type": "实习",
+      "tags": ["27届", "AI Agent", "产品"],
+      "url": "https://spxy.zjgsu.edu.cn/?news/6467.html",
+      "description": "阿里淘宝闪购27届实习生招聘，热招岗位包括AI Agent产品经理、产品经理等。",
+      "source": "浙江工商大学食品与生物工程学院",
+      "published_date": "2026-04"
+    }
+  ],
+  "search_summary": {
+    "实习岗位": 4,
+    "校招岗位": 1,
+    "深圳地区": 5,
+    "数据来源": ["Boss直聘", "实习僧", "高校就业网"]
+  }
+}
