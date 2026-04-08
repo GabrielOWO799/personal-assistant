@@ -1,0 +1,31 @@
+{
+  "search_date": "2026-04-08",
+  "search_time": "11:00",
+  "keywords": [
+    "深圳 智能体 实习 2026",
+    "深圳 智能体 春招 2026",
+    "深圳 Multi-Agent 实习 校招"
+  ],
+  "total_results": 0,
+  "jobs": [],
+  "summary": {
+    "total_jobs": 0,
+    "internship_jobs": 0,
+    "campus_recruitment": 0,
+    "location_distribution": {},
+    "company_types": [],
+    "key_skills": []
+  },
+  "status": "search_failed",
+  "error": {
+    "searxng_status": "localhost:8080 unreachable - connection refused",
+    "brave_api_status": "missing_brave_api_key",
+    "message": "All search engines unavailable. SearXNG local instance connection refused. Brave API key not configured."
+  },
+  "notes": [
+    "SearXNG本地实例连接被拒绝",
+    "Brave API密钥未配置，web_search工具不可用",
+    "本次搜索未能获取新数据",
+    "建议：配置Brave API密钥以恢复实时搜索功能"
+  ]
+}

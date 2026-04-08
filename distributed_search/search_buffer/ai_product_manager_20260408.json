@@ -1,0 +1,68 @@
+{
+  "search_date": "2026-04-08",
+  "search_time": "13:00",
+  "keyword": "AI产品经理",
+  "query_count": 3,
+  "results_count": 5,
+  "jobs": [
+    {
+      "title": "东风南方集团【国企】联友科技2026届春季校园招聘简章",
+      "company": "深圳联友科技有限公司",
+      "location": "深圳、广州、武汉",
+      "type": "春招/校招",
+      "url": "https://jyzd.chnu.edu.cn/xsfw/gwxx/content_145428",
+      "description": "40+校招需求，涉及AI类、数据类、软件工程类、解决方案类等岗位需求。工作地点包括深圳、广州、武汉。面向本科及以上学历，2026届海内外院校应届毕业生。",
+      "source": "duckduckgo",
+      "search_query": "深圳 AI产品经理 春招 2026"
+    },
+    {
+      "title": "涂鸦智能2026届校园招聘正式启动!",
+      "company": "涂鸦智能 (NYSE:TUYA / HKEX:2391)",
+      "location": "深圳",
+      "type": "校招",
+      "url": "https://job.xidian.edu.cn/campus/view/id/755785",
+      "description": "全球领先的AI+IoT生态引擎公司，招聘AI相关岗位。让技术跨越虚拟与现实的边界，代码驱动万千设备背后的智能生命。",
+      "source": "duckduckgo",
+      "search_query": "深圳 AI产品经理 实习 2026"
+    },
+    {
+      "title": "虎牙2026届春季校招火热进行中!",
+      "company": "虎牙",
+      "location": "深圳",
+      "type": "春招/校招",
+      "url": "https://jyy.gxu.edu.cn/detail/online?id=3495759",
+      "description": "面向毕业时间在2025年9月至2026年8月期间的应届毕业生。全球化游戏生态的高级操盘手，依托虎牙直播及其海外业务。",
+      "source": "duckduckgo",
+      "search_query": "深圳 AI产品经理 春招 2026"
+    },
+    {
+      "title": "中华商务联合印刷(香港)集团有限公司2026春招校招",
+      "company": "中华商务联合印刷(香港)集团有限公司",
+      "location": "深圳、上海、北京、成都",
+      "type": "春招/校招",
+      "url": "https://upcv.tech/xiaozhao/cmnpcgfa8000km9lcvu2ahp65.html",
+      "description": "2026春招校招信息已整理，覆盖招聘城市、岗位数量、投递入口等核心内容。城市分布：深圳、上海、北京、成都。学历覆盖：本科、硕士。截止时间：2026/6/7。",
+      "source": "duckduckgo",
+      "search_query": "深圳 AI产品经理 春招 2026"
+    },
+    {
+      "title": "2026校园招聘信息_最新校招平台-鱼泡直聘校招",
+      "company": "鱼泡直聘校招(原海投网)",
+      "location": "全国",
+      "type": "校招",
+      "url": "https://xyzp.haitou.cc/zxxz/",
+      "description": "实时整合全国2026企业最新校园招聘信息，提供精准地理位置筛选功能，便捷定位附近找工作最新招聘动态，覆盖多行业头部企业及中小型公司需求。",
+      "source": "duckduckgo",
+      "search_query": "深圳 AI产品经理 实习 2026"
+    }
+  ],
+  "metadata": {
+    "search_engines": ["duckduckgo"],
+    "unresponsive_engines": ["brave", "google", "startpage"],
+    "filters_applied": {
+      "location": "深圳",
+      "job_types": ["实习", "春招", "校招", "2026届"],
+      "exclude_fulltime": true
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "search_date": "2026-04-08",
+  "search_time": "09:05",
+  "keywords": [
+    "深圳 AI Agent 实习 2026",
+    "深圳 AI Agent 春招 2026",
+    "深圳 智能体 实习 校招"
+  ],
+  "total_results": 3,
+  "jobs": [
+    {
+      "title": "涂鸦智能2026届校园招聘正式启动",
+      "company": "涂鸦智能 (NYSE:TUYA / HKEX:2391)",
+      "type": "校招/春招",
+      "location": "深圳",
+      "url": "https://job.xidian.edu.cn/campus/view/id/755785",
+      "description": "全球领先的AI+IoT生态引擎，让技术跨越虚拟与现实的边界。2026届校园招聘正式启动。",
+      "source": "西安电子科技大学就业网",
+      "search_keyword": "深圳 AI Agent 春招 2026"
+    },
+    {
+      "title": "欣旺达26届春招及27届专项实习生招聘",
+      "company": "欣旺达电子股份有限公司",
+      "type": "春招/实习",
+      "location": "深圳",
+      "url": "https://scdc.jnu.edu.cn/campus/view/id/1035075",
+      "description": "春招面向2026届本硕博应届生；实习生招聘面向2027届本硕博应届生。网申地址：sunwodacampus.zhiye.com",
+      "source": "暨南大学学生就业指导中心",
+      "search_keyword": "深圳 智能体 实习 校招"
+    },
+    {
+      "title": "中建三局集团华南有限公司2026届春季校园招聘",
+      "company": "中建三局集团华南有限公司",
+      "type": "校招/春招",
+      "location": "深圳/华南",
+      "url": "https://career.gdut.edu.cn/teachin/view/id/191221",
+      "description": "全球最大的投资建设集团、大型央企上市公司——中国建筑（2025世界五百强排名16名）的三级分支机构。",
+      "source": "广东工业大学就业指导中心",
+      "search_keyword": "深圳 智能体 实习 校招"
+    }
+  ],
+  "summary": {
+    "internships_found": 1,
+    "campus_recruitment_found": 3,
+    "total_jobs": 3,
+    "note": "搜索结果中直接匹配'AI Agent'的实习/春招岗位较少，但找到多家深圳企业的2026届春招信息，包括涂鸦智能（AI+IoT方向）、欣旺达（电子/新能源）、中建三局华南公司。建议扩大搜索关键词如'大模型实习'、'算法实习'等以获取更多相关岗位。"
+  }
+}
