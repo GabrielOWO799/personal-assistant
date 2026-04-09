@@ -1,0 +1,75 @@
+{
+  "search_date": "2026-04-09",
+  "search_time": "09:10",
+  "keyword": "深圳 AI Agent 实习 春招 校招 2026",
+  "total_results": 5,
+  "jobs": [
+    {
+      "title": "思特奇2027届研发组实习生招聘",
+      "company": "思特奇",
+      "type": "实习",
+      "location": "深圳",
+      "description": "AI智能体开发实习生(Python/Java)、AI数据处理实习生、AI爬虫实习生、数据挖掘实习生等",
+      "url": "https://www.quanzhi.com/notice/69d6a2cb85fb8af095c66752",
+      "source": "全职招聘网",
+      "tags": ["AI智能体", "Python", "Java", "实习"],
+      "is_internship": true,
+      "is_campus": false
+    },
+    {
+      "title": "阿里巴巴国际站2026校招 - Accio Agent平台",
+      "company": "阿里巴巴国际站",
+      "type": "校招",
+      "location": "深圳/海外",
+      "description": "Accio Work(Agent Platform)是阿里在海外落地的首个企业级Agent工作台，2026年3月启动",
+      "url": "https://campus.niuqizp.com/schedule-7k8s5tNLM.html",
+      "source": "牛起招聘",
+      "tags": ["AI Agent", "企业级", "校招", "2026届"],
+      "is_internship": false,
+      "is_campus": true
+    },
+    {
+      "title": "2026春招留学生必看：AI热潮下如何逆袭上岸大厂",
+      "company": "多家大厂",
+      "type": "春招",
+      "location": "深圳/上海/北京",
+      "description": "字节、腾讯、百度、蚂蚁、美团春招AI岗位分析，包含AI Agent相关岗位",
+      "url": "https://blog.csdn.net/2401_85375151/article/details/159966561",
+      "source": "CSDN",
+      "tags": ["春招", "AI", "2026届", "大厂"],
+      "is_internship": false,
+      "is_campus": true
+    },
+    {
+      "title": "大疆AI岗位高薪揭秘 - 实习岗位",
+      "company": "大疆",
+      "type": "实习",
+      "location": "深圳",
+      "description": "AI岗位面试侧重AI基础知识考察，实习岗位面向深圳、上海",
+      "url": "https://blog.csdn.net/2401_84494441/article/details/159966193",
+      "source": "CSDN",
+      "tags": ["AI", "实习", "深圳", "高薪"],
+      "is_internship": true,
+      "is_campus": false
+    },
+    {
+      "title": "东软医疗2026届校园招聘 - 大模型算法工程师",
+      "company": "东软医疗",
+      "type": "校招",
+      "location": "广州/深圳",
+      "description": "算法工程师/电子工程师/大模型算法工程师等岗位",
+      "url": "https://www.quanzhi.com/notice/69d69ae385fb8af095c66320",
+      "source": "全职招聘网",
+      "tags": ["大模型", "算法工程师", "校招", "2026届"],
+      "is_internship": false,
+      "is_campus": true
+    }
+  ],
+  "summary": {
+    "internship_count": 2,
+    "campus_count": 3,
+    "companies": ["思特奇", "阿里巴巴国际站", "大疆", "东软医疗"],
+    "key_locations": ["深圳", "广州"],
+    "key_skills": ["AI Agent", "Python", "Java", "大模型", "算法"]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "search_date": "2025-04-09",
+  "search_time": "10:00",
+  "keyword": "大模型",
+  "total_results": 5,
+  "jobs": [
+    {
+      "title": "拼多多集团2026届春招-大模型算法工程师",
+      "company": "拼多多集团-PDD",
+      "location": "深圳",
+      "type": "春招",
+      "url": "https://campus.niuqizp.com/schedule-7ky85tNta.html",
+      "description": "2026届春招启动，「研发专场」「管培生招聘」还有机会! 大模型算法工程师，服务端研发工程师，Web前端研发工程师，算法工程师等岗位",
+      "source": "牛企直聘"
+    },
+    {
+      "title": "东软医疗2026届校园招聘 - 大模型算法工程师",
+      "company": "东软医疗",
+      "location": "广州/上海/郑州（含深圳相关）",
+      "type": "校招",
+      "url": "https://www.quanzhi.com/notice/69d69ae385fb8af095c66320",
+      "description": "面向2026届应届生，招聘算法工程师/电子工程师（CT/GXR）/大模型算法工程师，数学/生物医学工程/计算机/电子/人工智能/临床医学/医学影像/市场营销/国际贸易/电气专业可投",
+      "source": "全职招聘网"
+    },
+    {
+      "title": "挚文集团2026届春招宣讲会 - 大模型算法工程师",
+      "company": "挚文集团（陌陌）",
+      "location": "深圳",
+      "type": "春招",
+      "url": "https://m.yingjiesheng.com/xuanjianghui/xjh_6249645",
+      "description": "2026年春招岗位：计算机视觉算法工程师、语音算法工程师、大模型算法工程师。宣讲时间：2026年4月8日 18:30-20:30",
+      "source": "应届生求职网"
+    },
+    {
+      "title": "快手广告大模型算法（师兄团队）",
+      "company": "快手",
+      "location": "深圳",
+      "type": "实习/校招/社招",
+      "url": "https://bbs.pku.edu.cn/v2/post-read.php?bid=845&threadid=19006325",
+      "description": "广告模型效率优化，可以直接影响公司收入，是互联网算法行业最核心的业务和技术，也是未来薪资天花板最高的方向之一。LLM、视觉等大模型相关技术在推荐和广告场景的创新和研究。职位类别：算法类，工作年限：kstar头部计划、校招、社招、实习生",
+      "source": "北大未名BBS"
+    },
+    {
+      "title": "华为AI模型工程师（端侧大模型）实习生",
+      "company": "华为",
+      "location": "深圳/西安/成都",
+      "type": "实习",
+      "url": "https://www.cdhao.com/662543.html",
+      "description": "负责语言模型、多模态基础模型的开发与优化，参与从预训练(Pre-training)到指令微调(SFT)的全链路开发。针对端侧场景，构建高质量、高多样性的数据清洗与合成流水线",
+      "source": "成都号"
+    }
+  ]
+}
