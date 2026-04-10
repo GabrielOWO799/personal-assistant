@@ -1,0 +1,277 @@
+{
+  "date": "20260410",
+  "category": "AI玩具",
+  "total_results": 70,
+  "results": [
+    {
+      "title": "XiaoMu: Proactive Smart AI Robot Companion & Life Assistant",
+      "url": "https://www.kickstarter.com/projects/xiaomu/xiaomu-robot-intelligent-being-with-offline-ai-and-psychology",
+      "content": "TIMU is raising funds for XiaoMu: Proactive Smart AI Robot Companion & Life Assistant on Kickstarter! Proactive Reminders | Email Assistant | Watch TV & Music Together | Face Recognition | Offline AI | Programmable.",
+      "engine": "duckduckgo",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "www.kickstarter.com",
+        "/projects/xiaomu/xiaomu-robot-intelligent-being-with-offline-ai-and-psychology",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "thumbnail": "",
+      "priority": "",
+      "engines": [
+        "duckduckgo"
+      ],
+      "positions": [
+        1
+      ],
+      "score": 1.0,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "template": "default.html",
+      "url": "https://36kr.com/p/3120996227600642",
+      "title": "老罗这次的AI新品，主打一个“动动嘴”-36氪",
+      "content": "025 年刚开头，科技圈又热闹了。 1 月 5 日，罗永浩的 AI 初创项目 Jarvis 悄然推出一款全新软件产品： J1 Assistant AI 助理。 · 我们先不说这家伙究竟是什么、能干什么，首先，它的体验...",
+      "publishedDate": null,
+      "thumbnail": "https://imgs.search.brave.com/zXir0iReuiiN7n6RrvTODLRmxKymu5sgKYk4L94BWRI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/MzZrcmNkbi5jb20v/aHNvc3Ntcy8yMDI1/MDExMy92Ml82NTMy/MDkwOTNiZGY0Yjdh/ODQwZGQ5MWRmMzMz/ZWYxNEA1ODg4Mjc1/X29zd2c4MDA1OTZv/c3dnMTA1M29zd2c0/OTVfaW1nX3BuZz94/LW9zcy1wcm9jZXNz/PWltYWdlL3Jlc2l6/ZSxtX21maXQsd182/MDAsaF80MDAsbGlt/aXRfMC9jcm9wLHdf/NjAwLGhfNDAwLGdf/Y2VudGVy",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "36kr.com",
+        "/p/3120996227600642",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        5
+      ],
+      "score": 0.2,
+      "category": "general"
+    },
+    {
+      "template": "default.html",
+      "url": "https://www.36kr.com/p/3755444723139330",
+      "title": "万万没想到，这个“秘密”行业也能被 AI 革命-36氪",
+      "content": "原来，人类的配偶不只是人类，可以是“初音未来”，可以是机器人，也可以是 AI 全息影像。",
+      "publishedDate": null,
+      "thumbnail": "https://imgs.search.brave.com/NmdqqshTvWfAWX5sN8XXTEFpmMgkNEXELludqdoqC4E/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/MzZrcmNkbi5jb20v/aHNvc3Ntcy8yMDI2/MDQwNi92Ml9hMTA4/MzMwZWZmYTc0OWZh/OGI5Njc3NWQ4ODA4/ODU1YkAwMDAwMDBA/YWlfb3N3ZzMzOTkw/NW9zd2cxNTM2b3N3/ZzcyMl9pbWdfMDAw/fnRwbHYtMW1hcmxn/anY3Zi1haS12Mzo2/MDA6NDAwOjYwMDo0/MDA6cTcwLmpwZw",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "www.36kr.com",
+        "/p/3755444723139330",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        8
+      ],
+      "score": 0.125,
+      "category": "general"
+    },
+    {
+      "template": "default.html",
+      "url": "https://www.kickstarter.com/",
+      "title": "Kickstarter",
+      "content": "Kickstarter exists to help bring creative projects to life. A home for film, music, art, theater, games, comics, design, photography, and more.",
+      "publishedDate": null,
+      "thumbnail": "",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "www.kickstarter.com",
+        "/",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        19
+      ],
+      "score": 0.05263157894736842,
+      "category": "general"
+    },
+    {
+      "template": "default.html",
+      "url": "https://www.163.com/dy/article/KPK0RPHU0514A1HE.html",
+      "title": "2026年中国AI玩具行业发展状况与消费行为调查数据|电商平台_网易订阅",
+      "content": "AI玩具是指融合了人工智能技术（如语音识别、自然语言处理、计算机视觉、情感计算等），能够实现自主交互、智能响应、个性化学习或场景化适配的智能玩具产品。它突破了传统玩具“被动操作”的局限，通过算法和数据驱动，与使用者建立动态的互动关系，兼具娱乐、教育、陪伴等多元价值。AI玩具的主要类型有AI早教机器人、AI互动玩偶、AI编程玩具、AI故事机、AI遥控玩具、AI绘画/音乐玩具和AI陪伴机器人等。 · 2020-2026年中国AI大模型市场规模及预测",
+      "publishedDate": null,
+      "thumbnail": "",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "www.163.com",
+        "/dy/article/KPK0RPHU0514A1HE.html",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        13
+      ],
+      "score": 0.07692307692307693,
+      "category": "general"
+    },
+    {
+      "title": "AI陪伴新势力崛起：ropet如何以\"生命感\"俘获两万用户心？",
+      "url": "https://www.sohu.com/a/1007537297_362225",
+      "content": "新战略下，团队用4个月完成原型机开发，并通过CES展会、Kickstarter及Makuake众筹平台快速验证市场：2025年初CES亮相后成为行业风向标，两次众筹累计获得4063名支持者、筹款565万元，最终推动产品于同年9月量产。",
+      "engine": "duckduckgo",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "www.sohu.com",
+        "/a/1007537297_362225",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "thumbnail": "",
+      "priority": "",
+      "engines": [
+        "duckduckgo"
+      ],
+      "positions": [
+        2
+      ],
+      "score": 0.5,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "title": "4月8日面市!心忆康康6999元首销ai家人，陪你一起 \"成长\"",
+      "url": "https://news.qq.com/rain/a/20260408A06FZ200",
+      "content": "2026年4月8日，北京心忆科技今日正式发布首款情感AI陪伴机器人\"心忆康康\"（以下简称\"康康\"），定价6999元，首批限量1000台即刻开启预定，4月8日在 ...",
+      "engine": "duckduckgo",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "news.qq.com",
+        "/rain/a/20260408A06FZ200",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "thumbnail": "",
+      "priority": "",
+      "engines": [
+        "duckduckgo"
+      ],
+      "positions": [
+        3
+      ],
+      "score": 0.3333333333333333,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "title": "两万打工人的桌面，被一只\"赛博小猫\"强占了|虎嗅|宠物|机器 ...",
+      "url": "https://www.163.com/dy/article/KQ40RB7A051188EA.html",
+      "content": "ropet在CES上一炮而红，成为2025年AI陪伴机器人的风向标；第二部分是参加了两次众筹，分别在2024年底登陆北美众筹平台Kickstarter，以及2025年登陆日本的Makuake进行了两次众筹，共获得4063名支持者、筹款565万元；最后，靠着这笔融资外加众筹金，硬生生地走 ...",
+      "engine": "duckduckgo",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "www.163.com",
+        "/dy/article/KQ40RB7A051188EA.html",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "thumbnail": "",
+      "priority": "",
+      "engines": [
+        "duckduckgo"
+      ],
+      "positions": [
+        4
+      ],
+      "score": 0.25,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "template": "default.html",
+      "url": "https://news.qq.com/rain/a/20260407A05VI300",
+      "title": "深圳90后团队做了个AI员工，让人躺着把钱赚了_腾讯新闻",
+      "content": "Violoop正是在这样的节点走向市场。它即将登陆Kickstarter众筹，这是第一次直面真实用户的检验。",
+      "publishedDate": null,
+      "thumbnail": "https://imgs.search.brave.com/0e8aBuySC1h9PE6ttUjjFGT2FT5CA27RSfylERU-FpU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbmV3/cy5ndGltZy5jb20v/b21fbHMvT0d1RnAx/VHIzcDRPUnJHWThS/WUZhR2JWZHFFemUy/WHFjeXl0UUJ6N0o5/ZGk0QUFfNjQwMzMw/LzA",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "news.qq.com",
+        "/rain/a/20260407A05VI300",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        4
+      ],
+      "score": 0.25,
+      "category": "general"
+    },
+    {
+      "template": "default.html",
+      "url": "https://c.m.163.com/news/a/KPU884P605119C3G.html",
+      "title": "深圳90后团队做了个AI员工，让人躺着把钱赚了",
+      "content": "Violoop正是在这样的节点走向市场。它即将登陆Kickstarter众筹，这是第一次直面真实用户的检验。",
+      "publishedDate": null,
+      "thumbnail": "",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "c.m.163.com",
+        "/news/a/KPU884P605119C3G.html",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        10
+      ],
+      "score": 0.1,
+      "category": "general"
+    }
+  ]
+}

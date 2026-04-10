@@ -1,0 +1,84 @@
+{
+  "search_date": "2026-04-10",
+  "search_time": "11:00",
+  "keywords": [
+    "深圳 智能体 实习 2026",
+    "深圳 智能体 春招 2026",
+    "深圳 Multi-Agent 实习 校招",
+    "深圳 Agent 实习 2026"
+  ],
+  "total_results": 5,
+  "jobs": [
+    {
+      "id": "intelligent_agent_001",
+      "title": "深圳证券交所2026年暑期实习生招收启事",
+      "company": "深圳证券交易所",
+      "type": "实习",
+      "location": "深圳",
+      "tags": ["实习", "2026暑期", "金融"],
+      "url": "https://www.sohu.com/a/1007422594_121124323",
+      "description": "招收对象为2026年暑假能够在深交所实习的2027年应届毕业生，按专业（岗位）大类进行，具体岗位根据深交所工作需要录用后统一分配。",
+      "source": "搜狐",
+      "published_date": null
+    },
+    {
+      "id": "intelligent_agent_002",
+      "title": "招商银行26实习-梦工场暑期实习项目",
+      "company": "招商银行",
+      "type": "实习",
+      "location": "深圳",
+      "tags": ["实习", "AI", "金融科技", "2026"],
+      "url": "https://campus.niuqizp.com/schedule-7mUU5tNMn.html",
+      "description": "面向热爱AI与金融科技的在校生，提供超NICE文化氛围、开源项目深度参与机会。",
+      "source": "牛企直聘",
+      "published_date": null
+    },
+    {
+      "id": "intelligent_agent_003",
+      "title": "美团2026年LongCat大模型北斗实习计划",
+      "company": "美团",
+      "type": "实习",
+      "location": "深圳/多地",
+      "tags": ["实习", "大模型", "Agent", "AGI"],
+      "url": "https://www.chinaz.com/ainews/27007.shtml",
+      "description": "面向全球高校全日制在读硕士及博士，招募大模型领域顶尖实习生。聚焦通用人工智能（AGI）研发，覆盖基座模型算法、Infra架构、Agent应用及视觉生成等核心方向。",
+      "source": "中国站长站",
+      "published_date": null
+    },
+    {
+      "id": "intelligent_agent_004",
+      "title": "2026年度AI智能体应用师人才专业化培养计划",
+      "company": "相关行业协会",
+      "type": "春招/培养计划",
+      "location": "广东",
+      "tags": ["春招", "AI智能体", "人才培养", "2026"],
+      "url": "https://k.sina.cn/article_5953740931_162dee08306702zswy.html",
+      "description": "由相关行业协会授权，正式启动2026年度AI数字服务人才专业化培养计划，培养复合型AI智能体应用服务人才，补充AI产业应用型人才缺口。",
+      "source": "新浪",
+      "published_date": null
+    },
+    {
+      "id": "intelligent_agent_005",
+      "title": "腾讯公司校招PUBGMOBILE国际发行2026实习生招聘",
+      "company": "腾讯",
+      "type": "实习",
+      "location": "深圳",
+      "tags": ["实习", "校招", "游戏发行", "2026"],
+      "url": "https://campus.niuqizp.com/job-vYU5ZC5CN.html",
+      "description": "腾讯IEG招聘，岗位包括游戏发行、运营培训生、内容运营、市场营销、商业分析、后台开发、多媒体设计等。",
+      "source": "牛企直聘",
+      "published_date": null
+    }
+  ],
+  "summary": {
+    "实习岗位": 4,
+    "春招岗位": 1,
+    "深圳地区": 4,
+    "AI/智能体相关": 3
+  },
+  "search_metadata": {
+    "engines_used": ["duckduckgo", "brave"],
+    "unresponsive_engines": ["google", "startpage"],
+    "time_range": "day"
+  }
+}

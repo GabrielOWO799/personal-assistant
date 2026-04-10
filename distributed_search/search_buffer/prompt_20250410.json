@@ -1,0 +1,65 @@
+{
+  "search_date": "2026-04-10",
+  "search_time": "12:00",
+  "keywords": [
+    "深圳 Prompt Engineer 实习 2026",
+    "深圳 提示词工程师 实习 春招",
+    "深圳 Prompt 实习 校招"
+  ],
+  "results_count": 5,
+  "jobs": [
+    {
+      "title": "AI应用工程师 (CV & LLM方向)实习生 - 法雷奥",
+      "url": "https://www.shixiseng.com/intern/inn_vidonirdxqsc",
+      "source": "实习僧",
+      "type": "实习",
+      "location": "深圳",
+      "description": "法雷奥AI应用工程师(CV & LLM方向)实习生招聘，包含岗位职责、任职要求、工作内容说明、薪资待遇等招聘信息。",
+      "search_keyword": "深圳 Prompt Engineer 实习 2026"
+    },
+    {
+      "title": "万兴科技2026实习生春季招聘简章",
+      "url": "https://jyb.cjlu.edu.cn/campus/view/id/353543",
+      "source": "校园招聘",
+      "type": "春招/实习",
+      "location": "深圳、长沙、杭州",
+      "description": "AIGC软件A股上市公司万兴科技正式启动2026实习生春季招聘! 研发、产品、设计、营销、职能五类岗位全开放，覆盖深圳、长沙、杭州三大热门城市。",
+      "search_keyword": "深圳 Prompt Engineer 实习 2026"
+    },
+    {
+      "title": "小红书实习生内推 - Product Engineer(AI应用产品经理方向)",
+      "url": "https://hr.xiaohongshu.com/recommend/job-list/XHSRC-0f616d0e063f28a9b9740b39a50a8f3b",
+      "source": "小红书招聘",
+      "type": "实习",
+      "location": "深圳/上海",
+      "description": "【27届实习】Product Engineer-产品工程师（AI应用产品经理方向）-质效研发",
+      "search_keyword": "深圳 Prompt Engineer 实习 2026"
+    },
+    {
+      "title": "深圳 AI提示词工程师（NLP方向）招聘 - 智目科技",
+      "url": "https://www.liepin.com/job/1981167997.shtml",
+      "source": "猎聘",
+      "type": "社招",
+      "location": "深圳",
+      "description": "深圳市智目科技有限公司深圳招聘AI提示词工程师（NLP方向）岗位，薪资13-24k，公司规模100-499人，岗位要求大专学历，3-5年相关经验。",
+      "search_keyword": "深圳 提示词工程师 实习 春招",
+      "note": "该岗位为社招，非实习/春招，仅供参考"
+    },
+    {
+      "title": "字节跳动Seed 2027届大模型人才校招（含实习）",
+      "url": "https://seed.bytedance.com/zh/blog/bytedance-seed-2027-foundation-model-campus-recruitment-is-now-open-internships-included",
+      "source": "字节跳动",
+      "type": "校招/实习",
+      "location": "深圳/北京/上海",
+      "description": "字节跳动 Seed 2027 届大模型人才校招正式启动（含实习）。我们始终相信，真正重要的技术进步来自对高难度问题的持续挑战。面对 AI 时代的巨大机遇，Seed 团队并不止步于模型迭代，而是选择进入技术深水区，推进下一代 AI 范式突破。",
+      "search_keyword": "深圳 Prompt 实习 校招"
+    }
+  ],
+  "summary": {
+    "total_jobs": 5,
+    "internship_count": 3,
+    "spring_recruit_count": 2,
+    "fulltime_count": 1,
+    "note": "深圳地区Prompt/提示词相关实习和春招岗位较少，搜索结果多为AI工程师、LLM方向相关岗位。建议扩大搜索范围至'AI工程师'、'大模型工程师'、'NLP工程师'等关键词。"
+  }
+}

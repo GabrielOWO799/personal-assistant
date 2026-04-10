@@ -1,0 +1,277 @@
+{
+  "date": "20260410",
+  "category": "AI硬件",
+  "total_results": 74,
+  "results": [
+    {
+      "title": "2026年中国消费者印象中ai玩具的核心特点数据分析：\"科技感 ...",
+      "url": "https://www.iimedia.cn/c1094/110455.html",
+      "content": "iiMedia Research（艾媒咨询）发布的《中国AI玩具消费行为调查数据》显示，2026年中国消费者印象中AI玩具的核心特点呈现多维分布，科技感与互动性 ...",
+      "engine": "duckduckgo",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "www.iimedia.cn",
+        "/c1094/110455.html",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "thumbnail": "",
+      "priority": "",
+      "engines": [
+        "duckduckgo"
+      ],
+      "positions": [
+        9
+      ],
+      "score": 0.1111111111111111,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "title": "天猫精灵合伙人创业，用ai大模型复活毛绒玩具，被\"大疆教父 ...",
+      "url": "https://www.36kr.com/p/2879147157099137",
+      "content": "BubblePal是基于AIGC技术的交互式对话玩具，可以让孩子与其进行自由对话，并且对话的角色是孩子耳熟能详的动画形象。 BubblePal. BubblePal背后就是成立于2021年的深圳AI硬件玩家...",
+      "engine": "duckduckgo",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "www.36kr.com",
+        "/p/2879147157099137",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "thumbnail": "",
+      "priority": "",
+      "engines": [
+        "duckduckgo"
+      ],
+      "positions": [
+        9
+      ],
+      "score": 0.1111111111111111,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "title": "一文读懂英伟达gtc 2026：芯片全家桶上线，给\"龙虾\"装 ...",
+      "url": "https://news.qq.com/rain/a/20260317A021SU00",
+      "content": "本次GTC 2026发布的最核心主题—— 以Vera Rubin为代表的\"芯片全家桶\"，构成了这一代Vera Rubin机架的系统级基础设施，其中包括：Vera CPU、Rubin GPU、NVLink 6 Switch（高速互联）、ConnectX-9 SuperNIC（超级网卡）、BlueField-4 DPU（数据处理单元）、Spectrum-6 以太网交换机。 英伟达甚至还准备将AI算力\"送上天\"，推出面向轨道环境运行的 Vera Rubin Space Module，用于支持卫星和空间任务中的边缘智能计算。 值得注意的是，此次GTC， Groq 3 LPU 推理加速器也完成了首秀。",
+      "engine": "duckduckgo",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "news.qq.com",
+        "/rain/a/20260317A021SU00",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "thumbnail": "",
+      "priority": "",
+      "engines": [
+        "duckduckgo"
+      ],
+      "positions": [
+        2
+      ],
+      "score": 0.5,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "title": "比国产AI还卷：谷歌Gemma 4以小博大，端侧模型迎来分水岭",
+      "url": "https://news.qq.com/rain/a/20260403A07N5B00",
+      "content": "北京时间 4 月 3 日凌晨，Google 推出了新一代开源模型 Gemma 4，包括 E2B、E4B、26B（MoE）、31B 「一门四杰」，其中 E2B、E4B 两个较小模型直接可以在手机、树莓派等设备上部署运行，26B、31B 两个较大模型也只需要一张消费级显卡就能跑起来。 不同于闭源的 Gemini 大模型走的是「力大砖飞」，Google 在 Gemma 开源模型的思路上一直是「小而精」。 但 Gemma 4 给人的第一印象还是有点不按剧本来。 参数规模没有膨胀，结构也谈不上颠覆，可是在一系列 benchmark 里，Gemma 4 却能逼近甚至超越更大一档规模的模型。",
+      "engine": "duckduckgo",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "news.qq.com",
+        "/rain/a/20260403A07N5B00",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "thumbnail": "",
+      "priority": "",
+      "engines": [
+        "duckduckgo"
+      ],
+      "positions": [
+        2
+      ],
+      "score": 0.5,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "title": "端侧ai周跟踪：Google发布gemma 4 模型能力跃迁催化 ...",
+      "url": "https://stock.finance.sina.com.cn/stock/go.php/vReport_Show/kind/lastest/rptid/828806505618/index.phtml",
+      "content": "端侧AI周跟踪：GOOGLE发布GEMMA 4 模型能力跃迁催化终端硬件升级周期 投资要点 Google 发布Gemma4 开源模型，Agent 与多模态能力全面增强：4 月3日，Google 发布新一代开源语言模型Gemma 4，包括E2B、E4B、26B（MoE）及31B（Dense）四个版本。Gemma4 全系模型支持以下能力： Agent 和复杂推理：支持多步骤推理与复杂 ...",
+      "engine": "duckduckgo",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "stock.finance.sina.com.cn",
+        "/stock/go.php/vReport_Show/kind/lastest/rptid/828806505618/index.phtml",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "thumbnail": "",
+      "priority": "",
+      "engines": [
+        "duckduckgo"
+      ],
+      "positions": [
+        7
+      ],
+      "score": 0.14285714285714285,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "template": "default.html",
+      "url": "https://cj.sina.com.cn/articles/view/5953740931/162dee08306702yvnk?froms=ggmp",
+      "title": "零成本养虾！谷歌 Gemma 4「本地部署」保姆级教程，三步搞定__财经头条__新浪财经",
+      "content": "，从此不再需要云端 ...更适合端侧。 · 龙虾帮你部署了一个免费模型，最后还能把自己也接上去。 ... ollama list # 查看已下载的模型ollama ps # 查看正在运行的模型和内存占用ollama run gemma4:26b # 启动对话ollama stop gemma4:26b # 卸载模型释放内存ollama pull gemma4:26b # 更新到最新版本ollama rm gemma4:26b # 删除模型 · 我是木易，Top2 + 美国 Top10 CS 硕，现在是 AI ...",
+      "publishedDate": null,
+      "thumbnail": "https://imgs.search.brave.com/NAGkHpkO33eyWUqKAi-eibzJqL83NAqSNFNx1swaVG8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jai5z/aW5hLmNvbS5jbi9h/cnRpY2xlcy92aWV3/LzU5NTM3NDA5MzEv/MTYyZGVlMDgzMDY3/MDJ5dm5rP2Zyb21z/PWdnbXA",
+      "engine": "brave",
+      "parsed_url": [
+        "https",
+        "cj.sina.com.cn",
+        "/articles/view/5953740931/162dee08306702yvnk",
+        "",
+        "froms=ggmp",
+        ""
+      ],
+      "img_src": "",
+      "priority": "",
+      "engines": [
+        "brave"
+      ],
+      "positions": [
+        15
+      ],
+      "score": 0.06666666666666667,
+      "category": "general"
+    },
+    {
+      "title": "净利砍半!广和通押注端侧ai，能否借此扭转业绩颓势？_模组 ...",
+      "url": "https://www.sohu.com/a/1007292390_121124372",
+      "content": "面对AI大模型浪潮所带来的新机遇，移远通信积极布局端侧AI业务，将自身在5G、物联网等领域的创新成果与AI深度融合，构建起多元化的AI解决方案矩阵，为其注入强劲增长动能。 广和通作为全球重要的物联网模组厂商…",
+      "engine": "duckduckgo",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "www.sohu.com",
+        "/a/1007292390_121124372",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "thumbnail": "",
+      "priority": "",
+      "engines": [
+        "duckduckgo"
+      ],
+      "positions": [
+        10
+      ],
+      "score": 0.1,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "title": "元启智申请基于低功耗mcu与ai语音芯片集成的智能语音 ...",
+      "url": "https://www.163.com/dy/article/KPTKDMMJ0519QIKK.html",
+      "content": "专利摘要显示，本发明涉及一种基于低功耗MCU与AI语音芯片集成的智能语音盒子电路系统，包括：双模式电源管理模块，集成有AP2301BI开关机控制芯片和LR5112充电管理芯片，用于实现在正常工作模式与低功耗睡眠模式间的自动切换及电池充放电管理；AI主控模块，包括GX8006A离线语音识别芯片，与MCU ...",
+      "engine": "duckduckgo",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "www.163.com",
+        "/dy/article/KPTKDMMJ0519QIKK.html",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "thumbnail": "",
+      "priority": "",
+      "engines": [
+        "duckduckgo"
+      ],
+      "positions": [
+        3
+      ],
+      "score": 0.3333333333333333,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "title": "好用的AI玩具芯片源头厂家信誉服务商_市场呈现_用户_要点",
+      "url": "https://www.sohu.com/a/997056929_122643613",
+      "content": "对用户的价值：低功耗可以延长玩具的续航时间，减少频繁充电的麻烦。 声策AI芯片采用了先进的节能技术，相比传统芯片，功耗降低了40%，让玩具可以持续使用更长时间。 要点总结：低功耗设计能提高玩具的使用便利性，声策AI芯片在节能方面有显著优势。",
+      "engine": "duckduckgo",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "www.sohu.com",
+        "/a/997056929_122643613",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "thumbnail": "",
+      "priority": "",
+      "engines": [
+        "duckduckgo"
+      ],
+      "positions": [
+        8
+      ],
+      "score": 0.125,
+      "category": "general",
+      "publishedDate": null
+    },
+    {
+      "title": "义乌AI玩具刷屏海外，小智AI赋能传统硬件实现快速升级",
+      "url": "https://www.sohu.com/a/997011102_122290182",
+      "content": "从义乌AI玩具畅销全球，到华强北硬件智能化快速落地，十方融海小智AI的开源实践，不仅破解了传统硬件企业智能化转型的痛点难点，更探索出一条\"技术开源普惠、产业协同升级\"的新路径，为我国实体经济高质量发展注入强劲AI动能。",
+      "engine": "duckduckgo",
+      "template": "default.html",
+      "parsed_url": [
+        "https",
+        "www.sohu.com",
+        "/a/997011102_122290182",
+        "",
+        "",
+        ""
+      ],
+      "img_src": "",
+      "thumbnail": "",
+      "priority": "",
+      "engines": [
+        "duckduckgo"
+      ],
+      "positions": [
+        6
+      ],
+      "score": 0.16666666666666666,
+      "category": "general",
+      "publishedDate": null
+    }
+  ]
+}
