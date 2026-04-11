@@ -1,0 +1,67 @@
+{
+  "search_date": "2026-04-11",
+  "search_time": "11:00",
+  "keywords": [
+    "深圳 智能体 实习 2026",
+    "深圳 智能体 春招 2026",
+    "深圳 Multi-Agent 实习 校招"
+  ],
+  "total_results": 5,
+  "jobs": [
+    {
+      "title": "智能体研发工程师（实习）",
+      "company": "vivo",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://www.nowcoder.com/jobs/detail/433215",
+      "description": "智能体研发工程师（实习）招聘启事。实习地点及部门：深圳-vivo AI系统中心。实习时长：3个月及以上，每周可实习5天。面向人群：计算机、软件工程、人工智能、自动化，应用数学等相关专业在校生。",
+      "source": "牛客网",
+      "salary": null,
+      "requirements": "计算机、软件工程、人工智能、自动化等相关专业"
+    },
+    {
+      "title": "AI 智能体设计（实习）",
+      "company": "深智易",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://www.shixiseng.com/intern/inn_xqmuuxjik9c5",
+      "description": "功能实现支持：协助编写简单的AI智能体功能代码，参与智能体交互逻辑优化与调试。文档编写：整理AI智能体开发相关文档，包括数据标注规范、模型测试报告、技术说明文档等。技术调研：协助调研AI智能体相关前沿技术与应用场景，输出调研简报。",
+      "source": "实习僧",
+      "salary": null,
+      "requirements": null
+    },
+    {
+      "title": "【智能体实习】海量api场景自主智能体优化招聘",
+      "company": "人工智能与数字经济广东省实验室（深圳）",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://www.zhipin.com/job_detail/0c1db503846cf7e80nV72t6-GVNY.html",
+      "description": "人工智能与数字经济广东省实验室（深圳）（简称光明实验室）为广东省政府批准建设的第三批广东省实验室之一。实验室主要围绕省市人工智能发展布局，按照'一个战略任务、四大战略需求、一个全栈AI技术内核科研体系、四项创新机制'的'1414'战略路径，以下一代AI变革技术（即...",
+      "source": "BOSS直聘",
+      "salary": null,
+      "requirements": null
+    },
+    {
+      "title": "AI Agent工程师/研究员实习生",
+      "company": "锐明技术",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://www.nowcoder.com/jobs/detail/433795",
+      "description": "锐明技术实习 AI Agent工程师/研究员实习生 2026最新招聘求职信息，薪资：300-400，地点：深圳。",
+      "source": "牛客网",
+      "salary": "300-400元/天",
+      "requirements": null
+    },
+    {
+      "title": "Multi agent实习生",
+      "company": "深圳市云泥科技",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://www.zhipin.com/job_detail/6492d94ce075713003V73t20EVRV.html",
+      "description": "作为Multi-Agent系统开发工程师实习生，你将有机会参与到我们的核心项目中，与一流的技术团队共同工作，学习并掌握Multi-Agent系统的开发技术。你的主要任务将包括参与系统架构设计、智能体设计与实现、通信协议开发以及协作机制构建等工作。",
+      "source": "BOSS直聘",
+      "salary": "150-300元/天",
+      "requirements": "在校/应届，本科"
+    }
+  ]
+}

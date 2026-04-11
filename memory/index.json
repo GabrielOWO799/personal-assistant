@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T02:00:01.657750",
+  "last_updated": "2026-04-12T02:00:02.014341",
   "memory_files": [
     "/home/admin/.openclaw/workspace/memory/2026-03-12.md",
     "/home/admin/.openclaw/workspace/memory/2026-04-02.md",
@@ -7,6 +7,7 @@
     "/home/admin/.openclaw/workspace/memory/2026-03-22.md",
     "/home/admin/.openclaw/workspace/memory/chat_learning_2022-07.md",
     "/home/admin/.openclaw/workspace/memory/2026-03-29.md",
+    "/home/admin/.openclaw/workspace/memory/2026-04-11.md",
     "/home/admin/.openclaw/workspace/memory/2026-03-15.md",
     "/home/admin/.openclaw/workspace/memory/2026-03-17-learning-insights.md",
     "/home/admin/.openclaw/workspace/memory/2026-03-17.md",
@@ -34,6 +35,7 @@
     "/home/admin/.openclaw/workspace/memory/2026-03-14-learning-insights.md",
     "/home/admin/.openclaw/workspace/memory/2026-02-27-ai-toy-weekly-report.md",
     "/home/admin/.openclaw/workspace/memory/2026-03-16-chat-analysis.md",
+    "/home/admin/.openclaw/workspace/memory/ai_toy_weekly_guidelines.md",
     "/home/admin/.openclaw/workspace/memory/2026-03-15-learning-insights.md",
     "/home/admin/.openclaw/workspace/memory/2026-04-07.md",
     "/home/admin/.openclaw/workspace/memory/2026-04-01.md",
@@ -62,5 +64,5 @@
     "/home/admin/.openclaw/workspace/memory/2026-03-30-chat-learning-status.md",
     "/home/admin/.openclaw/workspace/memory/2026-03-13.md"
   ],
-  "total_files": 60
+  "total_files": 62
 }

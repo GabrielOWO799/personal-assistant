@@ -1,0 +1,80 @@
+{
+  "search_date": "2026-04-11",
+  "search_time": "10:00",
+  "keywords": [
+    "深圳 大模型 实习 2026",
+    "深圳 大模型 春招 2026",
+    "深圳 LLM 实习 校招"
+  ],
+  "results_count": 5,
+  "jobs": [
+    {
+      "id": 1,
+      "title": "深圳市规划国土发展研究中心实习生招聘公告",
+      "company": "深圳市规划国土发展研究中心",
+      "type": "实习",
+      "location": "深圳",
+      "url": "https://sz.bendibao.com/job/2026410/999977.shtm",
+      "description": "由深圳市政府批准成立的实习生招聘",
+      "source": "深圳本地宝",
+      "published_date": "2026-04-10",
+      "relevance_score": 0.8
+    },
+    {
+      "id": 2,
+      "title": "索尔思光电2026届校园招聘 - 研发类/工艺类/质量类",
+      "company": "索尔思光电",
+      "type": "春招/校招",
+      "location": "深圳、武汉、上海、成都、三亚、香港、西安、苏州、北京",
+      "url": "https://www.quanzhi.com/notice/69d9237a9a13e0ea0f8605bb",
+      "description": "2026届春季校园招聘，研发类、工艺类、质量类岗位",
+      "source": "全职招聘网",
+      "published_date": "2026-04-10",
+      "relevance_score": 0.7
+    },
+    {
+      "id": 3,
+      "title": "万兴科技2026全球校招及WonderNova实习生招聘",
+      "company": "万兴科技",
+      "type": "春招/校招/实习",
+      "location": "深圳（长沙宜居）",
+      "url": "https://m.voc.com.cn/xhn/news/202604/32408875.html",
+      "description": "2026届校招及WonderNova实习生招聘，瞄准AI漫画与高端AI人才",
+      "source": "星辰在线",
+      "published_date": "2026-04-10",
+      "relevance_score": 0.9
+    },
+    {
+      "id": 4,
+      "title": "2026春季启元人工智能大赛 - 头部名企实习直通",
+      "company": "多家头部AI企业",
+      "type": "实习/竞赛",
+      "location": "深圳",
+      "url": "https://www.csdn.net/article/2026-04-10/160022514",
+      "description": "20万奖金池+头部名企实习直通，4月下旬硬核开启",
+      "source": "CSDN",
+      "published_date": "2026-04-10",
+      "relevance_score": 0.85
+    },
+    {
+      "id": 5,
+      "title": "深圳数据智能工程方向招聘网_2026年深圳数据智能工程方向招聘信息",
+      "company": "多家猎头职位",
+      "type": "春招/校招",
+      "location": "深圳",
+      "url": "https://www.liepin.com/city-sz/zpsjzngcfxf65m/",
+      "description": "2026年深圳数据智能工程方向招聘信息，海量高薪猎头职位",
+      "source": "猎聘网",
+      "published_date": null,
+      "relevance_score": 0.75
+    }
+  ],
+  "summary": {
+    "total_jobs": 5,
+    "internship_count": 2,
+    "campus_recruitment_count": 3,
+    "top_companies": ["万兴科技", "索尔思光电", "深圳市规划国土发展研究中心"],
+    "key_locations": ["深圳"],
+    "notes": "搜索发现深圳大模型相关实习和春招岗位，万兴科技和启元人工智能大赛值得关注"
+  }
+}
