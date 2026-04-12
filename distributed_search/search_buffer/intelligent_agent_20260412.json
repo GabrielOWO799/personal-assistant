@@ -1,0 +1,113 @@
+{
+  "search_date": "2026-04-12",
+  "search_time": "11:00",
+  "keywords": [
+    "深圳 智能体 实习 2026",
+    "深圳 智能体 春招 2026",
+    "深圳 Multi-Agent 实习 校招",
+    "深圳 Agent 实习 2026",
+    "深圳 AI 实习 校招 2026",
+    "深圳 大模型 实习 2026",
+    "腾讯 AI 实习 深圳 2026"
+  ],
+  "total_results": 5,
+  "jobs": [
+    {
+      "id": "1",
+      "title": "大语言模型研究实习生",
+      "company": "粤港澳大湾区数字经济研究院",
+      "location": "深圳",
+      "type": "实习",
+      "keywords": ["大语言模型", "多智能体", "Multi-Agent", "NLP"],
+      "description": "研究及开发针对大模型继续预训练和指令微调的合成数据技术和平台；研究面向复杂推理场景的大语言模型多智能体系统；进行实验并撰写相关论文，以及协助团队推进算法和模型在业务场景的落地",
+      "requirements": "计算机、软件等相关专业研究生；具备NLP及大语言模型的相关经验",
+      "url": "https://www.zhipin.com/job_detail/2c64eb0cc40e76d503x82NW_FlJX.html",
+      "source": "BOSS直聘",
+      "publish_date": "2026-04",
+      "is_relevant": true,
+      "relevance_score": 0.95,
+      "notes": "直接涉及Multi-Agent系统研究，与智能体高度相关"
+    },
+    {
+      "id": "2",
+      "title": "AI算法实习生",
+      "company": "哈尔滨工业大学（深圳）广东省安全智能新技术重点实验室",
+      "location": "深圳",
+      "type": "实习",
+      "keywords": ["AI", "人工智能", "算法", "信息安全", "高性能计算"],
+      "description": "实习生将直接对接哈尔滨工业大学（深圳）计算机学院教师科研团队，聚焦人工智能、信息安全、高性能计算等前沿领域，深度参与科研项目，共享高校实验室资源与学术支持",
+      "requirements": "对科研充满热情的优秀学子及青年人才",
+      "url": "https://www.gaoxiaojob.com/announcement/detail/391109.html",
+      "source": "高校人才网",
+      "publish_date": "2026-04-10",
+      "is_relevant": true,
+      "relevance_score": 0.75,
+      "notes": "实验室研究方向包含AI智能体相关技术"
+    },
+    {
+      "id": "3",
+      "title": "AI应用实习生/大数据实习生",
+      "company": "复星财富控股",
+      "location": "深圳/长沙",
+      "type": "实习",
+      "keywords": ["AI应用", "大数据", "金融AI"],
+      "description": "I产研实习生、AI应用实习生、大数据实习生岗位",
+      "requirements": "2027届应届生",
+      "url": "https://www.gankinterview.cn/zh-CN/campus?tab=internship",
+      "source": "Gank Interview",
+      "publish_date": "2026-04-10",
+      "deadline": "2026-05-31",
+      "is_relevant": true,
+      "relevance_score": 0.70,
+      "notes": "金融AI应用方向，涉及智能体在金融场景的应用"
+    },
+    {
+      "id": "4",
+      "title": "人工智能研发工程师（实习）",
+      "company": "Using.AI",
+      "location": "深圳",
+      "type": "实习/全职",
+      "keywords": ["人工智能", "机器学习", "图像识别", "文本挖掘"],
+      "description": "参与公司人工智能类产品和解决方案的研发和优化工作；研发机器学习算法及相关系统用于解决行业的问题（如：图像识别、文本挖掘）；公司下发的其他工作任务",
+      "requirements": "招聘人数2-5人",
+      "url": "https://using.ai/career",
+      "source": "Using.AI官网",
+      "publish_date": "2026-04-07",
+      "is_relevant": true,
+      "relevance_score": 0.70,
+      "notes": "AI产品研发，可能涉及智能体技术"
+    },
+    {
+      "id": "5",
+      "title": "大模型北斗实习生（Agent应用方向）",
+      "company": "美团",
+      "location": "深圳/北京/上海",
+      "type": "实习",
+      "keywords": ["大模型", "Agent应用", "AGI", "基础模型算法", "Infra架构"],
+      "description": "美团LongCat大模型北斗实习计划，依托美团基础大模型团队LongCat，专注于通用人工智能（AGI）的研发，涵盖基础模型算法、基础设施（Infra）架构、Agent应用和视觉生成等核心领域",
+      "requirements": "面向全球高校全日制硕士、博士研究生",
+      "url": "https://www.sohu.com/a/1007687038_122396381",
+      "source": "搜狐",
+      "publish_date": "2026-04",
+      "is_relevant": true,
+      "relevance_score": 0.90,
+      "notes": "明确包含Agent应用方向，与智能体直接相关"
+    }
+  ],
+  "summary": {
+    "total_jobs": 5,
+    "relevant_jobs": 5,
+    "internships": 5,
+    "campus_recruitment": 0,
+    "shenzhen_jobs": 5,
+    "agent_specific": 2,
+    "search_notes": "本次搜索主要发现深圳地区AI相关实习岗位，其中2个岗位明确涉及智能体/Agent方向（粤港澳大湾区数字经济研究院-大语言模型研究实习生含Multi-Agent方向、美团-大模型北斗实习生含Agent应用方向）。其他岗位为AI算法、AI应用等相关方向。"
+  },
+  "next_search_recommendations": [
+    "深圳 LLM 实习 2026",
+    "深圳 AIGC 实习 校招",
+    "深圳 字节跳动 AI 实习",
+    "深圳 百度 AI 实习 智能体",
+    "深圳 阿里 AI 实习 Agent"
+  ]
+}

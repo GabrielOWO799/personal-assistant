@@ -1,0 +1,49 @@
+{
+  "search_date": "2026-04-12",
+  "search_time": "10:14",
+  "keywords": [
+    "深圳 大模型 实习 2026",
+    "深圳 大模型 春招 2026",
+    "深圳 LLM 实习 校招"
+  ],
+  "results_count": 3,
+  "jobs": [
+    {
+      "id": 1,
+      "title": "2027届阿里系实习内推汇总",
+      "company": "阿里云",
+      "location": "深圳",
+      "job_type": "实习",
+      "keywords": ["大模型", "AI应用开发", "AI应用算法", "大模型数据研发"],
+      "url": "https://www.cnblogs.com/autodriver/p/19852650",
+      "source": "博客园",
+      "publish_date": "2026-04-12",
+      "summary": "阿里云开启2027届实习内推，工作地点包含深圳，招聘岗位包括AI应用开发工程师、AI应用算法工程师、AI数据工程师、大模型数据研发工程师、AI Agent产品经理等"
+    },
+    {
+      "id": 2,
+      "title": "菜鸟集团实习",
+      "company": "菜鸟集团",
+      "location": "深圳",
+      "job_type": "实习",
+      "keywords": ["数据研发", "算法工程师"],
+      "url": "https://www.cnblogs.com/autodriver/p/19852650",
+      "source": "博客园",
+      "publish_date": "2026-04-12",
+      "summary": "菜鸟集团内推开启，工作地点包含深圳，招聘岗位包括运营、数据研发工程师、算法工程师等"
+    },
+    {
+      "id": 3,
+      "title": "2026春招AI岗位疯狂扩招",
+      "company": "多家互联网大厂",
+      "location": "全国/深圳",
+      "job_type": "春招",
+      "keywords": ["AI", "大模型", "程序员"],
+      "url": "https://blog.csdn.net/weixin_59191169/article/details/160054274",
+      "source": "CSDN",
+      "publish_date": "2026-04-12",
+      "summary": "2026春招AI岗位量同比暴涨超12倍，互联网大厂、科技巨头、新能源、金融等跨界企业都在争抢AI人才，适合想入门大模型、转型AI的程序员和零基础小白"
+    }
+  ],
+  "note": "搜索结果中直接匹配深圳大模型实习/春招的具体岗位较少，但发现阿里云、菜鸟集团等大厂在深圳有AI/大模型相关实习岗位开放"
+}

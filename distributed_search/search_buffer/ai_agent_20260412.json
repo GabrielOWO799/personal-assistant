@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-04-12",
+  "keywords": [
+    "深圳 AI Agent 实习 2026",
+    "深圳 AI Agent 春招 2026",
+    "深圳 智能体 实习 校招"
+  ],
+  "total_results": 3,
+  "jobs": [
+    {
+      "id": 1,
+      "title": "2027届阿里系实习内推汇总：AI Agent产品经理等岗位",
+      "company": "菜鸟集团",
+      "location": "杭州、深圳",
+      "job_type": "实习",
+      "keywords": ["实习", "AI Agent", "产品经理"],
+      "source": "CSDN博客/博客园",
+      "url": "https://blog.csdn.net/TechPioneer_lp/article/details/160058477",
+      "description": "菜鸟集团内推开启时间：3月17日，工作地点：杭州、深圳。岗位包括运营、数据研发工程师、算法工程师等，其中明确提到AI Agent产品经理岗位。",
+      "publish_date": "2026-04-11",
+      "is_target": true
+    },
+    {
+      "id": 2,
+      "title": "深圳客户端开发(Flutter/AI智能体方向) 20k+",
+      "company": "未明确",
+      "location": "深圳",
+      "job_type": "社招",
+      "keywords": ["AI智能体", "Flutter"],
+      "source": "大佬说",
+      "url": "https://www.locdd.com/t/topic/38306",
+      "description": "高级客户端工程师（Flutter / AI 智能体方向），探索以智能可穿戴硬件为基础的 AI Native 产品。",
+      "publish_date": "2026-04-11",
+      "is_target": false,
+      "reason": "社招岗位，非实习/春招"
+    },
+    {
+      "id": 3,
+      "title": "招AI基础设施工程师 & 增长 | 要求Agent深度用户",
+      "company": "酷工作",
+      "location": "坐标待填",
+      "job_type": "社招",
+      "keywords": ["AI", "Agent"],
+      "source": "V2EX",
+      "url": "https://www.v2ex.com/t/1205183",
+      "description": "小团队，做AI基础设施和Agent基础设施。AI基础设施：把各家大模型统一接入，给数万付费用户提供稳定的多模型服务。",
+      "publish_date": "2026-04-11",
+      "is_target": false,
+      "reason": "社招岗位，非实习/春招"
+    }
+  ],
+  "summary": {
+    "target_jobs_found": 1,
+    "internship_count": 1,
+    "spring_recruitment_count": 0,
+    "notes": "本次搜索主要找到1条相关实习岗位信息（菜鸟集团AI Agent产品经理实习，深圳有岗）。其他搜索结果多为行业新闻、技术文章或社招岗位。建议扩大搜索范围或调整关键词以获取更多实习/春招信息。"
+  }
+}
