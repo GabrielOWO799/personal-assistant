@@ -1,0 +1,77 @@
+{
+  "search_date": "2026-04-13",
+  "search_keywords": [
+    "深圳 AI Agent 实习 2026",
+    "深圳 AI Agent 春招 2026",
+    "深圳 智能体 实习 校招"
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "title": "AI Agent 算法研究员（实习）",
+      "company": "深度赋智",
+      "location": "深圳",
+      "type": "实习",
+      "source": "BOSS直聘",
+      "url": "https://www.zhipin.com/job_detail/6c46c2242f7eda1303dy09S0EFBT.html",
+      "requirements": "在校/应届，本科学历，五险一金、定期体检",
+      "description": "AI Agent算法研究实习生岗位",
+      "search_time": "2026-04-13T09:10:00+08:00"
+    },
+    {
+      "id": 2,
+      "title": "AI产品经理（实习生）/AI应用工程师（实习生）",
+      "company": "深圳意向动力科技有限公司",
+      "location": "深圳",
+      "type": "校招/实习",
+      "source": "全职招聘网",
+      "url": "https://www.quanzhi.com/notice/69715a73b2653a6b86350cc9",
+      "requirements": "2026届应届生，不限专业可投",
+      "description": "面向2026届应届生，招聘AI产品经理和AI应用工程师实习生",
+      "search_time": "2026-04-13T09:10:00+08:00"
+    },
+    {
+      "id": 3,
+      "title": "AI Agent研究实习生",
+      "company": "力维智联",
+      "location": "深圳",
+      "type": "实习",
+      "source": "领英",
+      "url": "https://cn.linkedin.com/jobs/view/ai-agent%E7%A0%94%E7%A9%B6%E5%AE%9E%E4%B9%A0%E7%94%9F-at-%E5%8A%9B%E7%BB%B4%E6%99%BA%E8%81%94-4301269526",
+      "requirements": "参与大模型应用研究、AI Agent工作流搭建、提示词工程等",
+      "description": "参与大模型应用研究、AI Agent工作流搭建、提示词工程等",
+      "search_time": "2026-04-13T09:10:00+08:00"
+    },
+    {
+      "id": 4,
+      "title": "AI Agent研发实习生",
+      "company": "字节跳动",
+      "location": "深圳",
+      "type": "实习",
+      "source": "字节跳动招聘",
+      "url": "https://jobs.bytedance.com/campus/position/7468221645670074632/detail",
+      "requirements": "专注于开发者服务领域的技术研发与创新",
+      "description": "字节跳动AI Agent研发实习生岗位，专注于开发者服务领域",
+      "search_time": "2026-04-13T09:10:00+08:00"
+    },
+    {
+      "id": 5,
+      "title": "AI智能体开发实习生",
+      "company": "字节跳动",
+      "location": "深圳",
+      "type": "实习",
+      "source": "BOSS直聘",
+      "url": "https://www.zhipin.com/job_detail/f94a5caca75cd69a0nRy0tW1FlBX.html",
+      "requirements": "在校/应届，本科学历，五险一金、补充医疗保险、意外险、定期体检、年终奖、绩效奖金、股票期权、带薪年假、餐补、团建聚餐、住房补贴、家属自选保险、家庭关爱假、免费健身设施",
+      "description": "字节跳动AI智能体开发实习生岗位",
+      "search_time": "2026-04-13T09:10:00+08:00"
+    }
+  ],
+  "total_jobs": 5,
+  "search_summary": {
+    "total_searches": 3,
+    "search_engines": ["duckduckgo", "brave"],
+    "unresponsive_engines": ["google", "startpage"],
+    "status": "completed"
+  }
+}
