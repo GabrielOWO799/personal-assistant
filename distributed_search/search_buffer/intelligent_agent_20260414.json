@@ -1,0 +1,113 @@
+{
+  "search_date": "2026-04-14",
+  "search_keywords": [
+    "深圳 智能体 实习 2026",
+    "深圳 智能体 春招 2026",
+    "深圳 Multi-Agent 实习 校招",
+    "深圳 Agent 实习 校招",
+    "深圳 大疆 AI 实习 2026",
+    "深圳 Agent 工程师 实习 2026",
+    "深圳 阿里巴巴 Agent 实习 2027",
+    "深圳 腾讯 Agent 实习 2026",
+    "深圳 字节跳动 Agent 实习 2026"
+  ],
+  "total_results": 5,
+  "jobs": [
+    {
+      "id": 1,
+      "title": "DJI大疆AI实习生专项招聘",
+      "company": "深圳市大疆创新科技有限公司",
+      "location": "深圳",
+      "job_type": "实习",
+      "target_year": "2026届",
+      "description": "用AI定义飞行与影像的未来，AI算法类岗位",
+      "url": "https://campus.niuqizp.com/job-vry5ZCaLM.html",
+      "source": "牛企直聘",
+      "search_keyword": "深圳 大疆 AI 实习 2026",
+      "is_agent_related": true,
+      "note": "大疆AI实习生专项，涉及AI算法"
+    },
+    {
+      "id": 2,
+      "title": "阿里巴巴2027届实习生全球招聘 - AI Agent优化工程师",
+      "company": "阿里巴巴",
+      "location": "深圳/北京/杭州/上海",
+      "job_type": "实习",
+      "target_year": "2027届",
+      "description": "AI相关岗位占比超八成，首设AI Agent优化工程师、Agent Infra工程师等七大AI校招岗位类型。这类岗位的门槛并非传统意义上的'写代码'，而是对业务场景的深度理解。",
+      "url": "https://www.sohu.com/a/1009054064_118622",
+      "source": "搜狐财经",
+      "search_keyword": "深圳 阿里巴巴 Agent 实习 2027",
+      "is_agent_related": true,
+      "note": "阿里2027届实习，首设AI Agent优化工程师岗位"
+    },
+    {
+      "id": 3,
+      "title": "字节跳动ByteIntern实习生招聘 - AI算法工程师",
+      "company": "字节跳动",
+      "location": "深圳/北京/上海/杭州等",
+      "job_type": "实习",
+      "target_year": "2026/2027届",
+      "description": "字节跳动史上规模最大的转正实习生招聘计划，拟面向全球高校招聘超7000名实习生。AI算法工程师岗位要求：本科及以上，计算机科学、人工智能、数学等相关专业优先，掌握Python/C++/Go中至少一门。",
+      "url": "https://www.quanzhi.com/notice/69dd493daff1e32624f8a399",
+      "source": "全职招聘网",
+      "search_keyword": "深圳 字节跳动 Agent 实习 2026",
+      "is_agent_related": true,
+      "note": "字节跳动Seed大模型人才校招，含实习，涉及具身智能方向"
+    },
+    {
+      "id": 4,
+      "title": "AI Agent开发实习/校招岗位",
+      "company": "创业公司/大厂",
+      "location": "深圳",
+      "job_type": "实习/校招",
+      "target_year": "2026届",
+      "description": "AI Agent开发岗位，要求LangChain/AutoGen经验，薪资25-50k（社招参考），校招薪资面议",
+      "url": "https://www.aifree.xin/t/topic/247",
+      "source": "AI求职社区",
+      "search_keyword": "深圳 Agent 实习 校招",
+      "is_agent_related": true,
+      "note": "AI Agent开发岗位，要求LangChain/AutoGen经验"
+    },
+    {
+      "id": 5,
+      "title": "纷享销客Agent应用开发岗（实习/校招）",
+      "company": "纷享销客",
+      "location": "深圳/北京",
+      "job_type": "实习/校招",
+      "target_year": "2026届",
+      "description": "纷享销客贵安研发中心设有三大技术岗位：Agent应用开发岗、国际化生态连接器开发岗、PaaS业务组件开发岗。这些岗位技术含量很高，以前主要集中在北京、深圳。",
+      "url": "https://www.sohu.com/a/1009030889_121123525",
+      "source": "搜狐",
+      "search_keyword": "深圳 腾讯 Agent 实习 2026",
+      "is_agent_related": true,
+      "note": "CRM领域Agent应用开发岗位"
+    }
+  ],
+  "summary": {
+    "total_jobs_found": 5,
+    "internship_count": 5,
+    "campus_recruitment_count": 3,
+    "agent_specific_jobs": 5,
+    "companies": ["大疆", "阿里巴巴", "字节跳动", "纷享销客", "创业公司"],
+    "key_insights": [
+      "阿里巴巴2027届实习首设AI Agent优化工程师、Agent Infra工程师等七大AI校招岗位",
+      "字节跳动启动史上最大规模实习生招聘（7000+），AI算法岗位需求旺盛",
+      "大疆AI实习生专项招聘持续进行，聚焦AI算法方向",
+      "Agent开发岗位要求掌握LangChain/AutoGen等框架经验",
+      "深圳作为科技重镇，Agent相关实习/校招岗位资源丰富"
+    ]
+  },
+  "metadata": {
+    "search_time": "2026-04-14T11:00:00+08:00",
+    "search_engine": "SearXNG",
+    "data_source": "local-search-proxy skill",
+    "filtered": true,
+    "filter_criteria": {
+      "location": "深圳",
+      "job_types": ["实习", "校招", "春招"],
+      "keywords": ["Agent", "智能体", "Multi-Agent", "AI"],
+      "exclude": ["全职", "社招"]
+    }
+  }
+}

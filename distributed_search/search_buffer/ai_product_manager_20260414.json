@@ -1,0 +1,62 @@
+{
+  "search_date": "2026-04-14",
+  "keywords": [
+    "深圳 AI产品经理 实习 2026",
+    "深圳 AI产品经理 春招 2026",
+    "深圳 人工智能产品 实习 校招"
+  ],
+  "total_results": 3,
+  "jobs": [
+    {
+      "id": 1,
+      "title": "AI产品经理实习",
+      "company": "广州链股科技有限公司",
+      "location": "广州",
+      "type": "实习",
+      "source": "应届生求职网",
+      "url": "https://www.yingjiesheng.com/job-007-942-785.html",
+      "publish_date": "2026-04-14",
+      "description": "AI产品经理实习岗位，由广州软件学院审核发布",
+      "keywords_matched": ["AI产品经理", "实习"]
+    },
+    {
+      "id": 2,
+      "title": "DJI大疆AI实习生专项招聘计划",
+      "company": "深圳市大疆创新科技有限公司",
+      "location": "深圳/上海/北京",
+      "type": "校招/实习",
+      "source": "牛企直聘",
+      "url": "https://campus.niuqizp.com/job-vry5ZCaLM.html",
+      "publish_date": "2026",
+      "description": "用AI定义飞行与影像的未来，AI、算法类岗位",
+      "keywords_matched": ["AI", "实习", "校招", "深圳"]
+    },
+    {
+      "id": 3,
+      "title": "人工智能产品经理（GPT大模型应用方向）",
+      "company": "天使轮公司（杭州）",
+      "location": "北京/上海/深圳/武汉",
+      "type": "社招（8年经验）",
+      "source": "36氪",
+      "url": "https://36kr.com/p/2284196934047489",
+      "publish_date": "近期",
+      "description": "7家AI明星公司招聘，含人工智能产品经理岗位，要求8年经验，社招岗位非实习/校招",
+      "keywords_matched": ["人工智能产品经理"],
+      "note": "社招岗位，不符合实习/校招要求"
+    }
+  ],
+  "search_summary": {
+    "实习岗位": 1,
+    "校招岗位": 1,
+    "社招岗位": 1,
+    "深圳地区": 1,
+    "广州地区": 1,
+    "其他地区": 1
+  },
+  "notes": [
+    "搜索结果中直接匹配的AI产品经理实习/校招岗位较少",
+    "DJI大疆AI实习生计划为深圳地区较相关的校招机会",
+    "广州链股科技的AI产品经理实习为近期发布的实习岗位",
+    "建议扩展搜索关键词：AI产品、产品经理实习、互联网产品实习等"
+  ]
+}

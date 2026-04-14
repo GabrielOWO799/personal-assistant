@@ -1,0 +1,63 @@
+{
+  "search_date": "2026-04-14",
+  "search_time": "09:10",
+  "keyword": "AI Agent",
+  "location": "深圳",
+  "results_count": 3,
+  "jobs": [
+    {
+      "id": 1,
+      "title": "DJI大疆AI实习生专项招聘",
+      "company": "深圳市大疆创新科技有限公司",
+      "type": "实习",
+      "location": "深圳",
+      "url": "https://campus.niuqizp.com/job-vry5ZCaLM.html",
+      "description": "大疆AI实习生专项招聘计划开启，用AI定义飞行与影像的未来",
+      "source": "牛企直聘",
+      "tags": ["AI", "算法", "实习生"],
+      "fetch_time": "2026-04-14T09:10:00+08:00"
+    },
+    {
+      "id": 2,
+      "title": "大疆创新科技2026实习招聘",
+      "company": "深圳市大疆创新科技有限公司",
+      "type": "实习/校招",
+      "location": "深圳/上海/北京",
+      "url": "https://campus.niuqizp.com/schedule-78wk5tzn5.html",
+      "description": "2026深圳最新名企招聘岗位，AI、算法类，国央企职位招聘",
+      "source": "牛企直聘",
+      "tags": ["AI", "算法", "2026", "校招"],
+      "fetch_time": "2026-04-14T09:10:00+08:00"
+    },
+    {
+      "id": 3,
+      "title": "AI明星公司实习/校招/社招岗位",
+      "company": "多家AI明星公司",
+      "type": "实习/校招/社招",
+      "location": "深圳及多地",
+      "url": "https://36kr.com/p/2284196934047489",
+      "description": "7家AI明星公司带来上百个岗位，包括校招、社招、实习岗位，涵盖技术研发、商务拓展、产品运营等多种岗位类型",
+      "source": "36氪",
+      "tags": ["AI", "校招", "实习", "多岗位"],
+      "fetch_time": "2026-04-14T09:10:00+08:00"
+    }
+  ],
+  "raw_searches": [
+    {
+      "query": "深圳 AI Agent 实习 2026",
+      "engine": "searxng",
+      "result_count": 30
+    },
+    {
+      "query": "深圳 AI Agent 春招 2026",
+      "engine": "searxng",
+      "result_count": 28
+    },
+    {
+      "query": "深圳 智能体 实习 校招",
+      "engine": "searxng",
+      "result_count": 12
+    }
+  ],
+  "note": "今日搜索结果以行业资讯为主，直接匹配深圳AI Agent实习/春招岗位的信息较少。建议关注大疆等深圳本地科技公司的官方招聘渠道获取最新岗位信息。"
+}
