@@ -1,0 +1,72 @@
+{
+  "search_date": "2025-04-15",
+  "keywords": [
+    "深圳 Prompt Engineer 实习 2026",
+    "深圳 提示词工程师 实习 春招",
+    "深圳 Prompt 实习 校招"
+  ],
+  "jobs": [
+    {
+      "id": "1",
+      "title": "【25实习】Prompt Engineer实习生 (J10935)",
+      "company": "中科闻歌",
+      "location": "深圳",
+      "type": "实习",
+      "salary": "250-400元/天",
+      "url": "https://www.nowcoder.com/jobs/detail/334416",
+      "source": "牛客网",
+      "description": "中科闻歌实习岗位，Prompt Engineer实习生，2026届招聘",
+      "keywords": ["实习", "Prompt Engineer"]
+    },
+    {
+      "id": "2",
+      "title": "Prompt实习生",
+      "company": "东信时代",
+      "location": "深圳",
+      "type": "实习",
+      "salary": "250-350元/天",
+      "url": "https://www.zhipin.com/job_detail/00cfc4ba2c1f156303Fy2Nu0FVRZ.html",
+      "source": "BOSS直聘",
+      "description": "东信时代Prompt实习生招聘，本科在读/应届，福利包括生育福利、团建经费、加班打车、育儿假、护理假等",
+      "keywords": ["实习", "Prompt"]
+    },
+    {
+      "id": "3",
+      "title": "Prompt Engineer实习生-声音方向",
+      "company": "MiniMax",
+      "location": "深圳",
+      "type": "实习",
+      "salary": "未标注",
+      "url": "https://vrfi1sk8a0.jobs.feishu.cn/referral/campus/position/7381393227624548619/detail",
+      "source": "飞书招聘",
+      "description": "MiniMax校园招聘，Prompt Engineer实习生（声音方向）",
+      "keywords": ["实习", "Prompt Engineer", "声音方向"]
+    },
+    {
+      "id": "4",
+      "title": "提示词架构师（实习生）",
+      "company": "云领科技",
+      "location": "深圳南山区",
+      "type": "实习",
+      "salary": "未标注",
+      "url": "https://www.zhaopin.com/jobdetail/CC593940220J40928137104.htm",
+      "source": "智联招聘",
+      "description": "教育科技公司招聘提示词架构师实习生，要求能顺畅衔接教育专家与技术团队，对AI语言模型、教育场景创新应用有浓厚兴趣",
+      "keywords": ["实习", "提示词架构师"]
+    },
+    {
+      "id": "5",
+      "title": "提示词工程师",
+      "company": "冰智科技",
+      "location": "深圳",
+      "type": "校招/应届",
+      "salary": "未标注",
+      "url": "https://www.zhipin.com/job_detail/b9f6ebdd27a15e891HN_2Nq9E1tU.html",
+      "source": "BOSS直聘",
+      "description": "冰智科技提示词工程师招聘，要求在校/应届，本科学历，福利包括交通补助、节日福利、住房补贴、保底工资、绩效奖金、年终奖、五险一金",
+      "keywords": ["校招", "应届", "提示词工程师"]
+    }
+  ],
+  "total_count": 5,
+  "search_timestamp": "2025-04-15T12:01:00+08:00"
+}

@@ -1,0 +1,75 @@
+{
+  "search_date": "2025-04-15",
+  "search_time": "09:10",
+  "keywords": ["深圳 AI Agent 实习 2026", "深圳 AI Agent 春招 2026", "深圳 智能体 实习 校招"],
+  "total_results": 5,
+  "jobs": [
+    {
+      "id": 1,
+      "title": "华为2027届AI实习生专项计划",
+      "type": "实习",
+      "company": "华为技术有限公司",
+      "location": "深圳、北京、上海、东莞、杭州、南京、西安",
+      "url": "https://campus.niuqizp.com/job-vrs5ZCCMa.html",
+      "description": "华为2027届AI实习生专项计划正式启动，诚邀全球高校在读本、硕、博学生加入，不限专业，具备人工智能相关研究背景，敢于挑战前沿技术难题。项目亮点：全年开放，鼓励长周期实习，时间灵活，深度投入；体系化培养机制，专属导师全程护航；覆盖AI核心业务与前沿研究方向，提供多方向选择。",
+      "source": "niuqizp.com",
+      "publish_date": "2026-04",
+      "keywords_matched": ["AI", "实习", "深圳"]
+    },
+    {
+      "id": 2,
+      "title": "华为2027届实习 - AI/Infra工程师",
+      "type": "实习",
+      "company": "华为技术有限公司",
+      "location": "深圳、北京、上海、东莞、杭州、南京、西安、武汉、成都、苏州",
+      "url": "https://campus.niuqizp.com/schedule-7UYm5taaM.html",
+      "description": "华为技术有限公司2027届实习招聘，面向2026届毕业生。招聘岗位包括AI工程师、Infra工程师、AI应用工程师等。",
+      "source": "niuqizp.com",
+      "publish_date": "2026-04",
+      "keywords_matched": ["AI", "实习", "深圳", "2026"]
+    },
+    {
+      "id": 3,
+      "title": "美团大模型基座团队Agent方向 - 大模型算法工程师（Search Agent方向）",
+      "type": "实习/校招",
+      "company": "美团",
+      "location": "北京",
+      "url": "https://bbs.pku.edu.cn/v2/mobile/post-read.php?bid=896&threadid=19007494",
+      "description": "美团-M17大模型基座团队下面负责大模型Agent的核心团队，深度参与LongCat基座模型的开源工作，尤其在Search Agent领域的多个权威Benchmark斩获SOTA，同时深度参与了美团多个AI Native产品的研发。招聘岗位：大模型算法工程师（Search Agent方向）。",
+      "source": "北大未名BBS",
+      "publish_date": "2026-04",
+      "keywords_matched": ["Agent", "实习", "校招"]
+    },
+    {
+      "id": 4,
+      "title": "华伦大数据健康（杭州）有限公司 - Python后端开发工程师（AI,Agent方向）",
+      "type": "实习",
+      "company": "华伦大数据健康（杭州）有限公司",
+      "location": "杭州",
+      "url": "https://campus.niuqizp.com/schedule-7ylr5taaZ.html",
+      "description": "2026届实习生招聘，Python后端开发工程师，AI、Agent方向。",
+      "source": "niuqizp.com",
+      "publish_date": "2026-04",
+      "keywords_matched": ["Agent", "实习", "2026"]
+    },
+    {
+      "id": 5,
+      "title": "7家AI明星公司实习、校招、社招上百岗位",
+      "type": "实习/校招/社招",
+      "company": "多家AI公司",
+      "location": "全国",
+      "url": "https://36kr.com/p/2284196934047489",
+      "description": "7家AI明星公司带来上百个岗位，包括校招、社招、实习岗位，也囊括了技术研发、商务拓展、产品运营等多种岗位类型。",
+      "source": "36氪",
+      "publish_date": "2026-04",
+      "keywords_matched": ["实习", "校招"]
+    }
+  ],
+  "search_summary": {
+    "total_searches": 3,
+    "filtered_jobs": 5,
+    "internship_count": 4,
+    "campus_recruitment_count": 3,
+    "shenzhen_jobs": 2
+  }
+}

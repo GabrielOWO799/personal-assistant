@@ -1,0 +1,62 @@
+{
+  "search_date": "2026-04-15",
+  "search_keywords": [
+    "深圳 大模型 实习 2026",
+    "深圳 大模型 春招 2026",
+    "深圳 LLM 实习 校招"
+  ],
+  "jobs": [
+    {
+      "title": "美团 LongCat大模型北斗实习计划",
+      "company": "美团",
+      "location": "北京（非深圳，但为知名大模型实习计划）",
+      "type": "实习",
+      "url": "https://www.chinaz.com/ainews/27007.shtml",
+      "description": "美团2026年LongCat大模型北斗实习计划，面向全球高校全日制在读硕士及博士，招募大模型领域顶尖实习生。聚焦通用人工智能（AGI）研发，覆盖基座模型算法、Infra架构、Agent应用及视觉生成等核心方向。",
+      "source": "chinaz.com"
+    },
+    {
+      "title": "大疆创新 2026暑期实习",
+      "company": "大疆创新",
+      "location": "深圳、上海、北京",
+      "type": "实习",
+      "url": "https://upcv.tech/xiaozhao/cmnxx3776000fm9btfc91jo5l.html",
+      "description": "大疆创新2026暑期实习，城市分布包含深圳、上海、北京，学历覆盖本科、硕士，截止时间2026/6/13。",
+      "source": "upcv.tech"
+    },
+    {
+      "title": "GPU算子开发优化实习生",
+      "company": "达坦科技",
+      "location": "深圳鹏城实验室",
+      "type": "实习",
+      "url": "https://segmentfault.com/a/1190000047706764",
+      "description": "面向高校学生开放实习岗位，招募有志于GPU算子开发优化领域的青年人才。长期线下实习，实习时长4-6个月，每周5天，深圳鹏城实验室线下实习。",
+      "source": "segmentfault.com"
+    },
+    {
+      "title": "大模型评测与数据分析实习生",
+      "company": "百度",
+      "location": "未明确（推测北京/深圳）",
+      "type": "实习",
+      "url": "https://www.shixiseng.com/intern/inn_zwscpjepodxt",
+      "description": "协助评测体系搭建，参与大模型Benchmark的日常测试与数据集标注工作；参与模型生成结果的日常评估，负责收集和整理模型的Badcase；数据整理与行业跟进。",
+      "source": "shixiseng.com"
+    },
+    {
+      "title": "小红书 Ace顶尖实习生（多模态大模型方向）",
+      "company": "小红书",
+      "location": "上海/北京（非深圳）",
+      "type": "实习",
+      "url": "https://hr.xiaohongshu.com/recommend/job-list/",
+      "description": "面向多业务场景的"理解-生成-决策"多模态统一大模型基座与智能体应用研究。",
+      "source": "xiaohongshu.com"
+    }
+  ],
+  "summary": {
+    "total_found": 5,
+    "shenzhen_specific": 2,
+    "internship_count": 5,
+    "campus_count": 0,
+    "note": "本次搜索主要发现大模型相关实习岗位，其中明确标注深圳的岗位包括大疆创新和达坦科技（鹏城实验室）。美团和小红书的岗位为大模型核心方向，但工作地点不在深圳。"
+  }
+}

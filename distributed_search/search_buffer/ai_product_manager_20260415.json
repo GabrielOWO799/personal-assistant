@@ -1,0 +1,82 @@
+{
+  "search_date": "2026-04-15",
+  "keywords": [
+    "深圳 AI产品经理 实习 2026",
+    "深圳 AI产品经理 春招 2026",
+    "深圳 人工智能产品 实习 校招"
+  ],
+  "total_results": 5,
+  "jobs": [
+    {
+      "id": "ai_pm_001",
+      "title": "AI产品经理（应届生）",
+      "company": "深圳市今日投资数据科技有限公司",
+      "location": "深圳",
+      "job_type": "全职",
+      "source": "应届生求职网",
+      "url": "https://www.yingjiesheng.com/job-007-944-876.html",
+      "publish_date": "2026-04-15",
+      "description": "AI产品经理岗位，由保险职业学院审核并发布",
+      "is_internship": false,
+      "is_campus": true
+    },
+    {
+      "id": "ai_pm_002",
+      "title": "飞书AI校园挑战赛",
+      "company": "字节跳动/飞书",
+      "location": "全国（含深圳）",
+      "job_type": "实习/校招",
+      "source": "牛客网",
+      "url": "https://www.nowcoder.com/feed/main/detail/a19a7b09872f455d83acd064959e8cd5",
+      "publish_date": "2026-04-15",
+      "description": "飞书AI实战挑战赛，面向高校学生，聚焦AI办公协同、业务提效实践，可获字节offer",
+      "is_internship": true,
+      "is_campus": true
+    },
+    {
+      "id": "ai_pm_003",
+      "title": "AI产品经理实习（GPT大模型应用方向）",
+      "company": "7家AI明星公司",
+      "location": "北京/上海/深圳/武汉",
+      "job_type": "实习/校招/社招",
+      "source": "36氪",
+      "url": "https://36kr.com/p/2284196934047489",
+      "publish_date": "2026-04-15",
+      "description": "AIGC专场招聘，AI产品经理（GPT大模型应用方向），8年经验要求，北京/上海/深圳/武汉有岗",
+      "is_internship": false,
+      "is_campus": true
+    },
+    {
+      "id": "ai_pm_004",
+      "title": "AI研发、AI产品等实习岗位",
+      "company": "阿里",
+      "location": "全国",
+      "job_type": "实习",
+      "source": "虎嗅",
+      "url": "https://www.huxiu.com/article/4850389.html",
+      "publish_date": "2026-04-14",
+      "description": "阿里校招岗位中80%与AI相关，AI研发、AI产品等实习岗位日薪500元",
+      "is_internship": true,
+      "is_campus": true
+    },
+    {
+      "id": "ai_pm_005",
+      "title": "2026届实习生招聘（产品类）",
+      "company": "Shopee",
+      "location": "北京/上海/广州/深圳",
+      "job_type": "实习",
+      "source": "全直招聘网",
+      "url": "https://www.quanzhi.com/notice/69dea443aff1e32624fa9325",
+      "publish_date": "2026-04-15",
+      "description": "Shopee 2027届暑期实习，含产品经理、项目管理、数据分析、品类策略等岗位，网申截止2026-04-17",
+      "is_internship": true,
+      "is_campus": true
+    }
+  ],
+  "summary": {
+    "internship_count": 4,
+    "campus_count": 5,
+    "shenzhen_jobs": 4,
+    "top_companies": ["字节跳动", "阿里", "Shopee", "深圳市今日投资数据科技有限公司"]
+  }
+}
