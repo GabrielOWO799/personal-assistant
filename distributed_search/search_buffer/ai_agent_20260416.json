@@ -1,0 +1,61 @@
+{
+  "search_date": "2026-04-16",
+  "search_keywords": [
+    "深圳 AI Agent 实习 2026",
+    "深圳 AI Agent 春招 2026",
+    "深圳 智能体 实习 校招"
+  ],
+  "total_results": 3,
+  "jobs": [
+    {
+      "id": 1,
+      "title": "中信保诚基金校招&实习招聘",
+      "company": "中信保诚基金",
+      "location": "深圳",
+      "type": "实习/校招",
+      "keywords": ["智能体", "AI", "实习", "校招"],
+      "description": "探索并实践公司各业务场景的业务智能体建设，辅助投研、风控、运营、行政、财务等业务环节的效率提升；探索并实践研发智能体，提升代码生成、测试、文档等环节的效率提升",
+      "url": "https://www.163.com/dy/article/KQJ72NC105568W0A.html",
+      "source": "网易订阅",
+      "published_date": "2026-04-16",
+      "is_relevant": true,
+      "relevance_score": 0.9
+    },
+    {
+      "id": 2,
+      "title": "大参林医药集团2025、2026届校园招聘",
+      "company": "大参林医药集团",
+      "location": "深圳",
+      "type": "校招",
+      "keywords": ["AI Agent", "技术实习生", "校招"],
+      "description": "人力资源部门技术实习生-AI Agent方向，面向2026届应届生",
+      "url": "https://www.quanzhi.com/notice/69dfff63aff1e32624fc5f31",
+      "source": "全职招聘网",
+      "published_date": "2026-04-16",
+      "is_relevant": true,
+      "relevance_score": 0.85
+    },
+    {
+      "id": 3,
+      "title": "AI方向平面设计实习生",
+      "company": "深圳冰川网络股份有限公司",
+      "location": "深圳",
+      "type": "实习",
+      "keywords": ["AI", "实习", "设计"],
+      "description": "AI方向平面设计实习生岗位，工作地点深圳",
+      "url": "https://www.yingjiesheng.com/job-007-945-909.html",
+      "source": "应届生求职网",
+      "published_date": "2026-04-15",
+      "is_relevant": true,
+      "relevance_score": 0.7
+    }
+  ],
+  "search_summary": {
+    "total_jobs_found": 3,
+    "internship_count": 2,
+    "campus_recruitment_count": 2,
+    "high_relevance_count": 3,
+    "search_time": "2026-04-16T09:06:00+08:00",
+    "notes": "本次搜索主要发现中信保诚基金和大参林医药集团的AI Agent相关实习/校招岗位，以及冰川网络的AI设计实习岗位"
+  }
+}

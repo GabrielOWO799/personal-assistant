@@ -1,0 +1,78 @@
+{
+  "search_date": "2026-04-16",
+  "search_time": "12:00",
+  "keywords": [
+    "深圳 Prompt Engineer 实习 2026",
+    "深圳 提示词工程师 实习 春招",
+    "深圳 Prompt 实习 校招"
+  ],
+  "results_count": 5,
+  "jobs": [
+    {
+      "id": 1,
+      "title": "【25实习】Prompt Engineer实习生 (J10935)",
+      "company": "中科闻歌",
+      "location": "北京,深圳",
+      "type": "实习",
+      "salary": "250-400元/天",
+      "source": "牛客网",
+      "url": "https://www.nowcoder.com/jobs/detail/334416",
+      "keywords_matched": ["Prompt Engineer", "实习", "2026"],
+      "post_date": null
+    },
+    {
+      "id": 2,
+      "title": "Prompt实习生",
+      "company": "东信时代",
+      "location": "深圳",
+      "type": "实习",
+      "salary": "250-350元/天",
+      "source": "BOSS直聘",
+      "url": "https://www.zhipin.com/job_detail/00cfc4ba2c1f156303Fy2Nu0FVRZ.html",
+      "keywords_matched": ["Prompt", "实习", "校招"],
+      "post_date": null
+    },
+    {
+      "id": 3,
+      "title": "AI剧本写作Prompt工程实习生-TikTok",
+      "company": "字节跳动",
+      "location": "深圳",
+      "type": "实习",
+      "salary": "未标注",
+      "source": "字节跳动校招官网",
+      "url": "https://jobs.bytedance.com/campus/position/7610689874695850245/detail",
+      "keywords_matched": ["Prompt", "实习", "校招"],
+      "post_date": null
+    },
+    {
+      "id": 4,
+      "title": "Prompt工程实习生",
+      "company": "科大讯飞",
+      "location": "深圳",
+      "type": "实习",
+      "salary": "未标注",
+      "source": "实习僧",
+      "url": "https://www.shixiseng.com/intern/inn_hl2jb9q121hs",
+      "keywords_matched": ["Prompt", "实习"],
+      "post_date": null
+    },
+    {
+      "id": 5,
+      "title": "AI训练实习生（Prompt工程/大模型）",
+      "company": "东信时代",
+      "location": "深圳",
+      "type": "实习",
+      "salary": "未标注",
+      "source": "BOSS直聘",
+      "url": "https://www.zhipin.com/job_detail/6d4ef1ac1c9b032903F43t68EVBW.html",
+      "keywords_matched": ["Prompt", "实习", "大模型"],
+      "post_date": null
+    }
+  ],
+  "search_metadata": {
+    "engine": "SearXNG",
+    "execution_time_seconds": 180,
+    "filtered_by": "实习/春招岗位",
+    "notes": "筛选出5条深圳地区Prompt Engineer相关实习岗位"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "search_date": "2026-04-16",
+  "search_keywords": [
+    "深圳 AI产品经理 实习 2026",
+    "深圳 AI产品经理 春招 2026",
+    "深圳 人工智能产品 实习 校招"
+  ],
+  "total_results": 5,
+  "jobs": [
+    {
+      "id": 1,
+      "title": "XTransfer 2026实习 - 产品经理（深圳）",
+      "company": "XTransfer",
+      "location": "深圳",
+      "type": "实习",
+      "source": "campus.niuqizp.com",
+      "url": "https://campus.niuqizp.com/schedule-7yYk5tC5n.html",
+      "description": "2026春招招聘信息，XTransfer是一家专注于跨境支付的企业，在深圳有产品经理岗位",
+      "keywords_matched": ["春招", "2026", "产品经理", "深圳"],
+      "timestamp": "2026-04-16T13:00:00+08:00"
+    },
+    {
+      "id": 2,
+      "title": "传音控股 2026实习 - 产品方向（深圳）",
+      "company": "传音控股",
+      "location": "深圳",
+      "type": "实习",
+      "source": "campus.niuqizp.com",
+      "url": "https://campus.niuqizp.com/schedule-7UmU5tCtC.html",
+      "description": "传音控股是全球领先的智能终端设计企业，2026实习招聘产品方向岗位，深圳有岗位",
+      "keywords_matched": ["实习", "产品方向", "深圳", "2026"],
+      "timestamp": "2026-04-16T13:00:00+08:00"
+    },
+    {
+      "id": 3,
+      "title": "贝奥利智能科技 - 产品经理（深圳，可线下面试优先）",
+      "company": "贝奥利智能科技（深圳）有限公司",
+      "location": "深圳",
+      "type": "校招/全职",
+      "source": "haitou.cc",
+      "url": "https://m.haitou.cc/position/376391393/",
+      "description": "薪资范围6000-8000元/月，岗位职责负责行业趋势分析及深度竞品调研",
+      "keywords_matched": ["产品经理", "深圳"],
+      "timestamp": "2026-04-16T13:00:00+08:00"
+    },
+    {
+      "id": 4,
+      "title": "云和恩墨 2026实习 - 产品运营/解决方案经理（深圳）",
+      "company": "云和恩墨",
+      "location": "深圳",
+      "type": "实习",
+      "source": "campus.niuqizp.com",
+      "url": "https://campus.niuqizp.com/schedule-7Ymm5tCLM.html",
+      "description": "招聘技术顾问、项目经理、解决方案经理、客户总监等职位，工作地点涉及深圳",
+      "keywords_matched": ["实习", "2026", "深圳"],
+      "timestamp": "2026-04-16T13:00:00+08:00"
+    },
+    {
+      "id": 5,
+      "title": "中信保诚基金 - 校园&实习招聘（AI相关岗位）",
+      "company": "中信保诚基金",
+      "location": "深圳（推测）",
+      "type": "实习/校招",
+      "source": "163.com",
+      "url": "https://www.163.com/dy/article/KQJ72NC105568W0A.html",
+      "description": "探索并实践公司业务场景的业务智能体建设，辅助投研、风控、运营、行政、财务等业务环节的效率提升；探索并实践研发智能体",
+      "keywords_matched": ["AI", "智能体", "实习", "校招"],
+      "timestamp": "2026-04-16T13:00:00+08:00"
+    }
+  ],
+  "search_metadata": {
+    "engines_used": ["brave", "duckduckgo"],
+    "unresponsive_engines": ["google", "startpage"],
+    "time_range": "day",
+    "execution_time": "2026-04-16T13:00:00+08:00"
+  }
+}

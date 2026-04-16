@@ -1,0 +1,99 @@
+{
+  "search_date": "2026-04-16",
+  "search_time": "11:00",
+  "keywords": [
+    "深圳 智能体 实习 2026",
+    "深圳 智能体 春招 2026",
+    "深圳 Multi-Agent 实习 校招"
+  ],
+  "total_results": 5,
+  "jobs": [
+    {
+      "id": 1,
+      "title": "智能体研发工程师（实习）",
+      "company": "vivo",
+      "department": "vivo AI系统中心",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://www.nowcoder.com/jobs/detail/433215",
+      "description": "计算机、软件工程、人工智能、自动化，应用数学等相关专业在校生",
+      "requirements": "实习时长3个月及以上，每周可实习5天",
+      "source": "牛客网",
+      "search_keyword": "深圳 智能体 实习"
+    },
+    {
+      "id": 2,
+      "title": "AI 智能体设计（实习）",
+      "company": "Arcadyan",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://cn.linkedin.com/jobs/view/ai-%E6%99%BA%E8%83%BD%E4%BD%93%E8%AE%BE%E8%AE%A1%EF%BC%88%E5%AE%9E%E4%B9%A0%EF%BC%89-at-arcadyan-4364248884",
+      "description": "协助对接AI智能体开发所需相关软硬件采购需求，提供技术层面的选型建议",
+      "requirements": "配合信息化采购管理团队完成供应商技术评估等辅助工作",
+      "source": "LinkedIn",
+      "search_keyword": "深圳 智能体 实习"
+    },
+    {
+      "id": 3,
+      "title": "【智能体实习】海量api场景自主智能体优化",
+      "company": "人工智能与数字经济广东省实验室（深圳）",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://www.zhipin.com/job_detail/0c1db503846cf7e80nV72t6-GVNY.html",
+      "description": "光明实验室，围绕省市人工智能发展布局，下一代AI变革技术",
+      "requirements": "全栈AI技术内核科研体系",
+      "source": "BOSS直聘",
+      "search_keyword": "深圳 智能体 实习"
+    },
+    {
+      "id": 4,
+      "title": "Multi-Agent系统开发工程师实习生",
+      "company": "深圳市云泥科技",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://www.zhipin.com/job_detail/6492d94ce075713003V73t20EVRV.html",
+      "description": "参与系统架构设计、智能体设计与实现、通信协议开发以及协作机制构建",
+      "requirements": "与一流技术团队共同工作，学习并掌握Multi-Agent系统开发技术",
+      "source": "BOSS直聘",
+      "search_keyword": "深圳 Multi-Agent 实习"
+    },
+    {
+      "id": 5,
+      "title": "AI4Science Agent 实习生",
+      "company": "IDEA研究院（深圳）",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://zhuanlan.zhihu.com/p/1935661652470104124",
+      "description": "构建能够自主进行科学研究的多智能体（Multi-Agent）系统，AI for Science前沿领域",
+      "requirements": "探索AI Agent如何变革药物设计、材料科学",
+      "source": "知乎",
+      "search_keyword": "深圳 Multi-Agent 实习"
+    },
+    {
+      "id": 6,
+      "title": "LLM实习生-Multi-Agents与智能信息抽取方向",
+      "company": "启盼科技",
+      "location": "深圳",
+      "type": "实习",
+      "salary": "200-250元/天",
+      "url": "https://www.liepin.com/job/1976894721.shtml",
+      "description": "Multi-Agents与智能信息抽取方向",
+      "requirements": "本科学历，实习相关经验",
+      "source": "猎聘",
+      "search_keyword": "深圳 Multi-Agent 实习"
+    },
+    {
+      "id": 7,
+      "title": "AI Agent工程师/研究员实习生",
+      "company": "锐明技术",
+      "location": "深圳",
+      "type": "实习",
+      "salary": "300-400元/天",
+      "url": "https://www.nowcoder.com/jobs/detail/433795",
+      "description": "AI Agent工程师/研究员实习生",
+      "requirements": "2026最新招聘",
+      "source": "牛客网",
+      "search_keyword": "深圳 Agent 校招"
+    }
+  ]
+}
