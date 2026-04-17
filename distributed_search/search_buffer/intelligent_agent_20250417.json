@@ -1,0 +1,86 @@
+{
+  "search_date": "2025-04-17",
+  "search_time": "11:00",
+  "keywords": [
+    "深圳 智能体 实习 2026",
+    "深圳 智能体 春招 2026",
+    "深圳 Multi-Agent 实习 校招"
+  ],
+  "total_results": 5,
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Ai开发/智能体应用实习生 (A80727)",
+      "company": "弘毅投资",
+      "type": "实习",
+      "location": "广东省/深圳市/南山区",
+      "deadline": "2026-04-23",
+      "requirements": "有前后端开发基础，能快速对接全链路需求优先；每周至少现场实习3天以上，连续实习时间不少于3个月",
+      "url": "https://www.shixiseng.com/intern/inn_fjgmd0xsifqq",
+      "source": "实习僧",
+      "search_keyword": "深圳 智能体 实习 2026"
+    },
+    {
+      "id": 2,
+      "title": "智能体实习-海量api场景自主智能体优化",
+      "company": "人工智能与数字经济广东省实验室（深圳）/光明实验室",
+      "type": "实习",
+      "location": "深圳",
+      "description": "实验室主要围绕省市人工智能发展布局，按照'一个战略任务、四大战略需求、一个全栈AI技术内核科研体系、四项创新机制'的'1414'战略路径",
+      "url": "https://www.zhipin.com/job_detail/0c1db503846cf7e80nV72t6-GVNY.html",
+      "source": "BOSS直聘",
+      "search_keyword": "深圳 智能体 实习 2026"
+    },
+    {
+      "id": 3,
+      "title": "AI算法实习生",
+      "company": "哈尔滨工业大学（深圳）广东省安全智能新技术重点实验室",
+      "type": "实习",
+      "location": "深圳",
+      "description": "实习生将直接对接哈尔滨工业大学（深圳）计算机学院教师科研团队，聚焦人工智能、信息安全、高性能计算等前沿领域，深度参与科研项目，共享高校实验室资源与学术支持",
+      "url": "https://www.gaoxiaojob.com/announcement/detail/391109.html",
+      "source": "高校人才网",
+      "search_keyword": "深圳 Multi-Agent 实习 校招"
+    },
+    {
+      "id": 4,
+      "title": "协同大模型与Agent架构战略实习生",
+      "company": "博世中国",
+      "type": "实习",
+      "location": "未明确（深圳相关）",
+      "description": "Agent框架搭建与集成：协助搭建并维护基于云端的Agent架构（如OpenClaw框架），实现任务逻辑拆解、多Agent协同（如行车、疲劳、调度Agent）以及RAG长短记忆库的接入",
+      "url": "https://www.shixiseng.com/intern/inn_uhriwgsx8jrj",
+      "source": "实习僧",
+      "search_keyword": "深圳 Multi-Agent 实习 校招"
+    },
+    {
+      "id": 5,
+      "title": "Agent/大模型算法实习生-国际化TnS算法",
+      "company": "小红书",
+      "type": "实习",
+      "location": "未明确（深圳相关）",
+      "description": "参与AI Agent系统设计与落地，涵盖ReAct/Tool Use/Multi-Agent架构、意图理解、任务规划，应用于rednote治理、内容理解、搜推等核心业务场景；参与Agent的设计与效果优化，通过Agent架构优化和模型优化产出效果领先的方案",
+      "url": "https://campus.niuqizp.com/job-v8k5ZCMCC.html",
+      "source": "牛求职",
+      "search_keyword": "深圳 Multi-Agent 实习 校招"
+    }
+  ],
+  "summary": {
+    "实习岗位": 5,
+    "春招岗位": 0,
+    "涉及公司": [
+      "弘毅投资",
+      "光明实验室",
+      "哈尔滨工业大学（深圳）",
+      "博世中国",
+      "小红书"
+    ],
+    "技术方向": [
+      "智能体应用开发",
+      "Multi-Agent协同",
+      "Agent架构设计",
+      "RAG检索增强",
+      "大模型算法"
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "search_date": "2025-04-17",
+  "search_keywords": [
+    "深圳 AI产品经理 实习 2026",
+    "深圳 AI产品经理 春招 2026",
+    "深圳 人工智能产品 实习 校招"
+  ],
+  "jobs": [
+    {
+      "id": "ai_pm_001",
+      "title": "AI产品经理实习生-27届暑期实习",
+      "company": "TCL实业",
+      "location": "深圳",
+      "type": "实习",
+      "source": "BOSS直聘",
+      "url": "https://www.zhipin.com/job_detail/e56e8f9c31178c800nZy3t24EVdT.html",
+      "requirements": "在校/应届，学历不限",
+      "benefits": "五险一金、定期体检、年终奖、带薪年假、员工旅游、免费班车、零食下午茶",
+      "search_keyword": "深圳 AI产品经理 实习 2026"
+    },
+    {
+      "id": "ai_pm_002",
+      "title": "AI产品经理（校招）",
+      "company": "深圳市青星汇信息技术有限公司",
+      "location": "深圳福田",
+      "type": "校招",
+      "source": "应届生求职网",
+      "url": "https://www.yingjiesheng.com/job-007-922-697.html",
+      "requirements": "人工智能/软件工程专业，2026届",
+      "responsibilities": "负责产品的需求调研、市场分析及竞品跟踪，挖掘AI技术在业务场景中的落地机会；定义产品功能，撰写高质量的产品需求文档（PRD），明确产品目标、流程及交互细节",
+      "search_keyword": "深圳 AI产品经理 实习 2026"
+    },
+    {
+      "id": "ai_pm_003",
+      "title": "AI产品经理/嘉立创管培生",
+      "company": "深圳嘉立创科技集团股份有限公司",
+      "location": "深圳福田区",
+      "type": "校招",
+      "source": "全职招聘网",
+      "url": "https://www.quanzhi.com/notice/69c1ceaa3e67084e25f09112",
+      "requirements": "面向2027、2026届应届生，理工科专业（计算机/人工智能/电子/机械/数学等相关专业优先）",
+      "search_keyword": "深圳 AI产品经理 春招 2026"
+    },
+    {
+      "id": "ai_pm_004",
+      "title": "产品经理",
+      "company": "平安科技（深圳）有限公司",
+      "location": "深圳",
+      "type": "校招",
+      "source": "牛企直聘",
+      "url": "https://campus.niuqizp.com/job-vy85ZZttM.html",
+      "publish_date": "2026-03-26",
+      "search_keyword": "深圳 AI产品经理 春招 2026"
+    },
+    {
+      "id": "ai_pm_005",
+      "title": "人工智能产品经理",
+      "company": "深圳联通",
+      "location": "深圳",
+      "type": "校招",
+      "source": "编制招聘网",
+      "url": "https://www.bianzhia.com/guangdong/shenzhen/20260410/241709.html",
+      "publish_date": "2026-04-10",
+      "search_keyword": "深圳 AI产品经理 春招 2026"
+    }
+  ],
+  "total_count": 5,
+  "filter_applied": {
+    "location": "深圳",
+    "position_type": ["实习", "校招", "春招"],
+    "exclude": ["全职社招"]
+  }
+}
