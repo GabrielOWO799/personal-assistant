@@ -1,0 +1,65 @@
+{
+  "search_date": "2026-04-18",
+  "keywords": ["深圳 Prompt Engineer 实习 2026", "深圳 提示词工程师 实习 春招", "深圳 Prompt 实习 校招"],
+  "jobs": [
+    {
+      "title": "Prompt Engineer实习生 - 超级目录",
+      "url": "https://www.zhipin.com/job_detail/299688eb0940ea4b1HF73tS6EVBR.html",
+      "type": "实习",
+      "location": "深圳",
+      "source": "BOSS直聘",
+      "description": "2026年Prompt Engineer实习生岗位职责"
+    },
+    {
+      "title": "AI训练实习生（Prompt工程/大模型）- 东信时代",
+      "url": "https://www.zhipin.com/job_detail/6d4ef1ac1c9b032903F43t68EVBW.html",
+      "type": "实习",
+      "location": "深圳",
+      "source": "BOSS直聘",
+      "description": "AI训练实习生岗位，涉及Prompt工程和大模型相关"
+    },
+    {
+      "title": "【25实习】Prompt Engineer实习生 - 中科闻歌",
+      "url": "https://www.nowcoder.com/jobs/detail/334416",
+      "type": "实习",
+      "location": "北京,深圳",
+      "salary": "250-400",
+      "source": "牛客网",
+      "description": "2025实习岗位，Prompt Engineer实习生"
+    },
+    {
+      "title": "Prompt Engineer实习生 - 双噪科技",
+      "url": "https://www.shixiseng.com/intern/inn_hndhjgrmfnbh",
+      "type": "实习",
+      "location": "深圳",
+      "source": "实习僧",
+      "description": "参与对话类AI系统相关的Prompt设计与优化"
+    },
+    {
+      "title": "提示词架构师（实习生）- 云领智能",
+      "url": "https://www.zhaopin.com/jobdetail/CC593940220J40928137104.htm",
+      "type": "实习",
+      "location": "深圳南山区",
+      "source": "智联招聘",
+      "description": "负责教育场景AI语言模型的提示词架构设计"
+    },
+    {
+      "title": "提示词工程师 - 暨创传媒",
+      "url": "https://www.deizao.com.cn/index/index/shixixq/jobid/66803",
+      "type": "实习",
+      "location": "深圳",
+      "source": "得早学就创",
+      "description": "制定公司内部Prompt撰写规范与评估标准，熟悉GPT系列、Claude、LLaMA、DeepSeek等大模型特性"
+    },
+    {
+      "title": "AI提示词工程师 - 佰钧成",
+      "url": "https://www.deizao.cn/index/index/shixixq/jobid/94606",
+      "type": "实习",
+      "location": "深圳",
+      "source": "得早学就创",
+      "description": "参与大语言模型(LLM)应用场景下的提示词(Prompt)设计、测试与优化"
+    }
+  ],
+  "total_found": 7,
+  "filtered_count": 7
+}

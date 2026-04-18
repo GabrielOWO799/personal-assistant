@@ -1,0 +1,53 @@
+{
+  "search_date": "2026-04-18",
+  "search_time": "13:00",
+  "keywords": [
+    "深圳 AI产品经理 实习 2026",
+    "深圳 AI产品经理 春招 2026",
+    "深圳 人工智能产品 实习 校招"
+  ],
+  "total_results": 3,
+  "jobs": [
+    {
+      "id": "ai_pm_001",
+      "title": "美团日常实习 - AI应用&Agent产品增长&运营",
+      "company": "美团",
+      "location": "深圳",
+      "job_type": "实习",
+      "source": "牛企直聘校招日历",
+      "url": "https://campus.niuqizp.com/schedule-7s8U5tnnL.html",
+      "description": "算法&AI研究方向,AI应用&Agent产品增长&运营软件开发设计分析&研究",
+      "search_keyword": "深圳 AI产品经理 实习 2026",
+      "extracted_at": "2026-04-18T13:00:00+08:00"
+    },
+    {
+      "id": "ai_pm_002",
+      "title": "字节跳动前沿技术人才校招 - 多领域AI方向",
+      "company": "字节跳动",
+      "location": "深圳",
+      "job_type": "实习/校招",
+      "source": "鱼皮AI导航/ITBear科技",
+      "url": "https://ai.codefather.cn/news/2045168896343830535",
+      "description": "面向全球博士生开放多个AI方向，实习岗位面向2026年9月及以后毕业的在校博士生",
+      "search_keyword": "深圳 人工智能产品 实习 校招",
+      "extracted_at": "2026-04-18T13:00:00+08:00"
+    },
+    {
+      "id": "ai_pm_003",
+      "title": "招商证券博士后研究人员",
+      "company": "招商证券",
+      "location": "深圳",
+      "job_type": "实习",
+      "source": "牛企直聘校招日历",
+      "url": "https://campus.niuqizp.com/schedule-7ly85tM5z.html",
+      "description": "民族企业招聘网站，金融/证券/投资领域博士后研究岗位",
+      "search_keyword": "深圳 人工智能产品 实习 校招",
+      "extracted_at": "2026-04-18T13:00:00+08:00"
+    }
+  ],
+  "metadata": {
+    "search_engine": "SearXNG本地实例",
+    "time_range": "day",
+    "note": "搜索结果较少，主要为校招平台聚合信息"
+  }
+}

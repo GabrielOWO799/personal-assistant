@@ -1,0 +1,77 @@
+{
+  "search_date": "2026-04-18",
+  "search_keywords": [
+    "深圳 AI Agent 实习 2026",
+    "深圳 AI Agent 春招 2026",
+    "深圳 智能体 实习 校招"
+  ],
+  "total_results": 5,
+  "jobs": [
+    {
+      "id": 1,
+      "title": "AI Agent算法研究员（实习）",
+      "company": "深度赋智",
+      "location": "深圳",
+      "type": "实习",
+      "source": "BOSS直聘",
+      "url": "https://www.zhipin.com/job_detail/6c46c2242f7eda1303dy09S0EFBT.html",
+      "description": "深度赋智AI Agent算法研究员（实习）招聘，要求在校/应届，学历本科，福利五险一金、定期体检",
+      "keywords": ["AI Agent", "算法", "实习"],
+      "search_query": "深圳 AI Agent 实习 2026"
+    },
+    {
+      "id": 2,
+      "title": "AI Agent应用开发实习生",
+      "company": "拓竹科技",
+      "location": "深圳",
+      "type": "实习",
+      "source": "牛客网",
+      "url": "https://www.nowcoder.com/jobs/detail/429251",
+      "description": "拓竹科技实习 AI Agent应用开发实习生 (A223087) 2026最新招聘，薪资450-500，地点深圳",
+      "keywords": ["AI Agent", "应用开发", "实习"],
+      "search_query": "深圳 AI Agent 实习 2026"
+    },
+    {
+      "id": 3,
+      "title": "AI4Science Agent 实习生",
+      "company": "IDEA研究院（深圳）",
+      "location": "深圳",
+      "type": "实习",
+      "source": "知乎",
+      "url": "https://zhuanlan.zhihu.com/p/1935661652470104124",
+      "description": "探索AI for Science前沿领域，构建能够自主进行科学研究的多智能体（Multi-Agent）系统",
+      "keywords": ["AI Agent", "Multi-Agent", "实习", "科研"],
+      "search_query": "深圳 AI Agent 实习 2026"
+    },
+    {
+      "id": 4,
+      "title": "TenX AI 2026春季校园招聘",
+      "company": "TenX AI（拾新未来科技）",
+      "location": "深圳",
+      "type": "春招/校招",
+      "source": "南开大学就业网",
+      "url": "https://career.nankai.edu.cn/correcruit/content/id/113046.html",
+      "description": "TenX AI是由维瑞资产独立孵化的AI团队，专注打造行业首个量化专属Vertical AI Agent，主创团队毕业于哈佛、卡内基梅隆、香港大学、南洋理工等名校",
+      "keywords": ["AI Agent", "春招", "校招", "2026"],
+      "search_query": "深圳 AI Agent 春招 2026"
+    },
+    {
+      "id": 5,
+      "title": "智能体研发工程师（实习）",
+      "company": "vivo",
+      "location": "深圳",
+      "type": "实习",
+      "source": "牛客网",
+      "url": "https://www.nowcoder.com/jobs/detail/433215",
+      "description": "智能体研发工程师（实习），深圳-vivo AI系统中心，实习时长3个月及以上，每周可实习5天，面向计算机、软件工程、人工智能、自动化、应用数学等相关专业在校生",
+      "keywords": ["智能体", "研发", "实习"],
+      "search_query": "深圳 智能体 实习 校招"
+    }
+  ],
+  "metadata": {
+    "search_time": "2026-04-18T09:10:00+08:00",
+    "task_id": "5e5a7de8-328d-4d18-8a14-aa5f939ba838",
+    "filtered_by": "实习/春招/校招岗位",
+    "excluded": "全职社招岗位"
+  }
+}

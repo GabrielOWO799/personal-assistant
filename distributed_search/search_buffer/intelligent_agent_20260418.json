@@ -1,0 +1,80 @@
+{
+  "search_date": "2026-04-18",
+  "search_time": "11:00",
+  "keywords": [
+    "深圳 智能体 实习 2026",
+    "深圳 智能体 春招 2026",
+    "深圳 Multi-Agent 实习 校招",
+    "深圳 Agent 实习 2026",
+    "深圳 具身智能 实习 校招"
+  ],
+  "total_results": 5,
+  "jobs": [
+    {
+      "id": 1,
+      "title": "美团日常实习 - AI应用&Agent产品增长&运营",
+      "company": "美团",
+      "type": "实习",
+      "location": "深圳",
+      "keywords": ["Agent", "AI应用", "产品增长", "运营"],
+      "url": "https://campus.niuqizp.com/schedule-7s8U5tnnL.html",
+      "source": "牛企直聘",
+      "published_date": "2026-04-18",
+      "description": "美团日常实习岗位，包含AI应用&Agent产品增长&运营方向，面向2026届在校生"
+    },
+    {
+      "id": 2,
+      "title": "理想汽车日常实习 - 具身智能算法实习",
+      "company": "理想汽车",
+      "type": "实习",
+      "location": "深圳",
+      "keywords": ["具身智能", "算法实习", "智能体"],
+      "url": "https://campus.niuqizp.com/schedule-7ysU5tnCn.html",
+      "source": "牛企直聘",
+      "published_date": "2026-04-18",
+      "description": "理想汽车2026春招，包含具身智能算法实习、智能体算法实习等岗位"
+    },
+    {
+      "id": 3,
+      "title": "字节跳动前沿技术人才校招 - AI方向",
+      "company": "字节跳动",
+      "type": "校招/实习",
+      "location": "深圳",
+      "keywords": ["AI", "前沿技术", "校招", "实习"],
+      "url": "https://www.itbear.com.cn/html/2026-04/1285381.html",
+      "source": "ITBear",
+      "published_date": "2026-04-17",
+      "description": "字节跳动启动前沿技术领域人才校园招聘项目，面向全球优秀技术人才开放全职及实习两类岗位。实习岗位面向2026年9月及以后毕业的在校博士生"
+    },
+    {
+      "id": 4,
+      "title": "逐际动力具身智能技术分享会",
+      "company": "逐际动力",
+      "type": "校招活动",
+      "location": "深圳",
+      "keywords": ["具身智能", "校招", "技术分享"],
+      "url": "https://zone.ci/secarticles/wx/520917.html",
+      "source": "MARSTALK",
+      "published_date": "2026-04-18",
+      "description": "美团春季校园招聘环节，设有应届生校招、北斗计划、转正实习、日常实习等招聘项目，面向香港高校开启"
+    },
+    {
+      "id": 5,
+      "title": "FAIR plus2026具身智能工程化实战沙龙",
+      "company": "OSC源创会",
+      "type": "校招/实习活动",
+      "location": "深圳",
+      "keywords": ["具身智能", "工程化", "校招"],
+      "url": "https://www.163.com/dy/article/KQNUIUH10511CUMI.html",
+      "source": "网易",
+      "published_date": "2026-04-18",
+      "description": "2026年4月24日深圳福田会展中心举办具身智能从技术研发到工程落地的核心痛点分享会"
+    }
+  ],
+  "search_metadata": {
+    "engines_used": ["duckduckgo"],
+    "unresponsive_engines": ["brave", "google", "startpage"],
+    "time_range": "day",
+    "notes": "搜索结果中直接相关的深圳智能体实习/春招岗位较少，部分结果为行业新闻或活动信息"
+  }
+}
