@@ -1,0 +1,73 @@
+{
+  "search_date": "2026-04-19",
+  "search_keywords": [
+    "深圳 AI产品经理 实习 2026",
+    "深圳 AI产品经理 春招 2026",
+    "深圳 人工智能产品 实习 校招"
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "title": "AI产品经理实习生 - 振与发",
+      "company": "振与发",
+      "location": "深圳",
+      "type": "实习",
+      "source": "实习僧",
+      "url": "https://www.shixiseng.com/intern/inn_qe7r70spiwhd",
+      "description": "AI产品经理实习生职位，包含岗位职责、任职要求、工作内容说明、薪资待遇等招聘信息",
+      "keywords_matched": ["AI产品经理", "实习"]
+    },
+    {
+      "id": 2,
+      "title": "产品经理实习生 - 科大讯飞",
+      "company": "科大讯飞",
+      "location": "深圳",
+      "type": "实习",
+      "source": "职友集",
+      "url": "https://www.jobui.com/company/11655863/salary/j/chanpinjinglishixisheng/",
+      "description": "产品经理实习生招聘，薪资3-4.5K占80%，招聘经验要求不限经验占比最多，学历要求硕士学历占比最多",
+      "keywords_matched": ["产品经理", "实习"]
+    },
+    {
+      "id": 3,
+      "title": "AI产品经理 - 深圳市今日投资数据科技有限公司",
+      "company": "深圳市今日投资数据科技有限公司",
+      "location": "深圳",
+      "type": "全职",
+      "source": "应届生求职网",
+      "url": "https://www.yingjiesheng.com/job-007-944-876.html",
+      "description": "AI产品经理职位，发布时间2026-04-15，工作地点深圳，全职岗位",
+      "keywords_matched": ["AI产品经理"]
+    },
+    {
+      "id": 4,
+      "title": "产品经理 - 贝奥利智能科技（深圳）有限公司",
+      "company": "贝奥利智能科技（深圳）有限公司",
+      "location": "深圳",
+      "type": "全职",
+      "source": "海投校招",
+      "url": "https://m.haitou.cc/position/376391393/",
+      "description": "产品经理招聘，薪资范围6000-8000元/月，岗位职责负责行业趋势分析及深度竞品调研",
+      "keywords_matched": ["产品经理"]
+    },
+    {
+      "id": 5,
+      "title": "大模型算法工程师 - 人工智能与数字经济广东省实验室（深圳）",
+      "company": "人工智能与数字经济广东省实验室（深圳）",
+      "location": "深圳",
+      "type": "全职",
+      "source": "鼠鼠求职",
+      "url": "https://www.shushuqiuzhi.com/article/211278",
+      "description": "大模型算法工程师职位，薪资20k-30k，学历要求硕士或博士，全职岗位",
+      "keywords_matched": ["人工智能", "大模型"]
+    }
+  ],
+  "summary": {
+    "total_jobs": 5,
+    "internship_count": 2,
+    "campus_recruitment_count": 0,
+    "full_time_count": 3,
+    "sources": ["实习僧", "职友集", "应届生求职网", "海投校招", "鼠鼠求职"]
+  },
+  "note": "本次搜索结果中实习岗位较少，主要为全职岗位。建议扩大搜索范围或调整关键词策略。"
+}

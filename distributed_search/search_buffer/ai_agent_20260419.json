@@ -1,0 +1,48 @@
+{
+  "search_date": "2026-04-19",
+  "search_keywords": [
+    "深圳 AI Agent 实习 2026",
+    "深圳 AI Agent 春招 2026",
+    "深圳 智能体 实习 校招"
+  ],
+  "total_results": 3,
+  "jobs": [
+    {
+      "id": "1",
+      "title": "泽荟科技 AI系统与Agent框架实习生",
+      "company": "泽荟科技",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://www.shixiseng.com/intern/inn_1jznpdncmu74",
+      "source": "实习僧",
+      "description": "AI系统与Agent框架实习生，负责AI Agent框架开发与系统搭建",
+      "publish_date": "近期",
+      "keywords_match": ["AI", "Agent", "实习"]
+    },
+    {
+      "id": "2",
+      "title": "大疆 AI实习生 暑期实习",
+      "company": "DJI大疆创新",
+      "location": "深圳/上海/北京",
+      "type": "实习",
+      "url": "https://www.wondercv.com/xiaozhao/dji-2027-ai-intern-shenzhen-shanghai-beijing-5048-7c1204",
+      "source": "超级简历",
+      "description": "大疆2027届暑期实习招聘计划，AI算法类和AI软件工程类岗位，工作地点包括深圳，涵盖计算机视觉、机器学习及深度学习方向",
+      "publish_date": "2026-04",
+      "keywords_match": ["AI", "实习", "深圳"]
+    },
+    {
+      "id": "3",
+      "title": "华为技术有限公司 2027届实习",
+      "company": "华为技术",
+      "location": "深圳/北京/上海/东莞/杭州/南京/西安/武汉/成都/苏州",
+      "type": "实习/春招",
+      "url": "https://campus.niuqizp.com/schedule-7UYm5taaM.html",
+      "source": "牛企招聘",
+      "description": "华为2027届实习生招聘，岗位包括AI工程师、Infra工程师、AI应用工程师等，深圳有多个岗位开放",
+      "publish_date": "2026-04",
+      "keywords_match": ["AI", "实习", "深圳"]
+    }
+  ],
+  "note": "本次搜索未找到明确标注'AI Agent'的深圳实习/春招岗位，但找到3个相关AI实习岗位。建议扩大搜索范围或关注通用AI岗位中的Agent方向。"
+}

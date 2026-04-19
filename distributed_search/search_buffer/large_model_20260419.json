@@ -1,0 +1,78 @@
+{
+  "search_date": "2026-04-19",
+  "search_time": "10:08",
+  "keywords": [
+    "深圳 大模型 实习 2026",
+    "深圳 大模型 春招 2026",
+    "深圳 LLM 实习 校招"
+  ],
+  "total_results": 5,
+  "jobs": [
+    {
+      "id": 1,
+      "title": "美团2026年LongCat大模型北斗实习计划",
+      "company": "美团",
+      "type": "实习",
+      "location": "深圳",
+      "url": "https://campus.niuqizp.com/job-v8y5ZnLNN.html",
+      "description": "美团2026届LongCat大模型北斗实习计划正式启动，聚焦大模型核心技术研发与应用落地，诚邀热爱AI、勇于创新的你加入我们。",
+      "requirements": "2026届应届本科生、硕士生、博士生",
+      "source": "牛企招聘",
+      "search_keyword": "深圳 大模型 实习 2026"
+    },
+    {
+      "id": 2,
+      "title": "香港中文大学（深圳）AI大模型实习生",
+      "company": "香港中文大学（深圳）",
+      "type": "实习",
+      "location": "深圳",
+      "url": "https://career.cuhk.edu.cn/job/view/id/467830",
+      "description": "主要参与边缘计算、AI大模型、机器人方向的技术探索与实践，整体偏软件与系统方向，包括AI大模型相关技术研究、实验与应用验证。",
+      "requirements": "计算机相关专业",
+      "source": "港中深就业中心",
+      "search_keyword": "深圳 大模型 实习 2026"
+    },
+    {
+      "id": 3,
+      "title": "Momenta 2026 Mstar顶尖人才计划-大模型算法工程师&实习生",
+      "company": "Momenta",
+      "type": "春招/实习",
+      "location": "深圳",
+      "url": "https://career.cic.tsinghua.edu.cn/xsglxt/f/jyxt/anony/showZwxx?zpxxid=541827528",
+      "description": "招聘方向包括端到端大模型算法工程师&实习生、训练推理优化工程师&实习生、4D重建算法工程师&实习生。",
+      "requirements": "Mstar将通过严格面试流程判定",
+      "source": "清华大学就业中心",
+      "search_keyword": "深圳 大模型 实习 2026"
+    },
+    {
+      "id": 4,
+      "title": "岚图2027、2026届校园招聘-大模型岗位",
+      "company": "岚图",
+      "type": "春招/实习",
+      "location": "深圳",
+      "url": "https://www.quanzhi.com/notice/69dd493daff1e32624f8a399",
+      "description": "27届暑期转正实习+26届春招岗位，技术、产品、商业分析、运营等多方向，含大模型基座、大模型应用岗位。",
+      "requirements": "2026届、2027届毕业生",
+      "source": "全职招聘网",
+      "search_keyword": "深圳 大模型 春招 2026"
+    },
+    {
+      "id": 5,
+      "title": "大模型数据产品实习生-小红书",
+      "company": "小红书",
+      "type": "实习",
+      "location": "深圳",
+      "url": "https://www.shixiseng.com/intern/inn_agqbdc9o26z4",
+      "description": "在大模型相关领域有具体的实践经验，例如基于coze等大模型平台搭建agent、prompt提示词工程、workflow搭建及调试等。",
+      "requirements": "具备一定编程基础，熟悉Python、SQL、JSON等相关语言及相关概念",
+      "source": "实习僧",
+      "search_keyword": "深圳 大模型 实习 2026"
+    }
+  ],
+  "summary": {
+    "实习岗位": 3,
+    "春招岗位": 2,
+    "深圳地区": 5,
+    "大模型相关": 5
+  }
+}
