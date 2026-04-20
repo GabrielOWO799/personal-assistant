@@ -1,0 +1,78 @@
+{
+  "search_date": "2026-04-20",
+  "search_time": "10:00",
+  "keywords": [
+    "深圳 大模型 实习 2026",
+    "深圳 大模型 春招 2026",
+    "深圳 LLM 实习 校招"
+  ],
+  "total_results": 5,
+  "jobs": [
+    {
+      "id": "1",
+      "title": "国联民生证券固定收益部暑期实习转正",
+      "type": "实习",
+      "company": "国联民生证券",
+      "location": "深圳",
+      "keywords": ["量化研究", "大模型", "实习"],
+      "url": "https://www.sohu.com/a/1011698562_121124209",
+      "description": "参与基本面量化建模，能独立完成从数据获取、数据清洗到构建因子和模型全流程工作",
+      "source": "搜狐",
+      "search_keyword": "深圳 LLM 实习 校招"
+    },
+    {
+      "id": "2",
+      "title": "恒致通创2026届校园招聘-大模型应用工程师",
+      "type": "校招",
+      "company": "恒致通创",
+      "location": "深圳/珠海/北京",
+      "keywords": ["大模型应用工程师", "校招", "2026届"],
+      "url": "https://www.quanzhi.com/notice/69e5236d99520e1e891b9eab",
+      "description": "招聘大模型应用工程师，面向2026届毕业生",
+      "source": "全职招聘网",
+      "search_keyword": "深圳 大模型 春招 2026"
+    },
+    {
+      "id": "3",
+      "title": "阿里巴巴战略分析实习生",
+      "type": "实习",
+      "company": "阿里巴巴",
+      "location": "深圳",
+      "keywords": ["战略分析", "实习生", "互联网"],
+      "url": "https://www.sohu.com/a/1011670675_121124005",
+      "description": "扫描国内外主要互联网电商细分行业及重点行业公司的前沿动态、探索新的商业模式及机会",
+      "source": "搜狐",
+      "search_keyword": "深圳 大模型 实习 2026"
+    },
+    {
+      "id": "4",
+      "title": "字节跳动前沿技术领域人才校招-技术岗位",
+      "type": "校招/实习",
+      "company": "字节跳动",
+      "location": "深圳/北京/上海",
+      "keywords": ["前沿技术", "校招", "实习", "大模型"],
+      "url": "https://www.hrloo.com/news/hr/hot",
+      "description": "启动'前沿技术领域人才校招'项目，开放全职、实习两类岗位，面向2027届及以后毕业的博士群体",
+      "source": "三茅人力资源网",
+      "search_keyword": "深圳 LLM 实习 校招"
+    },
+    {
+      "id": "5",
+      "title": "纳恩博(北京)科技2027暑期实习生招聘",
+      "type": "实习",
+      "company": "纳恩博(北京)科技",
+      "location": "深圳/珠海/北京",
+      "keywords": ["暑期实习", "2027届", "技术研发"],
+      "url": "https://www.quanzhi.com/notice/69e5236d99520e1e891b9eab",
+      "description": "招聘技术研发类、生产制造类、服务类、营销类、供应链类、产品类、质量类、职能类实习生",
+      "source": "全职招聘网",
+      "search_keyword": "深圳 大模型 春招 2026"
+    }
+  ],
+  "metadata": {
+    "task_name": "分布式搜索 - 大模型",
+    "job_id": "af11e098-969b-4ebf-baa0-08b74d291ffc",
+    "search_engines": ["duckduckgo"],
+    "unresponsive_engines": ["brave", "google", "startpage"]
+  }
+}

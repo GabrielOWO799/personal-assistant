@@ -1,0 +1,85 @@
+{
+  "search_date": "2026-04-20",
+  "search_keywords": [
+    "深圳 AI产品经理 实习 2026",
+    "深圳 AI产品经理 春招 2026",
+    "深圳 人工智能产品 实习 校招"
+  ],
+  "total_results": 4,
+  "jobs": [
+    {
+      "id": 1,
+      "title": "AI产品经理实习生",
+      "company": "深圳市今日投资数据科技有限公司",
+      "location": "深圳市",
+      "salary": "8K-12K/月",
+      "type": "校招/实习",
+      "source": "牛企直聘",
+      "url": "https://campus.niuqizp.com/job-vUY5Zn5ZC.html",
+      "publish_date": "2026年4月8日",
+      "description": "负责AI智能体开发平台产品和构建，对AI Agent深入了解，熟悉大模型B端应用场景及需求，设计并完善平台基础功能及场景解决方案产品。",
+      "requirements": [
+        "本科及以上",
+        "对AI Agent深入了解",
+        "熟悉大模型B端应用场景"
+      ],
+      "is_internship": true,
+      "is_campus": true
+    },
+    {
+      "id": 2,
+      "title": "产品经理（AI应用方向）",
+      "company": "小红书",
+      "location": "深圳（推测）",
+      "salary": "未明确",
+      "type": "实习",
+      "source": "小红书招聘",
+      "url": "https://hr.xiaohongshu.com/recommend/job-list/XHSRC-0f616d0e063f28a9b9740b39a50a8f3b",
+      "publish_date": "2026年4月",
+      "description": "27届实习-Product Engineer-产品工程师（AI应用产品经理方向）-质效研发",
+      "requirements": [
+        "27届在校生"
+      ],
+      "is_internship": true,
+      "is_campus": false
+    },
+    {
+      "id": 3,
+      "title": "AI产品经理实习生",
+      "company": "振与发",
+      "location": "深圳（推测）",
+      "salary": "未明确",
+      "type": "实习",
+      "source": "实习僧",
+      "url": "https://www.shixiseng.com/intern/inn_qe7r70spiwhd",
+      "publish_date": "2026年4月",
+      "description": "AI产品经理实习生招聘",
+      "requirements": [],
+      "is_internship": true,
+      "is_campus": false
+    },
+    {
+      "id": 4,
+      "title": "产品经理（可线下面试优先）",
+      "company": "贝奥利智能科技（深圳）有限公司",
+      "location": "深圳",
+      "salary": "6000-8000元/月",
+      "type": "校招",
+      "source": "海投校招",
+      "url": "https://m.haitou.cc/position/376391393/",
+      "publish_date": "2026年4月",
+      "description": "负责行业趋势分析及深度竞品调研",
+      "requirements": [],
+      "is_internship": false,
+      "is_campus": true
+    }
+  ],
+  "search_summary": {
+    "total_jobs_found": 4,
+    "internship_count": 3,
+    "campus_count": 2,
+    "shenzhen_focused": 4,
+    "ai_product_manager_count": 4
+  },
+  "note": "本次搜索主要发现AI产品经理相关实习/校招岗位，其中牛企直聘的'深圳市今日投资数据科技有限公司'岗位信息最完整，包含薪资和详细职责描述。"
+}

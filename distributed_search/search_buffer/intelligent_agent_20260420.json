@@ -1,0 +1,58 @@
+{
+  "search_date": "2026-04-20",
+  "search_keywords": [
+    "深圳 智能体 实习 2026",
+    "深圳 智能体 春招 2026",
+    "深圳 Multi-Agent 实习 校招"
+  ],
+  "total_results": 2,
+  "jobs": [
+    {
+      "id": "intelligent_agent_001",
+      "title": "阿里云智能集团2027届实习生",
+      "company": "阿里云智能集团",
+      "type": "实习",
+      "tags": ["实习", "2027届"],
+      "location": "不限",
+      "source": "香港中文大学（深圳）职业规划与发展处",
+      "source_url": "https://career.cuhk.edu.cn/job/view/id/467902",
+      "publish_date": "2026-04-20",
+      "deadline": "2026-05-29",
+      "description": "阿里云智能集团2027届实习生专列发车，招聘若干人，薪资面议",
+      "is_relevant": true,
+      "relevance_score": 0.7,
+      "search_keyword": "深圳 智能体 实习 2026"
+    },
+    {
+      "id": "intelligent_agent_002",
+      "title": "科研招聘 | 机器学习/智能体方向科研实习生",
+      "company": "始智AI wisemodel.cn",
+      "type": "实习",
+      "tags": ["实习", "科研", "机器学习", "智能体"],
+      "location": "未明确",
+      "source": "腾讯新闻",
+      "source_url": "https://news.qq.com/rain/a/20260419A06R2000",
+      "publish_date": "2026-04-19",
+      "deadline": "未明确",
+      "description": "机器学习/智能体方向科研实习生招聘，来自始智AI开源社区",
+      "is_relevant": true,
+      "relevance_score": 0.9,
+      "search_keyword": "深圳 智能体 春招 2026"
+    }
+  ],
+  "search_summary": {
+    "total_searches": 3,
+    "successful_searches": 2,
+    "failed_searches": 1,
+    "jobs_found": 2,
+    "relevant_jobs": 2,
+    "internship_count": 2,
+    "spring_recruitment_count": 0
+  },
+  "notes": [
+    "搜索关键词'深圳 Multi-Agent 实习 校招'返回结果为空（引擎限制）",
+    "找到2条相关实习岗位信息，均与AI智能体相关",
+    "阿里云实习岗位明确标注为2027届实习生",
+    "始智AI岗位明确为智能体方向科研实习"
+  ]
+}
