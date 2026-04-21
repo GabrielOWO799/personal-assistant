@@ -1,0 +1,86 @@
+{
+  "search_date": "2026-04-21",
+  "search_keywords": [
+    "深圳 大模型 实习 2026",
+    "深圳 大模型 春招 2026",
+    "深圳 LLM 实习 校招"
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "title": "字节跳动2026、2027届校园招聘 - 大模型应用/搜索/推荐/广告/计算机体系结构与系统优化",
+      "company": "字节跳动",
+      "type": "校招",
+      "location": "新加坡/成都/克罗地亚（非深圳，但含大模型相关岗位）",
+      "url": "https://www.quanzhi.com/notice/69e6565999520e1e891cec19",
+      "description": "面向2026、2027届应届生，招聘大模型应用/搜索/推荐/广告/计算机体系结构与系统优化，不限专业可投",
+      "source": "quanzhi.com",
+      "published_date": "2026-04-21",
+      "is_relevant": true,
+      "relevance_score": 0.9
+    },
+    {
+      "id": 2,
+      "title": "万兴科技Wonder Nova实习生招聘、2026届校招补录",
+      "company": "万兴科技",
+      "type": "实习/校招",
+      "location": "深圳",
+      "url": "https://news.qq.com/rain/a/20260420A06CMA00",
+      "description": "万兴科技聚焦Wonder Nova实习生招聘，2026届校招补录，同时携视频创意产品万兴喵影及一站式精品漫剧创作平台万兴剧场重磅登场",
+      "source": "腾讯新闻",
+      "published_date": "2026-04-20",
+      "is_relevant": true,
+      "relevance_score": 0.8
+    },
+    {
+      "id": 3,
+      "title": "中海油服26届春招（含深圳岗位）",
+      "company": "中海油服",
+      "type": "春招",
+      "location": "深圳/燕郊/天津/湛江/惠州/上海/海口/泉州/舟山",
+      "url": "https://campus.niuqizp.com/schedule-7r8l5ZLzN.html",
+      "description": "中海油服2026届春季校园招聘正式启动，面向2026届毕业生，学历要求本科及以上，深圳有岗位",
+      "source": "niuqizp.com",
+      "published_date": "2026-04-21",
+      "is_relevant": false,
+      "relevance_score": 0.3,
+      "note": "非大模型/AI相关岗位，主要为陆地科研工程师岗"
+    },
+    {
+      "id": 4,
+      "title": "融通基金管理有限公司26届春招2026校园招聘（含深圳岗位）",
+      "company": "融通基金",
+      "type": "春招",
+      "location": "深圳/香港",
+      "url": "https://campus.niuqizp.com/job-vrY5ZnCtL.html",
+      "description": "融通基金管理有限公司2026届春季校园招聘正式启动，招聘管培生，涉及投资研究、基金交易、销售、营销策划等多个岗位",
+      "source": "niuqizp.com",
+      "published_date": "2026-04-21",
+      "is_relevant": false,
+      "relevance_score": 0.2,
+      "note": "金融类岗位，非大模型/AI技术岗"
+    },
+    {
+      "id": 5,
+      "title": "西部数据2026校园招聘 春季焕新启动（含深圳岗位）",
+      "company": "西部数据",
+      "type": "校招",
+      "location": "上海/深圳",
+      "url": "https://job.xidian.edu.cn/campus/view/id/755926",
+      "description": "面向2024年7月-2026年6月毕业的国内外毕业生，招聘高级HDD系统应用工程师、高级磁记录研发测试等岗位",
+      "source": "xidian.edu.cn",
+      "published_date": "2026-04-21",
+      "is_relevant": false,
+      "relevance_score": 0.3,
+      "note": "存储技术类岗位，非大模型/AI相关"
+    }
+  ],
+  "summary": {
+    "total_jobs_found": 5,
+    "relevant_jobs": 2,
+    "internship_count": 1,
+    "campus_recruitment_count": 4,
+    "search_status": "completed",
+    "note": "大模型相关实习/校招岗位较少，仅字节跳动和万兴科技有大模型/AI相关岗位，其他为传统技术或金融岗位"
+  }
+}

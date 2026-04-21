@@ -1,0 +1,73 @@
+{
+  "search_date": "2026-04-21",
+  "search_time": "12:00",
+  "keywords": [
+    "深圳 Prompt Engineer 实习 2026",
+    "深圳 提示词工程师 实习 春招",
+    "深圳 Prompt 实习 校招"
+  ],
+  "total_results": 3,
+  "jobs": [
+    {
+      "id": 1,
+      "title": "AI工程师 (实习 2026) - Innovamind",
+      "company": "Innovamind",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://www.innovamind.cn/zh/careers/2",
+      "description": "计算机科学、人工智能或相关专业本科及以上学历。熟练掌握 Python 和 TypeScript，至少一门系统级语言（Rust / Go / C++）为加分项。乐于在创业团队氛围中快速成长，敢于跳出思维框架。有 AI Coding 产品（Cursor / Codex / Claude Code 等）的开发或深度使用经验。",
+      "requirements": [
+        "计算机科学、人工智能或相关专业本科及以上学历",
+        "熟练掌握 Python 和 TypeScript",
+        "有 AI Coding 产品（Cursor / Codex / Claude Code 等）的开发或深度使用经验",
+        "对开发者工具体态有深刻理解，本身就是重度 Power User"
+      ],
+      "source": "SearXNG",
+      "publish_date": "2026-04",
+      "is_target": true,
+      "target_reason": "AI工程师实习岗位，涉及AI Coding和Prompt相关技术"
+    },
+    {
+      "id": 2,
+      "title": "AI应用工程师 (CV & LLM方向) 实习 - 法雷奥",
+      "company": "法雷奥",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://www.shixiseng.com/intern/inn_vidonirdxqsc",
+      "description": "法雷奥AI应用工程师实习招聘，CV & LLM方向，包含岗位职责、任职要求、工作内容说明、薪资待遇等招聘信息。",
+      "requirements": [
+        "CV & LLM方向",
+        "AI应用工程师"
+      ],
+      "source": "SearXNG",
+      "publish_date": "2026-04",
+      "is_target": true,
+      "target_reason": "AI应用工程师实习，LLM方向涉及Prompt工程"
+    },
+    {
+      "id": 3,
+      "title": "AI效果编排工程师 - AI教育初创团队",
+      "company": "AI教育初创团队",
+      "location": "未明确（可能深圳）",
+      "type": "全职/实习/兼职",
+      "url": "https://zhuanlan.zhihu.com/p/2027136879926027161",
+      "description": "Agent/skills设计、prompt工程。AI一线实践。团队核心成员来自字节、VIPKID，创始人负责AI产品全流程0-1。",
+      "requirements": [
+        "Agent/skills设计",
+        "prompt工程",
+        "AI一线实践"
+      ],
+      "source": "SearXNG",
+      "publish_date": "2026-04-13",
+      "is_target": true,
+      "target_reason": "明确提到prompt工程岗位"
+    }
+  ],
+  "summary": {
+    "total_found": 3,
+    "internship_count": 2,
+    "spring_recruitment_count": 0,
+    "target_jobs_count": 3,
+    "search_status": "completed"
+  }
+}

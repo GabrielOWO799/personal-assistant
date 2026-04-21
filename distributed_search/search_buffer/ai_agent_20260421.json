@@ -1,0 +1,82 @@
+{
+  "search_date": "2026-04-21",
+  "search_keywords": [
+    "深圳 AI Agent 实习 2026",
+    "深圳 AI Agent 春招 2026",
+    "深圳 智能体 实习 校招"
+  ],
+  "total_results": 5,
+  "jobs": [
+    {
+      "id": 1,
+      "title": "网易游戏27届实习-游戏研发引擎AI岗位",
+      "company": "网易游戏",
+      "type": "实习",
+      "location": "未明确（可能多地）",
+      "keywords": ["实习", "AI", "Agent", "游戏引擎"],
+      "url": "https://campus.niuqizp.com/job-vUr5ZnC5C.html",
+      "source": "牛企直聘",
+      "description": "游戏研发引擎AI岗位，包含AI、Agent研发工程师、AI游戏玩法工程师等方向",
+      "posted_date": null,
+      "match_score": 0.9
+    },
+    {
+      "id": 2,
+      "title": "OPPO 2027届暑期实习-高级AI研究员（AI智能体）",
+      "company": "OPPO",
+      "type": "实习",
+      "location": "深圳/上海/东莞/南京/北京/成都",
+      "keywords": ["实习", "AI智能体", "博士", "2027届"],
+      "url": "https://www.quanzhi.com/notice/69e684d899520e1e891d115f",
+      "source": "全职招聘网",
+      "description": "OPPO 2027届暑期实习热招，高级AI研究员（AI智能体）方向，面向博士毕业生",
+      "posted_date": null,
+      "match_score": 0.95
+    },
+    {
+      "id": 3,
+      "title": "近期实习招聘信息汇总-AI Agent开发实习生",
+      "company": "未明确",
+      "type": "实习",
+      "location": "上海、安徽合肥",
+      "keywords": ["实习", "AI Agent", "多模态大模型"],
+      "url": "https://www.sohu.com/a/1012102836_121124217",
+      "source": "搜狐",
+      "description": "招聘需求包括多模态大模型算法实习生、AI前沿研究实习生、AI Agent开发实习生等",
+      "posted_date": null,
+      "match_score": 0.85
+    },
+    {
+      "id": 4,
+      "title": "西部数据2026校园招聘-实习岗位（AI方向）",
+      "company": "西部数据",
+      "type": "实习",
+      "location": "上海/深圳",
+      "keywords": ["实习", "AI", "2026届", "校招"],
+      "url": "https://job.xidian.edu.cn/campus/view/id/755926",
+      "source": "西安电子科技大学就业网",
+      "description": "实习机会面向2026&2027届应届生，包含AI方向的实习岗位",
+      "posted_date": null,
+      "match_score": 0.8
+    },
+    {
+      "id": 5,
+      "title": "OPPO 2027届寻梦实习-高级AI研究员（AI多模态智能体）",
+      "company": "OPPO",
+      "type": "实习",
+      "location": "深圳/上海/东莞/南京/北京/成都",
+      "keywords": ["实习", "AI多模态智能体", "博士", "2027届"],
+      "url": "https://www.quanzhi.com/notice/69e6749c99520e1e891d041e",
+      "source": "全职招聘网",
+      "description": "OPPO 2027届寻梦实习热招，高级AI研究员（AI多模态智能体）方向，提前实习可答辩转录用",
+      "posted_date": null,
+      "match_score": 0.95
+    }
+  ],
+  "search_metadata": {
+    "engines_used": ["duckduckgo"],
+    "unresponsive_engines": ["brave", "google", "startpage"],
+    "time_range": "day",
+    "timestamp": "2026-04-21T09:10:00+08:00"
+  }
+}
