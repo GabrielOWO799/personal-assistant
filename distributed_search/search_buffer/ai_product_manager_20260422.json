@@ -1,0 +1,57 @@
+{
+  "search_date": "2026-04-22",
+  "search_time": "13:00",
+  "keywords": [
+    "深圳 AI产品经理 实习 2026",
+    "深圳 AI产品经理 春招 2026",
+    "深圳 人工智能产品 实习 校招"
+  ],
+  "total_results": 3,
+  "jobs": [
+    {
+      "id": "apm_001",
+      "title": "壹账通金融科技有限公司 - 产品经理等岗位",
+      "company": "壹账通金融科技有限公司",
+      "location": "深圳",
+      "job_type": "校招",
+      "category": "产品类",
+      "description": "招聘业务类、产品类、科技类、职能类岗位，产品类包括项目经理、产品经理等职位",
+      "url": "https://www.yingjiesheng.com/job-007-954-569.html",
+      "source": "应届生求职网",
+      "post_date": "2026-04-22",
+      "match_score": 0.8
+    },
+    {
+      "id": "apm_002",
+      "title": "阿里巴巴灵犀互娱 - 2026校招/2027实习",
+      "company": "深圳市灵犀洞察科技有限公司（阿里巴巴灵犀互娱）",
+      "location": "深圳",
+      "job_type": "校招/实习",
+      "category": "AI产品/游戏",
+      "description": "阿里巴巴集团旗下核心AI大模型与智能交互业务主体，聚焦通用大模型、多模态理解、智能助手、产业AI应用等方向研发。2026届校招和2027届实习生招聘正式启动",
+      "url": "https://s.niuqizp.com/s_campus_深圳市灵犀洞察科技有限公司/",
+      "source": "牛企直聘",
+      "post_date": "2026-04-22",
+      "match_score": 0.9
+    },
+    {
+      "id": "apm_003",
+      "title": "字节跳动 - 前沿技术领域人才校招",
+      "company": "字节跳动",
+      "location": "深圳",
+      "job_type": "校招/实习",
+      "category": "技术/产品",
+      "description": "启动'前沿技术领域人才校招'项目，开放全职、实习两类岗位，面向2027届及以后毕业的博士生群体。工作地点覆盖北京、上海、深圳、杭州、成都等国内城市",
+      "url": "https://www.hrloo.com/news/hr/hot",
+      "source": "三茅人力资源网",
+      "post_date": "2026-04-22",
+      "match_score": 0.7
+    }
+  ],
+  "search_metadata": {
+    "engines_used": ["duckduckgo"],
+    "unresponsive_engines": ["brave", "google", "startpage"],
+    "time_range": "day",
+    "notes": "搜索结果以行业资讯和招聘平台汇总为主，直接针对'AI产品经理+深圳+实习/校招'的具体岗位信息较少"
+  }
+}

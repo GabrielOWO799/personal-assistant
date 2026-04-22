@@ -1,0 +1,87 @@
+{
+  "search_date": "2026-04-22",
+  "search_time": "09:06",
+  "keywords": [
+    "深圳 AI Agent 实习 2026",
+    "深圳 AI Agent 春招 2026",
+    "深圳 智能体 实习 校招"
+  ],
+  "total_results": 5,
+  "jobs": [
+    {
+      "id": 1,
+      "title": "华润信托-AI产品经理实习生",
+      "company": "华润信托",
+      "type": "实习",
+      "location": "深圳",
+      "source": "香港中文大学（深圳）职业规划与发展处",
+      "source_url": "https://career.cuhk.edu.cn/job/view/id/467960",
+      "description": "协助完成AI产品（如Agent助手、AIGC工具等）的需求调研、功能设计与迭代推进；深入理解大模型能力边界，结合用户场景制定产品方案；跟进产品开发",
+      "keywords": ["AI产品经理", "Agent助手", "AIGC", "大模型"],
+      "published_date": null,
+      "is_internship": true,
+      "is_spring_recruitment": false
+    },
+    {
+      "id": 2,
+      "title": "美图2026暑期实习生-AI应用&Agent产品增长&运营方向",
+      "company": "美图",
+      "type": "暑期实习",
+      "location": "深圳/厦门/北京/悉尼",
+      "source": "超级简历WonderCV",
+      "source_url": "https://www.wondercv.com/xiaozhao/meitu-2026-summer-intern-5438-79d6e2/",
+      "description": "面向2027届毕业生，提供算法、AI应用、产品、运营、开发、设计及分析等岗位，工作地点覆盖厦门、北京、深圳及悉尼",
+      "keywords": ["AI应用", "Agent产品", "暑期实习", "2026"],
+      "published_date": null,
+      "is_internship": true,
+      "is_spring_recruitment": false
+    },
+    {
+      "id": 3,
+      "title": "深圳电池储能制造业-AI Agent搭建实习生",
+      "company": "深圳电池储能制造业公司",
+      "type": "实习/校招",
+      "location": "深圳",
+      "source": "LINUX DO社区",
+      "source_url": "https://linux.do/t/topic/1979251",
+      "description": "负责企业与机器相关的Agent搭建，故障分析Agent相关的工作，21k，社保最低基数，公积金5%，工作时间9:30-20:30，包吃包住（4人间）",
+      "keywords": ["Agent搭建", "故障分析", "制造业", "储能"],
+      "published_date": null,
+      "is_internship": true,
+      "is_spring_recruitment": true
+    },
+    {
+      "id": 4,
+      "title": "具身智能AI初创公司-Research Engineer实习生",
+      "company": "具身智能AI初创公司",
+      "type": "实习/全职",
+      "location": "北京（Base），深圳可关注",
+      "source": "北大未名BBS",
+      "source_url": "https://bbs.pku.edu.cn/v2/post-read-single.php?bid=896&postid=28353984",
+      "description": "专注Embodied AI（具身智能）的国际化初创团队，方向覆盖Data Flywheel × Foundation Model × Deployment全链路。团队来自Stanford/MIT/UCB/PKU/THU + Google/NVIDIA/Meta/Amazon等一线背景，已完成近亿元融资",
+      "keywords": ["具身智能", "Embodied AI", "Foundation Model", "Research Engineer"],
+      "published_date": null,
+      "is_internship": true,
+      "is_spring_recruitment": false
+    },
+    {
+      "id": 5,
+      "title": "科研招聘-机器学习/智能体方向科研实习生",
+      "company": "始智AI wisemodel.cn",
+      "type": "科研实习",
+      "location": "深圳",
+      "source": "腾讯新闻",
+      "source_url": "https://news.qq.com/rain/a/20260419A06R2000",
+      "description": "机器学习/智能体方向科研实习生招聘，始智AI wisemodel.cn社区是源自中国的中立开放的AI开源社区",
+      "keywords": ["机器学习", "智能体", "科研实习"],
+      "published_date": "2026-04-19",
+      "is_internship": true,
+      "is_spring_recruitment": false
+    }
+  ],
+  "search_metadata": {
+    "engines_used": ["brave", "duckduckgo"],
+    "unresponsive_engines": ["google", "startpage"],
+    "time_range": "week"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "search_date": "2026-04-22",
+  "search_time": "10:00",
+  "keywords": [
+    "深圳 大模型 实习 2026",
+    "深圳 大模型 春招 2026",
+    "深圳 LLM 实习 校招"
+  ],
+  "total_results": 5,
+  "jobs": [
+    {
+      "id": 1,
+      "title": "字节跳动前沿技术领域人才校招 - 大模型应用方向",
+      "company": "字节跳动",
+      "type": "校招/实习",
+      "location": "深圳",
+      "keywords": ["大模型应用", "搜索/推荐/广告", "计算机体系结构与系统优化", "安全/AI Safety", "AI Coding", "AIGC", "视频架构"],
+      "source": "全职招聘网",
+      "url": "https://www.quanzhi.com/notice/69e7e49a99520e1e891eeb37",
+      "description": "字节跳动前沿技术领域人才校园招聘，面向大模型应用、搜索/推荐/广告、计算机体系结构与系统优化、安全/AI Safety、硬件、AI Coding、AIGC、视频架构、AI for Science等方向",
+      "published_date": "2026-04-21"
+    },
+    {
+      "id": 2,
+      "title": "理想汽车基座模型团队世界模型/具身智能算法实习",
+      "company": "理想汽车",
+      "type": "实习",
+      "location": "深圳/北京/上海",
+      "keywords": ["世界模型", "具身智能", "大模型", "算法实习"],
+      "source": "超级简历",
+      "url": "https://www.wondercv.com/blog/ipneujLN.html",
+      "description": "理想汽车基座模型团队开放世界模型、具身智能算法实习，市场顶配+校招直通。适合2026届及以后本科及以上在读生",
+      "published_date": "2026-04-21"
+    },
+    {
+      "id": 3,
+      "title": "万兴科技Wonder Nova实习生招聘 - AIGC创意软件方向",
+      "company": "万兴科技",
+      "type": "实习",
+      "location": "深圳",
+      "keywords": ["AIGC", "视频创意产品", "万兴喵影", "漫剧创作平台"],
+      "source": "网易新闻",
+      "url": "https://www.163.com/dy/article/KR25J60I0530QRMB.html",
+      "description": "万兴科技聚焦Wonder Nova实习生招聘，2026届校招补录，同时携视频创意产品万兴喵影及一站式精品漫剧创作平台万兴剧场登场，展示企业在人才引进与AIGC创意软件领域的最新战略布局",
+      "published_date": "2026-04-21"
+    },
+    {
+      "id": 4,
+      "title": "基恩士2027届校园招聘 - 大模型推理开发工程师",
+      "company": "基恩士",
+      "type": "校招/实习",
+      "location": "深圳/武汉/成都/南京/上海/广州",
+      "keywords": ["大模型推理开发工程师", "SOC设计工程师", "GPGPU设计工程师", "高性能计算库开发"],
+      "source": "全职招聘网",
+      "url": "https://www.quanzhi.com/notice/69e7c3dc99520e1e891ec422",
+      "description": "基恩士行云集成电路2027届实习生&校园招聘正式启动，岗位包括SOC设计工程师、GPGPU设计工程师、验证工程师、大模型推理开发工程师、高性能计算库开发工程师等",
+      "published_date": "2026-04-21"
+    },
+    {
+      "id": 5,
+      "title": "阿里巴巴灵犀互娱2027届实习生招聘 - 大模型相关岗位",
+      "company": "阿里巴巴灵犀互娱",
+      "type": "实习",
+      "location": "深圳/广州",
+      "keywords": ["大模型", "游戏", "AI应用"],
+      "source": "牛企直聘",
+      "url": "https://s.niuqizp.com/s_campus_%E7%81%B5%E7%8A%80%E4%BA%92%E5%A8%B1%E6%8B%9B%E8%81%98%E5%AE%98%E7%BD%91/",
+      "description": "阿里巴巴灵犀互娱2027届实习生招聘正式启动，包含大模型相关技术岗位",
+      "published_date": "2026-04-22"
+    }
+  ],
+  "search_metadata": {
+    "engines_used": ["duckduckgo"],
+    "unresponsive_engines": ["brave", "google", "startpage"],
+    "time_range": "day",
+    "notes": "搜索结果以春招和实习岗位为主，涵盖字节跳动、理想汽车、万兴科技、基恩士、阿里巴巴等知名企业的AI大模型相关岗位"
+  }
+}
