@@ -1,0 +1,57 @@
+{
+  "search_date": "2026-04-23",
+  "keywords": [
+    "深圳 Prompt Engineer 实习 2026",
+    "深圳 提示词工程师 实习 春招",
+    "深圳 Prompt 实习 校招"
+  ],
+  "jobs": [
+    {
+      "title": "津渡生科招聘大模型应用开发实习生",
+      "company": "津渡生科",
+      "location": "深圳",
+      "type": "实习",
+      "url": "https://bbs.pku.edu.cn/v2/post-read.php?bid=896&threadid=19004212",
+      "requirements": "计算机科学、软件工程、人工智能等相关专业硕士及以上在读学生，2026届及以后毕业优先。精通Python，具备扎实的数据结构、算法与软件工程基础。有基于LLM的应用开发实践经验（如智能体、AI助手、Copilot等），了解主流LLM应用框架（如LangChain、LlamaIndex、Semantic...）",
+      "source": "北大BBS"
+    },
+    {
+      "title": "阿里巴巴AI编程工具重度玩家实习生",
+      "company": "阿里巴巴",
+      "location": "深圳",
+      "type": "校招/实习",
+      "url": "https://campus-talent.alibaba.com/campus/position/199904200009",
+      "requirements": "AI编程工具重度玩家：Cursor、Claude code等AI编程工具重度或顶级玩家，具备极强的Prompt编写与调优能力，有过完整的项目级开发经验，理解如何让AI写出生产级代码",
+      "source": "阿里巴巴校招"
+    },
+    {
+      "title": "深圳正浩创新供应链计划实习生",
+      "company": "深圳市正浩创新科技股份有限公司",
+      "location": "深圳",
+      "type": "校招实习",
+      "url": "https://www.shixiseng.com/intern/inn_okm4s0udghhe",
+      "requirements": "供应链计划实习生，校招实习岗位",
+      "source": "实习僧"
+    },
+    {
+      "title": "深圳技术大学2026年春季就业双选会",
+      "company": "深圳技术大学",
+      "location": "深圳",
+      "type": "春招/实习专场",
+      "url": "https://ceie.szu.edu.cn/info/1058/6022.htm",
+      "requirements": "2026年春季就业实习专场招聘会，汇聚150余家优质企业，释放4000余个热门岗位，兼顾全职与实习岗位需求",
+      "source": "深圳大学"
+    },
+    {
+      "title": "Fastlane 2026春招 - 深圳技术岗",
+      "company": "Fastlane",
+      "location": "深圳",
+      "type": "春招",
+      "url": "https://upcv.tech/jianlixiezuo/2046.html",
+      "requirements": "Fastlane 2026春招开启，深圳技术岗月薪高达20K，且部分岗位不限专业。AI与通信结合的业务方向",
+      "source": "UP简历"
+    }
+  ],
+  "total_found": 5,
+  "notes": "搜索发现深圳地区Prompt Engineer相关实习/校招岗位较少，多为AI应用开发或提示词相关技能要求的岗位。已筛选出5条符合条件的实习/春招岗位信息。"
+}

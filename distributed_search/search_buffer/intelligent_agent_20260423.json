@@ -1,0 +1,59 @@
+{
+  "search_date": "2026-04-23",
+  "search_keywords": [
+    "深圳 智能体 实习 2026",
+    "深圳 智能体 春招 2026",
+    "深圳 Multi-Agent 实习 校招"
+  ],
+  "total_results": 3,
+  "jobs": [
+    {
+      "id": "1",
+      "title": "【实习招聘】OPPO广东移动通信有限公司2026届实习招聘",
+      "company": "OPPO广东移动通信有限公司",
+      "type": "实习",
+      "location": "深圳/东莞",
+      "keywords": ["实习", "2026届", "AIOps"],
+      "url": "https://www.sohu.com/a/1013089939_121124036",
+      "description": "2027届寻梦实习计划项目亮点:答辩-转录用，提前锁定校招OFFER高级影像算法工程师-博士|深圳高级底层软件工程师-博士(AI方向)|深圳",
+      "source": "搜狐",
+      "search_query": "深圳 智能体 实习 2026"
+    },
+    {
+      "id": "2",
+      "title": "2026深圳AI课程培训报名入口",
+      "company": "深圳本地宝",
+      "type": "培训",
+      "location": "深圳",
+      "keywords": ["AI智能体应用工程师", "AIGC应用工程师"],
+      "url": "https://sz.bendibao.com/news/2026422/1000363.htm",
+      "description": "提供人工智能训练师、AI智能体应用工程师、AIGC应用工程师、AI+职场办公等多个培训项目，支持零基础学习。",
+      "source": "本地宝",
+      "search_query": "深圳 智能体 春招 2026"
+    },
+    {
+      "id": "3",
+      "title": ""助理电商运营专员"校招日历职位",
+      "company": "CF Handels, 阅星曈, 中乔体育, 渝欧跨境",
+      "type": "校招",
+      "location": "深圳市龙华区",
+      "keywords": ["校招", "2026", "战略分析实习生"],
+      "url": "https://s.niuqizp.com/j_schedule_%E2%80%9C%E5%8A%A9%E7%90%86%E7%94%B5%E5%95%86%E8%BF%90%E8%90%A5%E4%B8%93%E5%91%98%E2%80%9C/?ur=article",
+      "description": "核心团队由名校学霸带队，前大厂实战派手把手带教。热招岗位：海外电商运营助理、国内电商运营助理、海外社媒运营、电商平台用户运营、采购助理、测试工程师、战略分析实习生。工作地点：深圳市龙华区。网申时间：2026年4月15日至5月31日。",
+      "source": "牛气招聘",
+      "search_query": "深圳 智能体 春招 2026"
+    }
+  ],
+  "notes": [
+    "搜索结果中直接匹配的智能体/Agent相关实习/校招岗位较少",
+    "大部分结果为行业新闻、展会信息、技术文章",
+    "建议扩大搜索范围至AI/大模型相关岗位",
+    "可考虑搜索：AI产品经理实习、大模型算法实习、AIGC实习等关键词"
+  ],
+  "search_metadata": {
+    "engines_used": ["duckduckgo"],
+    "unresponsive_engines": ["brave", "google", "startpage"],
+    "time_range": "day",
+    "timestamp": "2026-04-23T11:00:00+08:00"
+  }
+}

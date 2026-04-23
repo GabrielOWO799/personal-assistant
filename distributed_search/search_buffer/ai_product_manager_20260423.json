@@ -1,0 +1,56 @@
+{
+  "search_date": "2026-04-23",
+  "search_time": "13:00",
+  "keywords": [
+    "深圳 AI产品经理 实习 2026",
+    "深圳 AI产品经理 春招 2026",
+    "深圳 人工智能产品 实习 校招"
+  ],
+  "results_count": 3,
+  "jobs": [
+    {
+      "id": 1,
+      "title": "海辰储能3000实习 - AI产品经理",
+      "company": "海辰储能",
+      "location": "深圳",
+      "type": "实习",
+      "source": "牛企直聘",
+      "url": "https://campus.niuqizp.com/schedule-7krr5ZNzL.html",
+      "description": "2026春招招聘校园招聘简章，包含AI产品经理岗位",
+      "search_keyword": "深圳 AI产品经理 实习 2026",
+      "extracted_at": "2026-04-23T13:00:00+08:00"
+    },
+    {
+      "id": 2,
+      "title": "Base深圳海辰储能诚邀伯乐 - AI产品经理",
+      "company": "海辰储能",
+      "location": "深圳",
+      "type": "校招",
+      "source": "牛企直聘",
+      "url": "https://campus.niuqizp.com/job-vry5ZM5Lt.html",
+      "description": "2026校园招聘职位，推荐入职奖金3000-5000元，包含AI产品经理岗位",
+      "search_keyword": "深圳 AI产品经理 春招 2026",
+      "extracted_at": "2026-04-23T13:00:00+08:00"
+    },
+    {
+      "id": 3,
+      "title": "凌云光招聘日常实习2026校园招聘",
+      "company": "凌云光",
+      "location": "深圳",
+      "type": "实习/校招",
+      "source": "牛企直聘",
+      "url": "https://campus.niuqizp.com/job-vr85ZM55a.html",
+      "description": "2027届实习生专项招聘启动，机器嵌入眼睛和大脑，面向2027届毕业生推出实习生专项招聘，全周期导师带教、视觉行业顶尖平台支持、多方向岗位选择，高比例转正通道，实习优秀者可直接获得27届校招正式offer",
+      "search_keyword": "深圳 人工智能产品 实习 校招",
+      "extracted_at": "2026-04-23T13:00:00+08:00"
+    }
+  ],
+  "summary": {
+    "total_jobs": 3,
+    "internship_count": 2,
+    "campus_count": 2,
+    "companies": ["海辰储能", "凌云光"],
+    "search_engines": ["duckduckgo"],
+    "unresponsive_engines": ["brave", "google", "startpage"]
+  }
+}
