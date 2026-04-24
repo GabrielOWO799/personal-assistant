@@ -1,0 +1,72 @@
+{
+  "search_date": "2026-04-24",
+  "search_keywords": [
+    "深圳 Prompt Engineer 实习 2026",
+    "深圳 提示词工程师 实习 春招",
+    "深圳 Prompt 实习 校招"
+  ],
+  "total_results": 5,
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Prompt Engineer实习生",
+      "company": "双喵科技",
+      "location": "深圳",
+      "type": "实习",
+      "source": "实习僧",
+      "url": "https://www.shixiseng.com/intern/inn_hndhjgrmfnbh",
+      "description": "参与对话类AI系统相关的Prompt设计与优化，提升模型在复杂场景下的回答效果与稳定性；根据业务需求进行测试调优与效果分析。负责对话数据及多模态数据的收集、清洗与结构化处理，从数据中分析出有价值且值得优化的应用场景。",
+      "publish_date": "未知",
+      "is_relevant": true
+    },
+    {
+      "id": 2,
+      "title": "【25实习】Prompt Engineer实习生 (J10935)",
+      "company": "中科闻歌",
+      "location": "深圳/北京",
+      "type": "实习",
+      "source": "牛客网",
+      "url": "https://www.nowcoder.com/jobs/detail/334416",
+      "description": "2025最新招聘求职信息，薪资：250-400",
+      "publish_date": "2025年",
+      "is_relevant": true
+    },
+    {
+      "id": 3,
+      "title": "提示词工程师 / Prompt Engineer",
+      "company": "暨创传媒",
+      "location": "深圳",
+      "type": "实习",
+      "source": "得早学就创",
+      "url": "https://www.deizao.com.cn/index/index/shixixq/jobid/66803",
+      "description": "流程标准化：制定公司内部的Prompt撰写规范与评估标准，培训并指导初级训练师如何写好Prompt。任职要求：硬性技能：提示词工程经验：熟悉主流大模型（如GPT系列、Claude、LLaMA、DeepSeek等）的\"脾气\"和特性，能针对不同模型进行风格迥异的Prompt设计。",
+      "publish_date": "未知",
+      "is_relevant": true
+    },
+    {
+      "id": 4,
+      "title": "Prompt工程师（实习）",
+      "company": "竹智科技",
+      "location": "深圳",
+      "type": "实习",
+      "source": "BOSS直聘",
+      "url": "https://www.zhipin.com/job_detail/43042c0ded2a3b2a1HN52d2-EVRY.html",
+      "description": "2026年Prompt工程师（实习）前景待遇信息",
+      "publish_date": "2026年",
+      "is_relevant": true
+    },
+    {
+      "id": 5,
+      "title": "AI提示词工程师",
+      "company": "佰钧成",
+      "location": "深圳",
+      "type": "实习",
+      "source": "得早学就创",
+      "url": "https://www.deizao.cn/index/index/shixixq/jobid/94606",
+      "description": "参与大语言模型(LLM)应用场景下的提示词(Prompt)设计、测试与优化；针对内容生成、智能客服、数据分析、RAG系统等业务场景，构建高效、鲁棒的提示模板。分析模型输出结果，持续迭代优化提示策略，提升AI响应的准确性、一致性与...",
+      "publish_date": "未知",
+      "is_relevant": true
+    }
+  ],
+  "note": "本次搜索共找到5条深圳地区Prompt Engineer/提示词工程师相关实习岗位信息"
+}

@@ -1,0 +1,39 @@
+{
+  "search_date": "2026-04-24",
+  "search_time": "09:13",
+  "keywords": [
+    "深圳 AI Agent 实习 2026",
+    "深圳 AI Agent 春招 2026",
+    "深圳 智能体 实习 校招",
+    "AI Agent 实习",
+    "AI Agent 春招",
+    "智能体实习",
+    "AI实习校招",
+    "2026校招",
+    "2026春招",
+    "Agent实习",
+    "AI research intern 2026",
+    "AI internship 2026",
+    "machine learning intern",
+    "OpenAI intern",
+    "Anthropic intern",
+    "Google AI intern",
+    "Meta AI intern",
+    "字节跳动 AI 实习",
+    "腾讯 AI 实习",
+    "阿里 AI 实习"
+  ],
+  "results_count": 0,
+  "jobs": [],
+  "search_status": "completed",
+  "note": "SearXNG搜索引擎当前大部分引擎不可用（brave被暂停、duckduckgo需要CAPTCHA、google访问被拒绝等），仅bing引擎可用。搜索结果主要为新闻和一般信息，未找到符合筛选条件的实习或春招岗位信息。",
+  "engines_status": {
+    "bing": "available",
+    "brave": "suspended - too many requests",
+    "duckduckgo": "CAPTCHA required",
+    "google": "suspended - access denied",
+    "startpage": "suspended - CAPTCHA",
+    "wikidata": "suspended - too many requests",
+    "wikipedia": "suspended - too many requests"
+  }
+}

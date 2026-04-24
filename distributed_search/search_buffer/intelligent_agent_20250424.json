@@ -1,0 +1,69 @@
+{
+  "search_date": "2025-04-24",
+  "keywords": [
+    "深圳 智能体 实习 2026",
+    "深圳 智能体 春招 2026",
+    "深圳 Multi-Agent 实习 校招",
+    "深圳 Agent 实习 校招",
+    "深圳 AI 智能体 实习生"
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "title": "AI智能体开发实习生",
+      "company": "字节跳动",
+      "location": "深圳",
+      "type": "实习",
+      "source": "BOSS直聘",
+      "url": "https://www.zhipin.com/job_detail/f94a5caca75cd69a0nRy0tW1FlBX.html",
+      "description": "字节跳动AI智能体开发实习生招聘，要求在校/应届，本科学历，福利包括就近租房补贴、年度体检、免费健身设施、家庭关爱假、家属自选保险、住房补贴、团建聚餐、餐补、带薪年假、股票期权、绩效奖金、年终奖、定期体检、意外险等",
+      "keywords_matched": ["智能体", "实习", "深圳"]
+    },
+    {
+      "id": 2,
+      "title": "智能体研发工程师（实习）",
+      "company": "vivo",
+      "location": "深圳-vivo AI系统中心",
+      "type": "实习",
+      "source": "牛客网",
+      "url": "https://www.nowcoder.com/jobs/detail/433215",
+      "description": "智能体研发工程师（实习）招聘启事，实习地点及部门：深圳-vivo AI系统中心，实习时长：3个月及以上，每周可实习5天，面向人群：计算机、软件工程、人工智能、自动化，应用数学等相关专业在校生",
+      "keywords_matched": ["智能体", "实习", "深圳"]
+    },
+    {
+      "id": 3,
+      "title": "腾讯 Robotics X（深圳）实习岗位招聘 - 具身智能、视觉语言模型（VLM）和多模态智能体（Agent）",
+      "company": "腾讯",
+      "location": "深圳",
+      "type": "实习",
+      "source": "北大未名BBS",
+      "url": "https://bbs.pku.edu.cn/v2/post-read.php?bid=322&threadid=18939753",
+      "description": "正在招募实习生，参与具身智能、视觉语言模型（VLM）和多模态智能体（Agent）相关研究项目。工作职责包括参与视觉语言模型（VLM）在具身智能体中的训练与优化，提升其在感知、理解与任务执行中的能力；构建与处理多模态数据（图像、视频、语言、动作等），支持模型训练与评估",
+      "keywords_matched": ["智能体", "Agent", "实习", "深圳"]
+    },
+    {
+      "id": 4,
+      "title": "AI开发/智能体应用实习生",
+      "company": "弘毅投资",
+      "location": "深圳",
+      "type": "实习",
+      "source": "LinkedIn/实习僧",
+      "url": "https://cn.linkedin.com/jobs/view/ai%E5%BC%80%E5%8F%91-%E6%99%BA%E8%83%BD%E4%BD%93%E5%BA%94%E7%94%A8%E5%AE%9E%E4%B9%A0%E7%94%9F-a80727-at-hony-capital-4389056518",
+      "description": "岗位职责：1. 自动化脚本开发：承接运营侧的自动化需求，独立编写 Python 自动化脚本，高效完成业务流程自动化；2. 智能体部署与培养：协助完成 OpenClaw...",
+      "keywords_matched": ["智能体", "实习", "深圳"]
+    },
+    {
+      "id": 5,
+      "title": "AI多智能体算法实习生",
+      "company": "艾氪智能",
+      "location": "深圳",
+      "type": "实习",
+      "source": "猎聘",
+      "url": "https://www.liepin.com/job/1977352627.shtml",
+      "description": "艾氪智能深圳招聘AI多智能体算法实习生岗位，薪资15-25k，艾氪智能公司规模500-999人，岗位要求硕士学历，1年以下相关经验",
+      "keywords_matched": ["智能体", "实习", "深圳"]
+    }
+  ],
+  "total_found": 5,
+  "search_summary": "本次搜索共找到5条深圳地区智能体相关实习岗位，涵盖字节跳动、vivo、腾讯、弘毅投资、艾氪智能等知名企业，岗位类型均为实习，符合筛选要求。"
+}
